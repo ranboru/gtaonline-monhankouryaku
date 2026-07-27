@@ -16,33 +16,30 @@
                 width: 100%;
             }
         }
-        /* --- ここから追加・変更したスタイル --- */
         #wiki-menu {
             font-family: monospace, sans-serif;
             font-size: 13px;
             line-height: 1.6;
         }
         #wiki-menu a {
-            color: #3b82f6; /* Wiki風の青リンク */
+            color: #3b82f6;
             text-decoration: none;
         }
         #wiki-menu a:hover {
             text-decoration: underline;
             color: #ef4444;
         }
-        /* 画像のような緑色の見出し */
         .wiki-category-title {
             color: #22c55e;
             font-weight: bold;
             margin-top: 10px;
             margin-bottom: 4px;
         }
-        /* --- ここまで --- */
     </style>
 </head>
 <body class="bg-gray-100 text-gray-900 font-sans min-h-screen flex flex-col">
 
-<!-- ヘッダーの中にスマホ用メニューボタンを追加する例 -->
+<!-- ヘッダー -->
 <header class="bg-gray-800 text-white p-4 shadow-md flex justify-between items-center">
     <div>
         <h1 class="text-xl md:text-3xl font-bold tracking-tight">GTA & MH Wilds Wiki</h1>
@@ -55,49 +52,52 @@
     </button>
 </header>
 
-    <!-- メインコンテンツ領域 -->
-    <div class="flex flex-col md:flex-row flex-grow">
+<!-- メインコンテンツ領域 -->
+<div class="flex flex-col md:flex-row flex-grow">
+    
+    <!-- 左側サイドバー（目次・メニュー） -->
+    <aside id="sidebar" class="wiki-sidebar bg-gray-900 text-gray-300 p-6 shadow-lg fixed md:static inset-y-0 right-0 z-50 transform translate-x-full md:translate-x-0 transition-transform duration-300">
+        <div class="flex justify-between items-center md:hidden mb-4">
+            <span class="font-bold text-white">メニュー</span>
+            <button id="close-btn" class="text-gray-400 hover:text-white">✕</button>
+        </div>
         
-        <!-- 左側サイドバー（目次・メニュー） -->
-<!-- サイドバーのasideタグにスマホ用のクラスをあらかじめ付与しておく -->
-<aside id="sidebar" class="wiki-sidebar bg-gray-900 text-gray-300 p-6 shadow-lg fixed md:static inset-y-0 right-0 z-50 transform translate-x-full md:translate-x-0 transition-transform duration-300">
-    <!-- 閉じるボタンをサイドバー内に入れてあげると親切！ -->
-    <div class="flex justify-between items-center md:hidden mb-4">
-        <span class="font-bold text-white">メニュー</span>
-        <button id="close-btn" class="text-gray-400 hover:text-white">✕</button>
-    </div>
-            
-            <nav class="space-y-6">
-                <!-- 目次部分 -->
-                <div id="wiki-menu">
-                    <!-- カテゴリ1 -->
-                    <div class="wiki-category-title">■トップページ</div>
-                    <ul class="space-y-0">
-                        <li>
-                            <a href="#" data-url="articles/top.html" class="ajax-link">├トップページ</a>
-                        </li>
-                    </ul>   
-                </div>
-            </nav>
-        </aside>
-
-        <!-- 右側メイン記事表示エリア（iframe） -->
-        <main class="flex-grow p-4 md:p-8 flex flex-col">
-            <div class="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 flex-grow flex flex-col">
-                <iframe src="articles/top.html" name="wiki-content" class="w-full flex-grow min-h-[700px] border-0" title="content"></iframe>
+        <nav class="space-y-6">
+            <div id="wiki-menu">
+                <div class="wiki-category-title">■トップページ</div>
+                <ul class="space-y-0">
+                    <li>
+                        <a href="#" data-url="articles/top.html" class="ajax-link">├トップページ</a>
+                    </li>
+                    <li>
+                        <a href="#" data-url="articles/beginner.html" class="ajax-link">└初心者ガイド</a>
+                    </li>
+                </ul>   
             </div>
-        </main>
-    </div>
+        </nav>
+    </aside>
 
-    <!-- フッター -->
-    <footer class="bg-gray-800 text-center text-gray-500 p-4 text-sm">
-        &copy; 2026 Game Strategy Wiki. All Rights Reserved.
-    </footer>
+    <!-- 右側メイン記事表示エリア (iframeを廃止して div に変更！) -->
+    <main class="flex-grow p-4 md:p-8 flex flex-col">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 flex-grow flex flex-col p-6">
+            <!-- 記事が自動で読み込まれるエリア -->
+            <div id="wiki-content" class="w-full flex-grow"></div>
+        </div>
+    </main>
+</div>
 
-    <script>
+<!-- フッター -->
+<footer class="bg-gray-800 text-center text-gray-500 p-4 text-sm">
+    &copy; 2026 Game Strategy Wiki. All Rights Reserved.
+</footer>
+
+<!-- 統合されたスマートなJavaScript -->
+<script>
     const menuBtn = document.getElementById('menu-btn');
     const closeBtn = document.getElementById('close-btn');
     const sidebar = document.getElementById('sidebar');
+    const contentArea = document.getElementById('wiki-content');
+    const ajaxLinks = document.querySelectorAll('.ajax-link');
 
     // メニューを開く
     menuBtn.addEventListener('click', () => {
@@ -109,36 +109,22 @@
         sidebar.classList.add('translate-x-full');
     });
 
-    // メニュー内のリンクをクリックしたら自動でメニューを閉じる（スマホで便利！）
-    const menuLinks = sidebar.querySelectorAll('a');
-    menuLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            sidebar.classList.add('translate-x-full');
-        });
-    });
-</script>
-
-<script>
-    // 記事を表示するエリアと、すべてのメニューリンクを取得
-    const contentArea = document.getElementById('wiki-content');
-    const ajaxLinks = document.querySelectorAll('.ajax-link');
-
-    // ページを開いた最初に「top.html」を自動で読み込む関数
+    // ページを読み込む関数
     function loadPage(url) {
         fetch(url)
             .then(response => {
-                if (!response.ok) {
-                    throw new Error('ページの読み込みに失敗しました');
-                }
+                if (!response.ok) throw new Error('ページの読み込みに失敗しました');
                 return response.text();
             })
             .then(html => {
-                // 読み込んだHTMLの中の <body> タグの中身だけを取り出して反映させるテクニック！
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(html, 'text/html');
                 
-                // 記事側の <body class="..."> の中身をごっそりメインエリアに入れる
+                // 記事側の body タグの中身をごっそり反映
                 contentArea.innerHTML = doc.body.innerHTML;
+
+                // もし記事側の body にクラス（背景色など）があれば、メインエリアの親要素に引き継がせると綺麗になります！
+                contentArea.className = "w-full flex-grow " + doc.body.className;
             })
             .catch(error => {
                 contentArea.innerHTML = '<p class="text-red-500">記事の読み込みにエラーが発生しました。</p>';
@@ -146,20 +132,19 @@
             });
     }
 
-    // サイトを開いた初回の読み込み
+    // 初回アクセス時にトップページを表示
     loadPage('articles/top.html');
 
     // メニューのリンクがクリックされたときの処理
     ajaxLinks.forEach(link => {
         link.addEventListener('click', (e) => {
-            e.preventDefault(); // ページがピュッと上に飛ぶのを防ぐ
+            e.preventDefault();
             const url = link.getAttribute('data-url');
             loadPage(url);
 
-            // もしスマホのメニューが開いていたら、リンクをクリックした時に自動で閉じるようにすると超親切！
-            const sidebar = document.getElementById('sidebar');
-            if (sidebar) {
-                sidebar.classList.add('translate-x-full'); // さっきのスマホ用メニュー閉じる処理
+            // スマホ表示のときはリンクをクリックしたら自動でメニューを閉じる
+            if (window.innerWidth < 768) {
+                sidebar.classList.add('translate-x-full');
             }
         });
     });
