@@ -77,12 +77,10 @@
         </nav>
     </aside>
 
-    <!-- 右側メイン記事表示エリア (iframeを廃止して div に変更！) -->
-    <main class="flex-grow p-4 md:p-8 flex flex-col">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 flex-grow flex flex-col p-6">
-            <!-- 記事が自動で読み込まれるエリア -->
-            <div id="wiki-content" class="w-full flex-grow"></div>
-        </div>
+    <!-- 右側メイン記事表示エリア（枠をなくして画面いっぱいに！） -->
+    <main class="flex-grow p-2 md:p-6 flex flex-col">
+        <!-- 記事が自動で読み込まれるエリア（余白や白い枠を取り払って広々表示） -->
+        <div id="wiki-content" class="w-full flex-grow flex flex-col"></div>
     </main>
 </div>
 
@@ -120,14 +118,14 @@
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(html, 'text/html');
                 
-                // 記事側の body タグの中身をごっそり反映
+                // 記事側の body タグの中身をそのまま反映
                 contentArea.innerHTML = doc.body.innerHTML;
 
-                // もし記事側の body にクラス（背景色など）があれば、メインエリアの親要素に引き継がせると綺麗になります！
-                contentArea.className = "w-full flex-grow " + doc.body.className;
+                // 記事側の body に指定されている背景色やクラスをそのままコンテンツエリア全体に適用！
+                contentArea.className = "w-full flex-grow flex flex-col " + doc.body.className;
             })
             .catch(error => {
-                contentArea.innerHTML = '<p class="text-red-500">記事の読み込みにエラーが発生しました。</p>';
+                contentArea.innerHTML = '<p class="text-red-500 p-4">記事の読み込みにエラーが発生しました。</p>';
                 console.error(error);
             });
     }
