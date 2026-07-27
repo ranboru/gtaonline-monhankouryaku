@@ -59,10 +59,13 @@
     <div class="flex flex-col md:flex-row flex-grow">
         
         <!-- 左側サイドバー（目次・メニュー） -->
-        <aside class="wiki-sidebar bg-gray-900 text-gray-300 p-6 shadow-lg">
-            <div class="mb-6">
-                <input type="text" placeholder="記事を検索...（現在使用不可）" class="w-full p-2 rounded text-gray-900">
-            </div>
+<!-- サイドバーのasideタグにスマホ用のクラスをあらかじめ付与しておく -->
+<aside id="sidebar" class="wiki-sidebar bg-gray-900 text-gray-300 p-6 shadow-lg fixed md:static inset-y-0 right-0 z-50 transform translate-x-full md:translate-x-0 transition-transform duration-300">
+    <!-- 閉じるボタンをサイドバー内に入れてあげると親切！ -->
+    <div class="flex justify-between items-center md:hidden mb-4">
+        <span class="font-bold text-white">メニュー</span>
+        <button id="close-btn" class="text-gray-400 hover:text-white">✕</button>
+    </div>
             
             <nav class="space-y-6">
                 <!-- 目次部分 -->
@@ -91,5 +94,28 @@
         &copy; 2026 Game Strategy Wiki. All Rights Reserved.
     </footer>
 
+    <script>
+    const menuBtn = document.getElementById('menu-btn');
+    const closeBtn = document.getElementById('close-btn');
+    const sidebar = document.getElementById('sidebar');
+
+    // メニューを開く
+    menuBtn.addEventListener('click', () => {
+        sidebar.classList.remove('translate-x-full');
+    });
+
+    // メニューを閉じる
+    closeBtn.addEventListener('click', () => {
+        sidebar.classList.add('translate-x-full');
+    });
+
+    // メニュー内のリンクをクリックしたら自動でメニューを閉じる（スマホで便利！）
+    const menuLinks = sidebar.querySelectorAll('a');
+    menuLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            sidebar.classList.add('translate-x-full');
+        });
+    });
+</script>
 </body>
 </html>
