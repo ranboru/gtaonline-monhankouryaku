@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTAオンライン・モンスターハンターワイルズ攻略wiki</title>
+    <!-- Tailwind CSSの読み込み -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .wiki-sidebar {
+            width: 280px;
+            flex-shrink: 0;
+        }
+        @media (max-width: 768px) {
+            .wiki-sidebar {
+                width: 100%;
+            }
+        }
+        /* --- ここから追加・変更したスタイル --- */
+        #wiki-menu {
+            font-family: monospace, sans-serif;
+            font-size: 13px;
+            line-height: 1.6;
+        }
+        #wiki-menu a {
+            color: #3b82f6; /* Wiki風の青リンク */
+            text-decoration: none;
+        }
+        #wiki-menu a:hover {
+            text-decoration: underline;
+            color: #ef4444;
+        }
+        /* 画像のような緑色の見出し */
+        .wiki-category-title {
+            color: #22c55e;
+            font-weight: bold;
+            margin-top: 10px;
+            margin-bottom: 4px;
+        }
+        /* --- ここまで --- */
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-900 font-sans min-h-screen flex flex-col">
+
+    <!-- ヘッダー -->
+    <header class="bg-gray-800 text-white p-6 shadow-md">
+        <h1 class="text-3xl font-bold tracking-tight">GTAオンライン・モンスターハンターワイルズ攻略wiki</h1>
+        <p class="text-gray-400">GTAオンライン・モンスターハンターワイルズ攻略まとめサイト</p>
+    </header>
+
+    <!-- メインコンテンツ領域 -->
+    <div class="flex flex-col md:flex-row flex-grow">
+        
+        <!-- 左側サイドバー（目次・メニュー） -->
+        <aside class="wiki-sidebar bg-gray-900 text-gray-300 p-6 shadow-lg">
+            <div class="mb-6">
+                <input type="text" placeholder="記事を検索...（現在使用不可）" class="w-full p-2 rounded text-gray-900">
+            </div>
+            
+            <nav class="space-y-6">
+                <!-- 目次部分 -->
+                <div id="wiki-menu">
+                    <!-- カテゴリ1 -->
+                    <div class="wiki-category-title">■トップページ</div>
+                    <ul class="space-y-0">
+                        <li>
+                            <a href="articles/top.html" target="wiki-content">├トップページ</a>
+                        </li>
+                    </ul>   
+                </div>
+            </nav>
+        </aside>
+
+        <!-- 右側メイン記事表示エリア（iframe） -->
+        <main class="flex-grow p-4 md:p-8 flex flex-col">
+            <div class="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 flex-grow flex flex-col">
+                <iframe src="articles/top.html" name="wiki-content" class="w-full flex-grow min-h-[700px] border-0" title="content"></iframe>
+            </div>
+        </main>
+    </div>
+
+    <!-- フッター -->
+    <footer class="bg-gray-800 text-center text-gray-500 p-4 text-sm">
+        &copy; 2026 Game Strategy Wiki. All Rights Reserved.
+    </footer>
+
+</body>
+</html>

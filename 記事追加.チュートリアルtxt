@@ -1,0 +1,77 @@
+Wiki制作チュートリアル：サイドバーと記事の連携
+
+このWikiは、左側のサイドバーからリンクをクリックすることで、右側の <iframe> 内のコンテンツを切り替える構成になっています。
+
+1. 記事ファイルの準備
+
+まず、表示したい記事をHTMLファイルとして作成し、articles/ ディレクトリの中に保存してください。
+
+例：articles/beginner.html
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="p-6">
+    <h1 class="text-2xl font-bold mb-4">初心者向け攻略ガイド</h1>
+    <p>ここに攻略情報を記述します。</p>
+</body>
+</html>
+
+
+2. サイドバー（目次）へのリンク追加とカテゴリの増やし方
+メインの index.html の <div id="wiki-menu"> の中に、緑色のカテゴリ見出し（class="wiki-category-title"）と、ツリー構造のリンク（├ や └）を追加していきます。
+
+ポイントは、リンクに必ず target="wiki-content" を指定することです。これにより、リンク先が右側の iframe 内で開かれます。
+
+index.html の編集箇所例（カテゴリや項目の追加）：
+
+HTML
+<div id="wiki-menu">
+    <!-- カテゴリ1個目 -->
+    <div class="wiki-category-title">■トップページ</div>
+    <ul class="space-y-0">
+        <li>
+            <a href="articles/top.html" target="wiki-content">├トップページ</a>
+        </li>
+        <li>
+            <a href="articles/beginner.html" target="wiki-content">└初心者ガイド</a>
+        </li>
+    </ul>   
+
+    <!-- カテゴリ2個目（新しく追加する場合） -->
+    <div class="wiki-category-title">■全般</div>
+    <ul class="space-y-0">
+        <li>
+            <a href="articles/summary.html" target="wiki-content">├概要</a>
+        </li>
+        <li>
+            <a href="articles/faq.html" target="wiki-content">└よくある質問</a>
+        </li>
+    </ul>
+</div>
+カテゴリの増やし方: <div class="wiki-category-title">■〇〇</div> で緑色の見出しを作り、その下の <ul> リストの中に項目を増やしていきます。
+
+ツリーのデザイン: 項目の枝分かれを表現するために、行頭に ├ や、最後の項目には └ を使うと、本格的なWiki風の見た目になります！
+
+3. 運用のアドバイス
+
+スタイルの統一
+
+各記事ファイル（articles/*.html）の <head> にも同じように Tailwind CSS を読み込ませることで、サイト全体でデザインを統一できます。
+
+リンクの管理
+
+記事数が増えてきたら、index.html が長くなりすぎるため、以下のように整理すると良いでしょう：
+
+カテゴリごとに <ul> リストで囲む。
+
+検索用の input タグには、簡単なJavaScriptを後で組み込むと、目次の絞り込み検索機能が作れます。
+
+注意点：ローカル環境での確認
+
+PC内のファイルとして開いている場合、ブラウザのセキュリティ設定で iframe の読み込みが制限されることがあります。
+
+解決策: VS Codeの拡張機能「Live Server」などを使って、ローカルサーバー経由でブラウザ表示するようにしてください。
