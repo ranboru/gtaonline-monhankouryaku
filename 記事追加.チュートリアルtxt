@@ -52,6 +52,60 @@ HTML
         </li>
     </ul>
 </div>
+
+メインの index.html の <div id="wiki-menu"> の中に、カテゴリの下へさらに「強盗」などのサブカテゴリ（wiki-subcategory-title）を挟んで、インデントとボーダーで綺麗に見せる書き方だよ！💡
+
+HTML
+<div id="wiki-menu">
+    <!-- トップページカテゴリ -->
+    <div class="wiki-category-title">■トップページ</div>
+    <ul class="space-y-0">
+        <li>
+            <a href="#" data-url="articles/top.html" class="ajax-link">├トップページ</a>
+        </li>
+    </ul>   
+
+    <!-- GTAオンラインカテゴリ（サブカテゴリを含む階層構造） -->
+    <div class="wiki-category-title">■GTAオンライン</div>
+    <ul class="space-y-0">
+        <!-- ▼ サブカテゴリ（例：強盗） -->
+        <li>
+            <div class="wiki-subcategory-title">└ 💰 強盗</div>
+            <ul class="pl-4 space-y-0 border-l border-gray-700 ml-2">
+                <li>
+                    <a href="#" data-url="articles/korutu.html" class="ajax-link">├コルツセンター強盗</a>
+                </li>
+                <li>
+                    <a href="#" data-url="articles/cayo_perico.html" class="ajax-link">└カヨ・ペリコ強盗</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
+💡 スタイル（CSS）の追加
+メインカテゴリとサブカテゴリで見分けがつくように、<style> タグの中にサブカテゴリ用のデザイン（水色の文字サイズなど）を追加しておこう！🎨
+
+CSS
+<style>
+    /* メインカテゴリのスタイル */
+    .wiki-category-title {
+        color: #22c55e; /* 緑色 */
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+    }
+
+    /* ▼ サブカテゴリ用のスタイル（新しく追加！） */
+    .wiki-subcategory-title {
+        color: #38bdf8; /* 水色系にして区別する */
+        font-weight: bold;
+        margin-top: 8px;
+        margin-bottom: 2px;
+        font-size: 12px;
+    }
+</style>
+
+
 3. 右側の表示エリア（iframeから変更）
 右側のメイン記事を表示する場所は、iframeではなく普通の div タグ（id="wiki-content"）を用意します。ここにJavaScriptが記事をスポッと挿入してくれます！
 
