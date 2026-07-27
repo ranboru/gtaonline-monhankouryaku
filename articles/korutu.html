@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>コルツ・センター強盗 (The Kortz Center Heist) - GTAオンライン攻略Wiki</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        html { scroll-behavior: smooth; }
+        .wiki-content-area h2 { font-size: 1.5rem; font-weight: bold; margin-top: 2rem; margin-bottom: 0.75rem; border-bottom: 2px solid #e5e7eb; padding-bottom: 0.25rem; color: #1e1b4b; }
+        .wiki-content-area h3 { font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #312e81; }
+        .wiki-content-area h4 { font-size: 1.1rem; font-weight: bold; margin-top: 1.25rem; margin-bottom: 0.5rem; color: #4338ca; }
+        .wiki-content-area h5 { font-size: 1rem; font-weight: bold; margin-top: 1rem; margin-bottom: 0.25rem; color: #4f46e5; }
+        .wiki-content-area ul { list-style-type: disc; margin-left: 1.5rem; margin-bottom: 1rem; }
+        .wiki-content-area ul ul { list-style-type: circle; margin-left: 1.25rem; margin-bottom: 0.25rem; }
+        .wiki-content-area ul ul ul { list-style-type: square; margin-left: 1rem; }
+        .wiki-content-area p { margin-bottom: 0.75rem; line-height: 1.625; }
+        .step-badge { display: inline-block; padding: 0.2rem 0.5rem; background-color: #fef08a; color: #854d0e; font-weight: bold; border-radius: 0.25rem; margin-bottom: 0.5rem; }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800 antialiased font-sans">
+
+    <div class="max-w-6xl mx-auto my-8 p-6 bg-white rounded-xl shadow-md wiki-content-area">
+        
+        <!-- 記事タイトル -->
+        <h1 class="text-3xl sm:text-4xl font-extrabold mb-6 text-indigo-950 border-b-4 border-indigo-600 pb-3">
+            コルツ・センター強盗 <span class="text-xl sm:text-2xl text-gray-500 font-normal">(The Kortz Center Heist)</span>
+        </h1>
+
+        <!-- 動画埋め込み -->
+        <div class="aspect-video mb-6 rounded-xl overflow-hidden shadow-lg border border-gray-200">
+            <iframe class="w-full h-full" src="https://www.youtube.com/embed/xbk_3p5lskI?controls=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+        <!-- 目次 -->
+        <div class="bg-indigo-50/70 border border-indigo-200 rounded-lg p-5 mb-8">
+            <h2 class="text-lg font-bold text-indigo-900 border-none mt-0 mb-3 pb-0">目次</h2>
+            <ul class="text-sm text-indigo-700 space-y-1 my-0">
+                <li><a href="#id_057126df" class="hover:underline hover:text-indigo-900">1. 概要</a></li>
+                <li><a href="#id_d69994c2" class="hover:underline hover:text-indigo-900">2. 開始までの流れ</a></li>
+                <li>
+                    <a href="#id_b0135802" class="hover:underline hover:text-indigo-900">3. 強盗準備</a>
+                    <ul>
+                        <li>
+                            <a href="#id_ef4e3637" class="hover:underline hover:text-indigo-900">3.1 コルツ・センター偵察</a>
+                            <ul>
+                                <li><a href="#id_fb459858" class="hover:underline hover:text-indigo-900">侵入地点</a></li>
+                                <li><a href="#id_34cec3f4" class="hover:underline hover:text-indigo-900">注目ポイント</a></li>
+                                <li><a href="#id_f7e8c634" class="hover:underline hover:text-indigo-900">潜入道具</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#id_8f03c504" class="hover:underline hover:text-indigo-900">3.2 各種ターゲット一覧</a>
+                            <ul>
+                                <li><a href="#id_f5c06f85" class="hover:underline hover:text-indigo-900">主要ターゲット</a></li>
+                                <li>
+                                    <a href="#id_c13002fa" class="hover:underline hover:text-indigo-900">その他の略奪品</a>
+                                    <ul>
+                                        <li><a href="#id_64516958" class="hover:underline hover:text-indigo-900">買い手のリクエスト</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#id_0b37fe15" class="hover:underline hover:text-indigo-900">3.3 必須の調達ミッション</a>
+                            <ul>
+                                <li>
+                                    <a href="#id_3b5940c7" class="hover:underline hover:text-indigo-900">潜入装備</a>
+                                    <ul>
+                                        <li><a href="#id_4b4b9075" class="hover:underline hover:text-indigo-900">スタッフ用のキーカード</a></li>
+                                        <li><a href="#id_537c4888" class="hover:underline hover:text-indigo-900">タクティカル装置</a></li>
+                                        <li><a href="#id_ecb4b55a" class="hover:underline hover:text-indigo-900">防護服</a></li>
+                                        <li><a href="#id_a0027409" class="hover:underline hover:text-indigo-900">アルファメール変装</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#id_2e98ebaf" class="hover:underline hover:text-indigo-900">追跡不可の武器</a>
+                                    <ul>
+                                        <li><a href="#id_5bdb9575" class="hover:underline hover:text-indigo-900">ストリート装備</a></li>
+                                        <li><a href="#id_ed52116c" class="hover:underline hover:text-indigo-900">警備装備</a></li>
+                                        <li><a href="#id_e31454d6" class="hover:underline hover:text-indigo-900">軍用装備</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <!-- 概要 -->
+        <h2 id="id_057126df">概要</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+            <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16141/The%20Kortz%20Center%20Heist.jpg" alt="The Kortz Center Heist" class="rounded-lg shadow border object-cover w-full h-48">
+            <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16217/Contents.png" alt="Contents" class="rounded-lg shadow border object-cover w-full h-48">
+            <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16216/BG.jpg" alt="BG" class="rounded-lg shadow border object-cover w-full h-48">
+        </div>
+
+        <ul>
+            <li>2026年7月14日に実装されたアップデート。本ページでは主に同アップデートで追加される強盗ミッション等について記載する。</li>
+            <li>パシフィック・ブラフスの丘の上の博物館の<strong class="text-indigo-900">コルツ・センター</strong>の美術品を略奪する強盗ミッションが行えるようになる。
+                <ul>
+                    <li>この強盗では<strong class="text-indigo-900">ミスター・フェイバー</strong>と彼の右腕の<strong class="text-indigo-900">ラフ・デ・アンジェリス</strong>と協力することになる。
+                        <ul>
+                            <li>コルツ・センター内のベル・ビルに収蔵された美術品にミスター・フェイバーの顧客が興味を示している。そこで美術品強盗を行い金庫室に侵入、展示前の主要ターゲットの美術品を偽造のエキスパートである<strong class="text-indigo-900">ヨンレイ</strong>が作成したレプリカと入れ替え、監視カメラの映像を消去、美術品を顧客に引き渡す…というストーリー。</li>
+                        </ul>
+                    </li>
+                    <li>1～4人プレイが可能。</li>
+                    <li>盗み出した絵画はミスター・フェイバーの顧客に売却するか邸宅内に展示することができる。これはフィナーレの開始時に選択する。
+                        <ul>
+                            <li>なお初回の強盗の際は必ず売却で固定される。
+                                <ul>
+                                    <li>この初回の強盗の際に盗む「デルニエール・デボーシュ」は同強盗で絵画26点を自分のものにすると自分の邸宅に展示することができる。</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>同アップデートで導入された「<strong>各種金策系ミッションのフィナーレ部分の報酬は、ウィークリーアップデート後に最初に手に入った報酬額に対してはウィークリーボーナスが追加される。ただし、それ以降のプレイでは市場が飽和し、買い手の関心が薄れることで報酬が減少する</strong>」というシステムの象徴とも言える報酬設定となっている。
+                        <ul>
+                            <li>期間中（難易度ノーマルで）最初の売却の場合はウィークリーボーナス込みの主要ターゲットの報酬は121万～192万だが、それ以降のウィークリーボーナスが無い主要ターゲットの報酬は30万～48万程(メターゲットを売却した場合)となる。</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>本アップデートに伴い、GTAオンラインのコルツ・センターの建物の構造がアップデート前やストーリーモードのものと若干変化している。
+                <ul>
+                    <li>主な例としては本強盗のメインとなる建物のベル・ビルの屋上に天窓が設置されたり、生垣迷路の外周部分に生垣が追加され迷路に出入りしづらくなっている。</li>
+                </ul>
+            </li>
+            <li>本アップデート実装に先駆け、2026年6月18日から7月13日まで、「美術品コレクタープログラム」というイベントが行われていた。<br>
+            「美術品コレクタープログラム」の<strong>報酬の受け取り期限は<span class="text-red-600 font-bold">2026年8月5日まで</span>なので注意</strong>。
+                <ul>
+                    <li>また、このプログラムはアカウントごとの処理であるようで、メインキャラが条件を達成すると、<strong>サブキャラにもマネーこそ入らないが、コスチューム入手や乗り物の無料化の処理が適応される。</strong></li>
+                </ul>
+            </li>
+        </ul>
+
+        <!-- アコーディオン：美術品コレクタープログラムの詳細 -->
+        <details class="bg-gray-50 border border-gray-300 rounded-lg p-4 mb-6">
+            <summary class="font-bold text-gray-800 cursor-pointer hover:text-indigo-700">＋ 美術品コレクタープログラムの詳細</summary>
+            <div class="mt-4 space-y-4 text-sm">
+                <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16142/Fine%20Art%20Collector.jpg" alt="Fine Art Collector" class="rounded border max-w-full">
+                <p>美術品コレクタープログラムはティア1からティア3まで報酬が用意されている。</p>
+                
+                <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16143/Fine%20Art%20Collector1.jpg" alt="Tier 1" class="rounded border max-w-full">
+                <p>ティア1（愛好家）はGTAオンラインをプレイすることで、$500,000と無料の武装リムジンが手に入る。</p>
+
+                <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16144/Fine%20Art%20Collector2.jpg" alt="Tier 2" class="rounded border max-w-full">
+                <p>ティア2（パトロン）はGTAオンラインの強盗ミッションをクリアすることで、$1,000,000とN.O.O.S.Eの制服が手に入る。</p>
+
+                <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16145/Fine%20Art%20Collector3.jpg" alt="Tier 3" class="rounded border max-w-full">
+                <p>ティア3（エリーティスト）は邸宅を所有するプレイヤーがGTAオンラインをプレイすることで、このアップデートが実装された時点で報酬が受け取れるようになる。コルツ・センター強盗に必要な邸宅のアートスタジオの拡張料金が$1,000,000割引かれ、アートスタジオの作戦ボードから購入できる金庫室キーパッドが無料になり、ウォーストックからアナイアレイターステルスが無料で手に入り、邸宅に飾れる「三日月の時制」が贈られ、コルツ・センター強盗の初回クリア後の次のコルツ・センター強盗挑戦時に高価格の主要ターゲット「努力の成果」が出現するようになる。</p>
+            </div>
+        </details>
+
+        <!-- 開始までの流れ -->
+        <h2 id="id_d69994c2">開始までの流れ</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+            <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16190/Artstudio.jpg" alt="Artstudio" class="rounded-lg shadow border object-cover w-full h-48">
+            <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3216/16161/Art%20Studio.jpg" alt="Art Studio" class="rounded-lg shadow border object-cover w-full h-48">
+            <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16158/KCH2.jpg" alt="KCH2" class="rounded-lg shadow border object-cover w-full h-48">
+        </div>
+        <ul>
+            <li>ミッションを開始するには<strong>邸宅</strong>の地下2階に「<strong>アートスタジオ</strong>」を追加後、いずれかの邸宅のアートスタジオを直接訪れてカットシーンを見る必要がある。見終わったら、アートスタジオの作戦ボードからコルツ・センター強盗を開始できる。
+                <ul>
+                    <li>アートスタジオは、いずれかの邸宅に追加した段階ですべての邸宅に備え付けられる。
+                        <ul>
+                            <li>どの邸宅のアートスタジオからミッションを開始しても良く、器材を調達した際、出発した邸宅ではない邸宅に届けることでもクリアできる仕様。</li>
+                        </ul>
+                    </li>
+                    <li>開始後は作戦ボードの他、<strong class="text-red-600">ラフに電話をかける</strong>ことでも一部調達ミッションを開始できる。偵察および逃走用の乗り物の調達ミッションの場合はマップ上のミッションマーカーに訪れることでも開始できる。
+                        <ul>
+                            <li>いちいちアートスタジオに戻る必要が無いので便利。上手く活用しよう。</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+        <!-- 強盗準備 -->
+        <h2 id="id_b0135802">強盗準備</h2>
+        
+        <h3 id="id_ef4e3637">コルツ・センター偵察</h3>
+        <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16194/Model.jpg" alt="Model" class="rounded-lg shadow border mb-4 max-w-full">
+        
+        <div class="space-y-2 mb-4">
+            <p><strong>1. <span class="text-amber-700">コルツ・センター</span>に行け・<span class="text-amber-700">ベル・ビル</span>に入れ</strong></p>
+            <p><strong>2. <span class="text-amber-700">警備室</span>に忍び込め・AIアシスタントを<span class="text-emerald-700">セキュリティシステム</span>にアップロードしろ</strong></p>
+            <p><strong>3. カメラ映像で主要ターゲットを探せ・展示室を偵察するか退出しろ・<span class="text-blue-700">従業員用入口</span>の写真を撮れ</strong></p>
+        </div>
+
+        <ul>
+            <li>2回目以降はAIアシスタントが主要ターゲットを教えてくれるので偵察は任意となる。
+                <ul>
+                    <li>しかし、マンホールの鍵の入手や「買い手のリクエスト」で指定されたその他の略奪品の位置を捕捉しておくなどができるため偵察はしておいた方が良い。（※偵察時に位置を記録していない略奪品は、強盗時にマップに表示されない）</li>
+                    <li>偵察自体はどのタイミングでも行えるので、キーカードの調達でコルツ・センターを訪れてからその足で偵察を行う…などの順番でこなせば移動の手間が少ない。</li>
+                </ul>
+            </li>
+            <li>監視カメラは、展示室にいる限りは範囲内に入っても反応しないが、立ち入り禁止エリアを出入りするところを捉えられると発覚扱いになり、警備員に建物の外につまみ出されるので注意。</li>
+            <li>キャリア進行状況のティア2『その他の略奪品をすべて偵察しろ』は、<strong>その他の略奪品がすべて存在している時にすべて偵察する</strong>という意味らしく、前回のフィナーレでその他の略奪品を奪ったことでそのスペースに展示品が無い場合は「すべて偵察」は出来ない模様。</li>
+            <li>カヨ・ペリコ強盗の偵察とは違い、略奪品の位置や値段を記録した後にセッションを切り替えても記録は保持されないので注意。面倒でも偵察後は邸宅に直接戻る必要がある。</li>
+        </ul>
+
+        <h4 id="id_fb459858">侵入地点</h4>
+        <ul>
+            <li>作戦ボードに表記される侵入地点は「従業員用入口」、「天窓」、「搬入口」、「下水道入口（下水トンネル）」の全部で4ヶ所ある。
+                <ul>
+                    <li>「従業員用入口」は初回の偵察時に必ず撮影することになる。</li>
+                    <li>「天窓」はベル・ビルの屋上の<strong>天窓</strong>を外から撮影すると発見できる。建物の階段や梯子を上る事で到達できるが、基本的にはヘリなどを使えばすぐにたどり着ける。
+                        <ul><li>これを発見することで「<strong>タクティカル装置</strong>」を調達できるようになる。</li></ul>
+                    </li>
+                    <li>「搬入口」は建物の西の駐車場の先の<strong>地下へと続くシャッター</strong>を撮影すると発見できる。
+                        <ul><li>これを発見することで「<strong>アルファメール変装</strong>」を調達できるようになる。</li></ul>
+                    </li>
+                    <li>「下水道入口（下水トンネル）」は庭園の迷路の中に<strong>マンホール</strong>があり、これを撮影すると発見できる。やはり基本的にヘリなどを使えば上からすぐに視認できるだろう。
+                        <ul>
+                            <li>これを発見することで「<strong>防護服</strong>」を調達できるようになる。</li>
+                            <li>ちなみにマンホールを撮影していなくてもマンホールの鍵を手に入れさえすればフィナーレで下水道入口を使用可能。</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+        <h4 id="id_34cec3f4">注目ポイント</h4>
+        <ul>
+            <li>注目ポイントは「配達トラック」、「展示ケース警報器」、「地下への行き方」、「配電盤」、「無線タワー」、「警備室」の全部で6ヶ所ある。
+                <ul>
+                    <li>「配達トラック」は監視カメラの映像を確認する際に搬入口のカメラをパンすると発見できる。配達トラックに配置されるサブターゲットはソロで取れる物としては最も高額となるので積極的に狙いたい。</li>
+                    <li>「展示ケース警報器」は展示室地下1階部分の受付の壁部分に設置された機械を撮影すると発見できる。</li>
+                    <li>「地下への行き方」は展示室地下1階部分の展示ケースの西にあるドアを撮影すると発見できる。</li>
+                    <li>「配電盤」はベル・ビルの外側の壁部分に3ヶ所設置されている配電盤のいずれかを撮影すると発見できる。
+                        <ul><li>これを発見することで「<strong>EMPチャージ</strong>」を調達できるようになる。</li></ul>
+                    </li>
+                    <li>「無線タワー」はコルツ・センターの屋上に3ヶ所設置されている通信塔のいずれかを撮影すると発見できる。
+                        <ul><li>これを発見することで「<strong>警備ルート</strong>」を調達できるようになる。</li></ul>
+                    </li>
+                    <li>「警備室」は建物の西の駐車場にある警備用の小屋を撮影すると発見できる。</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h4 id="id_f7e8c634">潜入道具</h4>
+        <ul>
+            <li>偵察時に発見できる潜入道具は「<strong>マンホールの鍵</strong>」の1種。
+                <ul>
+                    <li>コルツ・センターの敷地内の出現候補地点5ヶ所の内のいずれか1ヶ所に出現する。いずれも建設機材が置いてある場所なのが特徴。「鍵」というよりは大きな「フック」のような形をしている。</li>
+                    <li>撮影するとフィナーレの際に位置が表示される…が、実際には<strong>偵察時の時点で盗むことが可能</strong>なので撮るよりも取った方が良いだろう。</li>
+                    <li>使いまわしができそうな気もするが、使い捨てで持ち越すこともできない。ミッション毎に新たに盗む必要がある。</li>
+                </ul>
+            </li>
+        </ul>
+
+        <!-- 各種ターゲット一覧 -->
+        <h3 id="id_8f03c504">各種ターゲット一覧</h3>
+        
+        <h4 id="id_f5c06f85">主要ターゲット</h4>
+        <p>金庫室内部に展示されている絵画。これらを額縁から取り外し、レイが制作した本物そっくりの贋作とすり替える形で強奪する。</p>
+        <p>これらのターゲットは、売却して換金する以外にも自身の邸宅に持ち帰ってコレクションとして展示する事も可能。</p>
+        <p>初回は「デルニエール・デボージュ」で固定されており、以降はウィークリーイベントが更新されるタイミングで選出された3種の絵画が順番に1→2→3→1→2→3→1→…というローテーションで主要ターゲットとして登場する。</p>
+        <p>主要ターゲットの価格は<strong>週ごとの初回クリア時のみ<span class="text-red-600 font-bold">4倍</span></strong>となる。</p>
+
+        <details class="bg-gray-50 border border-gray-300 rounded-lg p-4 my-4">
+            <summary class="font-bold text-gray-800 cursor-pointer hover:text-indigo-700">＋ 主要ターゲット価格一覧表を開く</summary>
+            <div class="overflow-x-auto mt-4">
+                <table class="min-w-full text-sm border-collapse border border-gray-300">
+                    <thead>
+                        <tr class="bg-red-500 text-white font-bold">
+                            <th class="border border-gray-300 p-2 text-left">名称</th>
+                            <th class="border border-gray-300 p-2 text-left">価格(ノーマル)</th>
+                            <th class="border border-gray-300 p-2 text-left">価格(ハード)</th>
+                            <th class="border border-gray-300 p-2 text-left">備考</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-200">
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">デルニエール・デボージュ</td><td class="p-2 border">$1,925,000</td><td class="p-2 border"></td><td class="p-2 border">初回固定</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">黙想中の長い耳</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">ローマの堕落</td><td class="p-2 border">$305,000</td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">ブラザー・ブラザー</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">人々のスケッチ</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">満開の後</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">トゥルー・ラヴ</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">息をのむ</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">絞り尽くされた肉体</td><td class="p-2 border">$308,000</td><td class="p-2 border">$338,800</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">声が聞こえる</td><td class="p-2 border">$308,500</td><td class="p-2 border">$339,350</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">冬、目的地なし</td><td class="p-2 border">$309,000</td><td class="p-2 border">$339,900</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">真珠の首飾り少女</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">チャット・オン・フルーツ</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">パンプキン</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">異なる双子</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">スタックの研究V</td><td class="p-2 border"></td><td class="p-2 border">$342,650</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アイ、フルーツ</td><td class="p-2 border">$312,000</td><td class="p-2 border">$343,200</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">生殺し</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">行き過ぎた成功</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">みなぎる果汁</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">曲がりくねった家路</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">シャウエッセン</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">信用</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">死が二人をわかつまで</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">メロンについての考察</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">努力の成果</td><td class="p-2 border">$365,000</td><td class="p-2 border">$401,500</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">我が近接攻撃</td><td class="p-2 border"></td><td class="p-2 border"></td><td class="p-2 border"></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </details>
+
+        <h4 id="id_c13002fa">その他の略奪品</h4>
+        <p>主要ターゲットとは別に、カバンに詰め込むサブターゲット。建物内の各地に置かれている。</p>
+        <p>複数人でプレイする場合、<strong>全員が手に入れたその他の略奪品の入手総額を参加人数で割った額が分配され、それぞれの報酬に上乗せされる</strong>。</p>
+
+        <h5 id="id_64516958">買い手のリクエスト</h5>
+        <p>各強盗ごとに設定されている特別なサブターゲット。買い手がリクエストした特定のサブターゲットで、通常時よりも金額が高めに設定されている。</p>
+        <p>偵察時に撮影すると<span class="text-orange-500 font-bold">黄色のアイコン</span>で記録される。<strong>エリートチャレンジ</strong>の目標にも設定されており、チャレンジを達成するには全てのリクエスト品を盗む必要がある。</p>
+        <p><strong>展示室2階にある、プレイヤーが2人いないと開けられないシャッター部屋の中の展示品がリクエスト品に選ばれた場合は、ソロプレイではどうやっても入手できないため、<span class="text-red-600 font-bold">エリートチャレンジは実質的に達成不可能になる。</span></strong></p>
+
+        <p class="font-bold mt-4">■ ガラスケース</p>
+        <ul>
+            <li>通常のガラスケースの展示品は素手もしくは持っている銃の銃床で叩き割って回収する。</li>
+            <li>強化ガラスのターゲットはガラスカッターで切断し、中身を回収する。</li>
+            <li>必要な容量はブレスレットやバングルが10%、卵や女神像が20%、強化ガラスケースが30%。</li>
+            <li>展示ケース警報器を無効化、もしくはEMPチャージを使用しないと<span class="text-red-600 font-bold">手を出した時点で警報が鳴る</span>ので注意。</li>
+        </ul>
+
+        <details class="bg-gray-50 border border-gray-300 rounded-lg p-4 my-4">
+            <summary class="font-bold text-gray-800 cursor-pointer hover:text-indigo-700">＋ ガラスケース略奪品一覧表を開く</summary>
+            <div class="overflow-x-auto mt-4">
+                <table class="min-w-full text-sm border-collapse border border-gray-300">
+                    <thead>
+                        <tr class="bg-red-500 text-white font-bold">
+                            <th class="border border-gray-300 p-2 text-left">名称</th>
+                            <th class="border border-gray-300 p-2 text-left">金額</th>
+                            <th class="border border-gray-300 p-2 text-left">バッグ容量</th>
+                            <th class="border border-gray-300 p-2 text-left">備考</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-200">
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">メメント・ノン・モリ(ゴールド)</td><td class="p-2 border">$85,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">メメント・ノン・モリ(アメジスト)</td><td class="p-2 border">$87,500~$90,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">メメント・ノン・モリ(エメラルド)</td><td class="p-2 border">$80,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">メメント・ノン・モリ(ルビー)</td><td class="p-2 border">$82,500</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールのカルカネット(レッドスピネル)</td><td class="p-2 border">$80,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールのカルカネット(イエローダイヤモンド)</td><td class="p-2 border">$92,500</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールのカルカネット(インペリアル・トパーズ)</td><td class="p-2 border">$87,500</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールのカルカネット(タンザナイト)</td><td class="p-2 border">$97,500</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">シルバーダップルピント</td><td class="p-2 border">$90,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">佐目毛のアンダルシアン</td><td class="p-2 border">$95,000~$97,500</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">マーブルサビーノ・クリオージョ</td><td class="p-2 border">$80,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">クレメロ・ダッチウォームブラッド</td><td class="p-2 border">$85,000</td><td class="p-2 border">30%</td><td class="p-2 border">強化ガラス</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールの森の卵</td><td class="p-2 border">$62,000~$64,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールの彩りの卵</td><td class="p-2 border">$54,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールの魔法の卵</td><td class="p-2 border">$52,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールの深緑の卵</td><td class="p-2 border">$58,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールのワイバーンの卵</td><td class="p-2 border">$60,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">豊穣の女神像(アイボリー)</td><td class="p-2 border">$62,000~$92,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">豊穣の女神像(シルバー)</td><td class="p-2 border">$56,000~$84,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">豊穣の女神像(ゴールド)</td><td class="p-2 border">$52,000~$78,000</td><td class="p-2 border">20%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">コカールのブレスレット</td><td class="p-2 border">$29,000~$35,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アンティークのバンド</td><td class="p-2 border">$29,000~$34,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アンティークのリング</td><td class="p-2 border">$29,000~$34,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">ファラオのバングル</td><td class="p-2 border">$30,000~$35,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アール・デコのサークレット</td><td class="p-2 border">$43,000~$52,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アール・デコのリング</td><td class="p-2 border">$30,000~$34,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">ピザンチンのフープス</td><td class="p-2 border">$29,000~$35,000</td><td class="p-2 border">10%</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">いん石破片</td><td class="p-2 border">$74,000~$94,000</td><td class="p-2 border">20%</td><td class="p-2 border text-red-600">ソロプレイ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アルジャーノンのヴィーナス(アイボリー)</td><td class="p-2 border">$120,000</td><td class="p-2 border">-</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アルジャーノンのヴィーナス(ブロンズ)</td><td class="p-2 border">$110,000~$112,500</td><td class="p-2 border">-</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アルジャーノンのヴィーナス(シルバー)</td><td class="p-2 border">$107,500</td><td class="p-2 border">-</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アルジャーノンのヴィーナス(ゴールド)</td><td class="p-2 border">$100,000</td><td class="p-2 border">-</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アルジャーノンのヴィーナス(マーブル)</td><td class="p-2 border">$125,000</td><td class="p-2 border">-</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">エメラルド</td><td class="p-2 border">$120,000</td><td class="p-2 border">30%</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">グレースピネル</td><td class="p-2 border">$122,500~$127,500</td><td class="p-2 border">30%</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">タンザナイト</td><td class="p-2 border">$112,500</td><td class="p-2 border">30%</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">ルビー</td><td class="p-2 border">$117,500</td><td class="p-2 border">30%</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">アクアマリン</td><td class="p-2 border">$102,500~$105,000</td><td class="p-2 border">30%</td><td class="p-2 border text-red-600">強化ガラス / ソロ不可</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </details>
+
+        <p class="font-bold mt-4">■ 絵画(サブターゲット)</p>
+        <ul>
+            <li>性質および略奪方法はカジノ強盗やカヨ・ペリコ強盗のものと同じ。いずれも1つでバッグの半分(50%)を占有する。</li>
+            <li>金庫室内の絵画は安価だが安全に回収可能。展示室2階シャッター部屋の2枚は高額。</li>
+        </ul>
+
+        <details class="bg-gray-50 border border-gray-300 rounded-lg p-4 my-4">
+            <summary class="font-bold text-gray-800 cursor-pointer hover:text-indigo-700">＋ 絵画サブターゲット一覧表を開く</summary>
+            <div class="overflow-x-auto mt-4">
+                <table class="min-w-full text-sm border-collapse border border-gray-300">
+                    <thead>
+                        <tr class="bg-red-500 text-white font-bold">
+                            <th class="border border-gray-300 p-2 text-left">名称</th>
+                            <th class="border border-gray-300 p-2 text-left">金額</th>
+                            <th class="border border-gray-300 p-2 text-left">備考</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-200">
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">大いなる原点回帰</td><td class="p-2 border">$142,500~$160,000</td><td class="p-2 border text-red-600">ソロプレイ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">確認必須の設計図</td><td class="p-2 border">$147,500~$160,000</td><td class="p-2 border text-red-600">ソロプレイ不可</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">おしまいだ</td><td class="p-2 border">$107,500~$122,500</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">開けろ</td><td class="p-2 border">$107,500~$122,500</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">統べる者</td><td class="p-2 border">$110,000~$120,000</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">釈明</td><td class="p-2 border">$112,500~$115,000</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">オレンジの粉砕</td><td class="p-2 border">$112,500~$122,500</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">公爵夫人</td><td class="p-2 border">$107,500~$120,000</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">我を見ゆ</td><td class="p-2 border">$102,500~$122,500</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">弱肉強食</td><td class="p-2 border">$105,000~$117,500</td><td class="p-2 border"></td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">黄金の子犬</td><td class="p-2 border">$82,500~$90,000</td><td class="p-2 border">金庫室内</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">友という名の</td><td class="p-2 border">$77,500~$87,500</td><td class="p-2 border">金庫室内</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">ハンターがはく製になる</td><td class="p-2 border">$72,500~$90,000</td><td class="p-2 border">金庫室内</td></tr>
+                        <tr class="hover:bg-gray-100"><td class="p-2 border">束縛なき情愛の習作 69番</td><td class="p-2 border">$72,500~$92,500</td><td class="p-2 border">金庫室内</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </details>
+
+        <p class="font-bold mt-4">■ その他サブターゲット</p>
+        <ul>
+            <li>搬入トラックの荷物はバールを使って強奪する。</li>
+            <li>貸金庫の現金はバッグの容量（5%）にカウントされる。</li>
+        </ul>
+
+        <!-- 必須の調達ミッション -->
+        <h3 id="id_0b37fe15">必須の調達ミッション</h3>
+        <img loading="lazy" src="https://img.atwiki.jp/gtav/attach/3237/16198/Prep.jpg" alt="Prep" class="rounded-lg shadow border mb-4 max-w-full">
+
+        <h4 id="id_3b5940c7">潜入装備</h4>
+        
+        <h5 id="id_4b4b9075">スタッフ用のキーカード</h5>
+        <ul>
+            <li>従業員入口からの潜入・脱出が可能になる。ヘリから最も近い脱出地点の1つ。</li>
+        </ul>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. <span class="text-amber-700">ピルボックス・ヒル</span>に行け・<span class="text-amber-700">ハッカーのねぐら</span>に潜入しろ</strong></p>
+            <p><strong>2. <span class="text-blue-700">テラーバイト</span>に乗り込め・<span class="text-emerald-700">キーカードクローンメーカー</span>を盗め・<span class="text-amber-700">テラーバイト</span>の外に出ろ・<span class="text-amber-700">ハッカーのねぐら</span>を出ろ</strong></p>
+            <p><strong>3. クローンメーカーを<span class="text-amber-700">コルツ・センター</span>まで届けろ・<span class="text-emerald-700">キーカードクローンメーカー</span>を設置しろ・エリアを離れろ</strong></p>
+        </div>
+
+        <h5 id="id_537c4888">タクティカル装置</h5>
+        <ul>
+            <li>ラペリングフック、テルミット、ナイトビジョン、監視カメラ停止装置が使用可能になる。</li>
+        </ul>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. <span class="text-amber-700">バートン</span>に行け・<span class="text-emerald-700">サーマルチャージ</span>を盗め</strong></p>
+            <p><strong>2. <span class="text-amber-700">保釈局</span>に行け・<span class="text-amber-700">保釈局</span>に入る方法を選べ</strong></p>
+            <p><strong>3. <span class="text-red-600">サーマルチャージ</span>を設置しろ・タクティカル装置を探せ・<span class="text-emerald-700">タクティカル装置</span>を盗め・<span class="text-amber-700">保釈局</span>を出ろ</strong></p>
+            <p><strong>4. タクティカル装置を<span class="text-amber-700">邸宅</span>に届けろ</strong></p>
+        </div>
+
+        <h5 id="id_ecb4b55a">防護服</h5>
+        <ul>
+            <li>下水道ルートのダメージ無効化＆警備員への悪臭発覚を防ぐ。</li>
+        </ul>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. <span class="text-amber-700">バインウッド・ヒルズ</span>に行け・<span class="text-amber-700">家</span>に侵入しろ</strong></p>
+            <p><strong>2. ラボのボスを倒せ・<span class="text-blue-700">ボス</span>の顔をスキャンしろ・網膜スキャンを解析するまで待て・<span class="text-emerald-700">地下室のドア</span>を開けろ</strong></p>
+            <p><strong>3. <span class="text-red-600">結晶作業員</span>を片付けろ・<span class="text-emerald-700">防護服</span>を盗め・<span class="text-amber-700">結晶ラボ</span>を出ろ・<span class="text-amber-700">家</span>の外に出ろ</strong></p>
+            <p><strong>4. 防護服を自分の<span class="text-amber-700">邸宅</span>に届けろ</strong></p>
+        </div>
+
+        <h5 id="id_a0027409">アルファメール変装</h5>
+        <ul>
+            <li>配達員衣装とバンを使って警戒されずに搬入口から直行できる。効率周回に推奨。</li>
+        </ul>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. アルファメール<span class="text-amber-700">倉庫</span>に行け・<span class="text-amber-700">倉庫</span>に侵入しろ</strong></p>
+            <p><strong>2. アルファメールの身分証＆コスチュームを盗め</strong></p>
+            <p><strong>3. 身分証で<span class="text-blue-700">アルファメールのバン</span>に乗り込め・<span class="text-amber-700">倉庫</span>を出ろ</strong></p>
+            <p><strong>4. 警察の追跡を振り切れ・バンを<span class="text-amber-700">ロスサントス・カスタム</span>まで運転しろ・バンのプレートを変えろ</strong></p>
+            <p><strong>5. アルファメールのバンを<span class="text-amber-700">邸宅</span>に届けろ</strong></p>
+        </div>
+
+        <h4 id="id_2e98ebaf">追跡不可の武器</h4>
+        <p>邸宅の武器庫や地下基地を所有している場合、Mk2武器や特殊弾薬の追加アップグレードが適用されます。</p>
+
+        <div class="overflow-x-auto my-4">
+            <table class="min-w-full text-xs sm:text-sm border-collapse border border-gray-300">
+                <thead>
+                    <tr class="bg-red-500 text-white font-bold">
+                        <th class="border border-gray-300 p-2">ストリート装備</th>
+                        <th class="border border-gray-300 p-2">警備装備</th>
+                        <th class="border border-gray-300 p-2">軍用装備</th>
+                    </tr>
+                </thead>
+                <tbody class="divide-y divide-gray-200">
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">バトルライフル (サプレッサー)</td>
+                        <td class="p-2 border">ブルパップライフル (ライト/サプレッサー)</td>
+                        <td class="p-2 border">ミリタリーライフル (ライト/サプレッサー)</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">ミニSMG</td>
+                        <td class="p-2 border">ヘビーショットガン</td>
+                        <td class="p-2 border">アサルト・ショットガン (サプレッサー)</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">ピストル (ライト/サプレッサー)</td>
+                        <td class="p-2 border">マシンピストル (サプレッサー)</td>
+                        <td class="p-2 border">軍用ショットガン (サプレッサー)</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">パイプ爆弾</td>
+                        <td class="p-2 border">スタンガン</td>
+                        <td class="p-2 border">スタンガン</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">山刀</td>
+                        <td class="p-2 border">軍用ピストル (サプレッサー)</td>
+                        <td class="p-2 border">タクティカルSMG (サプレッサー)</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">ポンプ式ショットガン Mk2 (※武器庫所有時)</td>
+                        <td class="p-2 border">手榴弾</td>
+                        <td class="p-2 border">粘着爆弾</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">-</td>
+                        <td class="p-2 border">飛び出しナイフ</td>
+                        <td class="p-2 border">ナイフ</td>
+                    </tr>
+                    <tr class="hover:bg-gray-100">
+                        <td class="p-2 border">-</td>
+                        <td class="p-2 border">マークスマンライフル Mk2 (※武器庫所有時)</td>
+                        <td class="p-2 border">ヘビースナイパー Mk2 (※武器庫所有時)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h5 id="id_5bdb9575">ストリート装備</h5>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. <span class="text-amber-700">ラ・プエルタ</span>に行け・<span class="text-amber-700">修理店</span>に侵入しろ</strong></p>
+            <p><strong>2. 武器保管ロッカーを見つけろ・<span class="text-emerald-700">追跡不可の武器</span>を盗め・<span class="text-emerald-700">監視カメラの映像</span>を消せ・<span class="text-amber-700">修理店</span>を出ろ・<span class="text-amber-700">武器</span>を邸宅に届けろ</strong></p>
+        </div>
+
+        <h5 id="id_ed52116c">警備装備</h5>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. <span class="text-amber-700">目的地</span>に行け・セキュリサーブの<span class="text-amber-700">倉庫</span>に侵入しろ</strong></p>
+            <p><strong>2. 武器保管ロッカーを見つけろ・<span class="text-emerald-700">追跡不可の武器</span>を盗め・<span class="text-emerald-700">爆弾</span>を設置しろ・<span class="text-amber-700">倉庫</span>を出ろ</strong></p>
+            <p><strong>3. <span class="text-amber-700">武器</span>を邸宅に届けろ</strong></p>
+        </div>
+
+        <h5 id="id_e31454d6">軍用装備</h5>
+        <div class="bg-gray-50 border-l-4 border-indigo-500 p-3 mb-4 text-sm space-y-2">
+            <p><strong>1. <span class="text-amber-700">フォート・ザンクード</span>に行け・<span class="text-amber-700">管制塔</span>に侵入しろ</strong></p>
+            <p><strong>2. 武器保管ロッカーを見つけろ・<span class="text-emerald-700">追跡不可の武器</span>を盗め・<span class="text-emerald-700">サーバー</span>をハッキングしろ・<span class="text-emerald-700">バックアップドライブ</span>を引き抜く・警察の追跡を振り切れ・<span class="text-amber-700">武器</span>を邸宅に届けろ</strong></p>
+        </div>
+
+    </div>
+
+</body>
+</html>
