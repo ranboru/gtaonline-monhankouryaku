@@ -74,7 +74,7 @@
                     <div class="wiki-category-title">■トップページ</div>
                     <ul class="space-y-0">
                         <li>
-                            <a href="articles/top.html" target="wiki-content">├トップページ</a>
+                            <a href="#" data-url="articles/top.html" class="ajax-link">├トップページ</a>
                         </li>
                     </ul>   
                 </div>
@@ -117,5 +117,53 @@
         });
     });
 </script>
+
+<script>
+    // 記事を表示するエリアと、すべてのメニューリンクを取得
+    const contentArea = document.getElementById('wiki-content');
+    const ajaxLinks = document.querySelectorAll('.ajax-link');
+
+    // ページを開いた最初に「top.html」を自動で読み込む関数
+    function loadPage(url) {
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('ページの読み込みに失敗しました');
+                }
+                return response.text();
+            })
+            .then(html => {
+                // 読み込んだHTMLの中の <body> タグの中身だけを取り出して反映させるテクニック！
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                
+                // 記事側の <body class="..."> の中身をごっそりメインエリアに入れる
+                contentArea.innerHTML = doc.body.innerHTML;
+            })
+            .catch(error => {
+                contentArea.innerHTML = '<p class="text-red-500">記事の読み込みにエラーが発生しました。</p>';
+                console.error(error);
+            });
+    }
+
+    // サイトを開いた初回の読み込み
+    loadPage('articles/top.html');
+
+    // メニューのリンクがクリックされたときの処理
+    ajaxLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault(); // ページがピュッと上に飛ぶのを防ぐ
+            const url = link.getAttribute('data-url');
+            loadPage(url);
+
+            // もしスマホのメニューが開いていたら、リンクをクリックした時に自動で閉じるようにすると超親切！
+            const sidebar = document.getElementById('sidebar');
+            if (sidebar) {
+                sidebar.classList.add('translate-x-full'); // さっきのスマホ用メニュー閉じる処理
+            }
+        });
+    });
+</script>
+
 </body>
 </html>

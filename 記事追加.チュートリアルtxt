@@ -1,13 +1,12 @@
-Wiki制作チュートリアル：サイドバーと記事の連携
-
-このWikiは、左側のサイドバーからリンクをクリックすることで、右側の <iframe> 内のコンテンツを切り替える構成になっています。
+🚀 新・Wiki制作チュートリアル：サイドバーと記事の連携（Fetch API版）
+このWikiは、左側のサイドバーからリンクをクリックすると、JavaScript（fetch API）を使ってページ全体の再読み込みなしで、右側のエリアに記事のHTMLを動的に読み込ませるスマートな構成になっています！スマホでのスクロールも超快適です✨
 
 1. 記事ファイルの準備
-
-まず、表示したい記事をHTMLファイルとして作成し、articles/ ディレクトリの中に保存してください。
+まず、表示したい記事を通常のHTMLファイルとして作成し、articles/ ディレクトリの中に保存してください。
 
 例：articles/beginner.html
 
+HTML
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -19,14 +18,15 @@ Wiki制作チュートリアル：サイドバーと記事の連携
     <p>ここに攻略情報を記述します。</p>
 </body>
 </html>
+2. サイドバー（目次）へのリンク追加と書き方
+メインの index.html の <div id="wiki-menu"> の中に、カテゴリ見出しとメニューリンクを追加していきます。
 
+💡 変更のポイント
+target="wiki-content" はもう使いません！
 
-2. サイドバー（目次）へのリンク追加とカテゴリの増やし方
-メインの index.html の <div id="wiki-menu"> の中に、緑色のカテゴリ見出し（class="wiki-category-title"）と、ツリー構造のリンク（├ や └）を追加していきます。
+代わりに、リンクには href="#" と、読み込みたいファイルを指定する data-url="..."、そして共通の目印となる class="ajax-link" を必ず指定してください。
 
-ポイントは、リンクに必ず target="wiki-content" を指定することです。これにより、リンク先が右側の iframe 内で開かれます。
-
-index.html の編集箇所例（カテゴリや項目の追加）：
+index.html のメニュー記述例：
 
 HTML
 <div id="wiki-menu">
@@ -34,10 +34,10 @@ HTML
     <div class="wiki-category-title">■トップページ</div>
     <ul class="space-y-0">
         <li>
-            <a href="articles/top.html" target="wiki-content">├トップページ</a>
+            <a href="#" data-url="articles/top.html" class="ajax-link">├トップページ</a>
         </li>
         <li>
-            <a href="articles/beginner.html" target="wiki-content">└初心者ガイド</a>
+            <a href="#" data-url="articles/beginner.html" class="ajax-link">└初心者ガイド</a>
         </li>
     </ul>   
 
@@ -45,33 +45,69 @@ HTML
     <div class="wiki-category-title">■全般</div>
     <ul class="space-y-0">
         <li>
-            <a href="articles/summary.html" target="wiki-content">├概要</a>
+            <a href="#" data-url="articles/summary.html" class="ajax-link">├概要</a>
         </li>
         <li>
-            <a href="articles/faq.html" target="wiki-content">└よくある質問</a>
+            <a href="#" data-url="articles/faq.html" class="ajax-link">└よくある質問</a>
         </li>
     </ul>
 </div>
-カテゴリの増やし方: <div class="wiki-category-title">■〇〇</div> で緑色の見出しを作り、その下の <ul> リストの中に項目を増やしていきます。
+3. 右側の表示エリア（iframeから変更）
+右側のメイン記事を表示する場所は、iframeではなく普通の div タグ（id="wiki-content"）を用意します。ここにJavaScriptが記事をスポッと挿入してくれます！
 
-ツリーのデザイン: 項目の枝分かれを表現するために、行頭に ├ や、最後の項目には └ を使うと、本格的なWiki風の見た目になります！
+HTML
+<!-- 右側メイン記事表示エリア -->
+<main class="flex-grow p-4 md:p-8 flex flex-col">
+    <div class="bg-white rounded-lg shadow-lg overflow-hidden border border-gray-200 flex-grow flex flex-col p-6">
+        <!-- 記事が自動で読み込まれるエリア -->
+        <div id="wiki-content" class="w-full flex-grow"></div>
+    </div>
+</main>
+4. 魔法のJavaScript（index.html の一番下に貼るコード）
+リンクがクリックされたときに、裏側でHTMLを読み込んで表示するためのスクリプトです。</body> の直前などに貼ってください！
 
-3. 運用のアドバイス
+HTML
+<script>
+    const contentArea = document.getElementById('wiki-content');
+    const ajaxLinks = document.querySelectorAll('.ajax-link');
 
-スタイルの統一
+    // ページを読み込む関数
+    function loadPage(url) {
+        fetch(url)
+            .then(response => {
+                if (!response.ok) throw new Error('ページの読み込みに失敗しました');
+                return response.text();
+            })
+            .then(html => {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                contentArea.innerHTML = doc.body.innerHTML;
+            })
+            .catch(error => {
+                contentArea.innerHTML = '<p class="text-red-500">記事の読み込みにエラーが発生しました。</p>';
+                console.error(error);
+            });
+    }
 
-各記事ファイル（articles/*.html）の <head> にも同じように Tailwind CSS を読み込ませることで、サイト全体でデザインを統一できます。
+    // 初回アクセス時にトップページを表示
+    loadPage('articles/top.html');
 
-リンクの管理
+    // メニューをクリックしたときの処理
+    ajaxLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const url = link.getAttribute('data-url');
+            loadPage(url);
 
-記事数が増えてきたら、index.html が長くなりすぎるため、以下のように整理すると良いでしょう：
+            // スマホメニューが開いている場合は自動で閉じる
+            const sidebar = document.getElementById('sidebar');
+            if (sidebar) {
+                sidebar.classList.add('translate-x-full');
+            }
+        });
+    });
+</script>
+5. 運用のアドバイス & 注意点
+スタイルの統一: 各記事ファイル（articles/*.html）の <head> にも同じように Tailwind CSS を読み込ませることで、デザインが綺麗に統一されます。
 
-カテゴリごとに <ul> リストで囲む。
-
-検索用の input タグには、簡単なJavaScriptを後で組み込むと、目次の絞り込み検索機能が作れます。
-
-注意点：ローカル環境での確認
-
-PC内のファイルとして開いている場合、ブラウザのセキュリティ設定で iframe の読み込みが制限されることがあります。
-
-解決策: VS Codeの拡張機能「Live Server」などを使って、ローカルサーバー経由でブラウザ表示するようにしてください。
+ローカル環境での確認: fetch APIを使う仕組み上、パソコン内で直接ファイルを開く（file:///...）とブラウザのセキュリティ制限でエラーが出ます。必ず VS Codeの拡張機能「Live Server」 などを使って、ローカルサーバー経由で確認するようにしてください！
