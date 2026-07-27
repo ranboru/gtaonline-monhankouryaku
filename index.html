@@ -125,7 +125,7 @@
                 contentArea.className = "w-full flex-grow flex flex-col " + doc.body.className;
             })
             .catch(error => {
-                contentArea.innerHTML = '<p class="text-red-500 p-4">記事の読み込みにエラーが発生しました。</p>';
+                contentArea.innerHTML = '<p class="text-red-500 p-4">記事の読み込みにエラーが発生しました。記事が作成されていないか、端末のネットワーク環境に不具合が発生している場合があります。一度サイトを開きなおすかリロードをかけてみてください。リロードをかけてもエラーが出る場合は、記事が作成されていない場合が高いです。</p>';
                 console.error(error);
             });
     }
