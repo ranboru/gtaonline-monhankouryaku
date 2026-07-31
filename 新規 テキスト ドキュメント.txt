@@ -1,0 +1,1658 @@
+<div id="contents">
+            <div id="wikibody" class="box">
+                <!--@@@@@--><blockquote><h2 id="id_51175787">コルツ・センター強盗(The Kortz Center Heist)<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/1" rel="nofollow"></a></h2>
+</blockquote>
+
+<div class="plugin_video plugin_youtube plugin_u2b"><iframe loading="lazy" src="https://www.youtube.com/embed/xbk_3p5lskI?controls=1&amp;rel=0" frameborder="0" width="745" height="420" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe></div>
+<br>
+<hr>
+
+<div class="plugin_contents"><!--@@@@@--><ul><li><a href="#id_057126df">概要</a></li>
+<li><a href="#id_d69994c2">開始までの流れ</a></li>
+<li><a href="#id_b0135802">強盗準備</a><ul><li><a href="#id_ef4e3637">コルツ・センター偵察</a><ul><li><a href="#id_fb459858">侵入地点</a></li>
+<li><a href="#id_34cec3f4">注目ポイント</a></li>
+<li><a href="#id_f7e8c634">潜入道具</a></li></ul></li>
+<li><a href="#id_8f03c504">各種ターゲット一覧</a><ul><li><a href="#id_f5c06f85">主要ターゲット</a></li>
+<li><a href="#id_c13002fa">その他の略奪品</a><ul><li><a href="#id_64516958">買い手のリクエスト</a></li></ul></li></ul></li>
+<li><a href="#id_0b37fe15">必須の調達ミッション</a><ul><li><a href="#id_3b5940c7">潜入装備</a><ul><li><a href="#id_4b4b9075">スタッフ用のキーカード</a></li>
+<li><a href="#id_537c4888">タクティカル装置</a></li>
+<li><a href="#id_ecb4b55a">防護服</a></li>
+<li><a href="#id_a0027409">アルファメール変装</a></li></ul></li>
+<li><a href="#id_2e98ebaf">追跡不可の武器</a><ul><li><a href="#id_5bdb9575">ストリート装備</a></li>
+<li><a href="#id_ed52116c">警備装備</a></li>
+<li><a href="#id_e31454d6">軍用装備</a></li></ul></li>
+<li><a href="#id_649a3355">逃走用の乗り物</a><ul><li><a href="#id_6f7a3a16">マンチェス</a></li>
+<li><a href="#id_31d499d9">カラカラ(装甲)</a></li>
+<li><a href="#id_e428d4ae">アナイアレイターステルス</a></li></ul></li>
+<li><a href="#id_1eefc550">器材（機材）</a><ul><li><a href="#id_84dc9ff5">アクセスコード</a></li>
+<li><a href="#id_056726be">ハッキング装置</a></li></ul></li></ul></li>
+<li><a href="#id_58d1f347">任意の調達ミッション</a><ul><li><a href="#id_e3eb7544">警備輸送</a></li>
+<li><a href="#id_a5a1b56d">警備ルート</a></li>
+<li><a href="#id_5d0e0232">ガラスカッター</a></li>
+<li><a href="#id_adbf469f">電動ドリル</a></li>
+<li><a href="#id_787b92c5">EMPチャージ</a></li></ul></li>
+<li><a href="#id_f6dbed85">その他</a><ul><li><a href="#id_b6399282">金庫室キーパッド</a></li>
+<li><a href="#id_e32d0e24">高性能アビオニクス</a></li></ul></li></ul></li>
+<li><a href="#id_dc03d1f1">フィナーレ</a><ul><li><a href="#id_debac22e">共通の注意事項</a><ul><li><a href="#id_820c5cb3">マルチプレイ時の注意事項</a></li>
+<li><a href="#id_a8b845a6">ステルスクリアのコツ</a></li></ul></li>
+<li><a href="#id_0e1f5fde">コルツ・センターへの侵入</a></li>
+<li><a href="#id_090b992c">コルツ・センター内部</a><ul><li><a href="#id_a3610893">展示室</a></li>
+<li><a href="#id_5e3da50f">地下</a></li></ul></li>
+<li><a href="#id_6bbe1cd1">コルツ・センターからの脱出</a></li>
+<li><a href="#id_e7678358">報酬</a><ul><li><a href="#id_422ee701">アワード</a></li></ul></li>
+<li><a href="#id_1a9004dd">クリア後</a></li>
+<li><a href="#id_fc636b61">エリートチャレンジ</a></li></ul></li></ul></div>
+
+<hr>
+<h2 id="id_057126df">概要<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/2" rel="nofollow"></a></h2>
+
+<div class="atwiki_plugin_slide_img slick-initialized slick-slider slick-dotted" style="width:745px; margin-right: auto;" data-wikiid="gtav" data-auto_time="0"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2235px;"><div class="image slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 745px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16141/The%20Kortz%20Center%20Heist.jpg" alt="The Kortz Center Heist.jpg" style="width:745px; height: 419px;"></div><div class="image slick-slide" data-slick-index="1" aria-hidden="true" style="width: 745px; position: relative; left: -745px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16217/Contents.png" alt="Contents.png" style="width: 745px; height: 419px;"></div><div class="image slick-slide" data-slick-index="2" aria-hidden="true" style="width: 745px; position: relative; left: -1490px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16216/BG.jpg" alt="BG.jpg" style="width: 745px; height: 419px;"></div></div></div><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 3" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 3" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 3" tabindex="-1">3</button></li></ul></div>
+
+<ul><li>2026年7月14日に実装されたアップデート。本ページでは主に同アップデートで追加される強盗ミッション等について記載する。</li>
+<li>パシフィック・ブラフスの丘の上の博物館の<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/1754.html" title="コルツ・センター (41d)">コルツ・センター</a></span>の美術品を略奪する強盗ミッションが行えるようになる。<ul><li>この強盗では<span style="font-weight: bold;"><!--@@@@@-->ミスター・フェイバー</span>と彼の右腕の<span style="font-weight: bold;"><!--@@@@@-->ラフ・デ・アンジェリス</span>と協力することになる。<ul><li>コルツ・センター内のベル・ビルに収蔵された美術品にミスター・フェイバーの顧客が興味を示している。そこで美術品強盗を行い金庫室に侵入、展示前の主要ターゲットの美術品を偽造のエキスパートである<span style="font-weight: bold;"><!--@@@@@-->ヨンレイ</span>が作成したレプリカと入れ替え、監視カメラの映像を消去、美術品を顧客に引き渡す…というストーリー。</li></ul></li>
+<li>1～4人プレイが可能。</li>
+<li>盗み出した絵画はミスター・フェイバーの顧客に売却するか邸宅内に展示することができる。これはフィナーレの開始時に選択する。<ul><li>なお初回の強盗の際は必ず売却で固定される。<ul><li>この初回の強盗の際に盗む「デルニエール・デボーシュ」は同強盗で絵画26点を自分のものにすると自分の邸宅に展示することができる。</li></ul></li></ul></li>
+<li>同アップデートで導入された「<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/187.html#id_4589673c">各種金策系ミッションのフィナーレ部分の報酬は、ウィークリーアップデート後に最初に手に入った報酬額に対してはウィークリーボーナスが追加される。ただし、それ以降のプレイでは市場が飽和し、買い手の関心が薄れることで報酬が減少する</a></span>」<span style="font-weight: bold;"><!--@@@@@-->というシステムの象徴とも言える報酬設定</span>となっている。<ul><li>期間中（難易度ノーマルで）最初の売却の場合はウィークリーボーナス込みの主要ターゲットの報酬は121万～192万だが、それ以降のウィークリーボーナスが無い主要ターゲットの報酬は30万～48万程(メインターゲットを売却した場合)となる。</li></ul></li></ul></li>
+<li>本アップデートに伴い、GTAオンラインのコルツ・センターの建物の構造がアップデート前やストーリーモードのものと若干変化している。<ul><li>主な例としては本強盗のメインとなる建物のベル・ビルの屋上に天窓が設置されたり、生垣迷路の外周部分に生垣が追加され迷路に出入りしづらくなっている。</li></ul></li>
+<li><a id="FAC" name="FAC" href="#FAC"></a>本アップデート実装に先駆け、2026年6月18日から7月13日まで、「美術品コレクタープログラム」というイベントが行われていた。<br>「美術品コレクタープログラム」の<span style="font-weight: bold;"><!--@@@@@-->報酬の受け取り期限は<span style="color: red;"><!--@@@@@-->2026年8月5日まで</span>なので注意</span>。<ul><li>また、このプログラムはアカウントごとの処理であるようで、メインキャラが条件を達成すると、<span style="font-weight: bold;"><!--@@@@@-->サブキャラにもマネーこそ入らないが、コスチューム入手や乗り物の無料化の処理が適応される。</span></li></ul></li></ul>
+<br>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;"><!--@@@@@-->美術品コレクタープログラムの詳細</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16142/t/Fine%20Art%20Collector.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16142/m/Fine%20Art%20Collector.jpg"><img class="atwiki_plugin_image" loading="lazy" width="745" height="419" style="aspect-ratio: 745/419;" src="//img.atwiki.jp/gtav/attach/3237/16142/Fine%20Art%20Collector.jpg"></picture></div>
+<br>
+美術品コレクタープログラムはティア1からティア3まで報酬が用意されている。
+<br>
+<div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16143/t/Fine%20Art%20Collector1.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16143/m/Fine%20Art%20Collector1.jpg"><img class="atwiki_plugin_image" loading="lazy" width="745" height="419" style="aspect-ratio: 745/419;" src="//img.atwiki.jp/gtav/attach/3237/16143/Fine%20Art%20Collector1.jpg"></picture></div>
+<br>
+ティア1（愛好家）はGTAオンラインをプレイすることで、$500,000と無料の<a href="//w.atwiki.jp/gtav/pages/1593.html" title="Turreted Limo (12d)">武装リムジン</a>が手に入る。
+<br>
+<div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16144/t/Fine%20Art%20Collector2.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16144/m/Fine%20Art%20Collector2.jpg"><img class="atwiki_plugin_image" loading="lazy" width="745" height="419" style="aspect-ratio: 745/419;" src="//img.atwiki.jp/gtav/attach/3237/16144/Fine%20Art%20Collector2.jpg"></picture></div>
+<br>
+ティア2（パトロン）はGTAオンラインの強盗ミッションをクリアすることで、$1,000,000とN.O.O.S.Eの制服が手に入る。
+<br>
+<div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16145/t/Fine%20Art%20Collector3.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16145/m/Fine%20Art%20Collector3.jpg"><img class="atwiki_plugin_image" loading="lazy" width="745" height="419" style="aspect-ratio: 745/419;" src="//img.atwiki.jp/gtav/attach/3237/16145/Fine%20Art%20Collector3.jpg"></picture></div>
+<br>
+ティア3（エリーティスト）は<a href="//w.atwiki.jp/gtav/pages/3216.html#id_f056da7e">邸宅</a>を所有するプレイヤーがGTAオンラインをプレイすることで、このアップデートが実装された時点で報酬が受け取れるようになる。コルツ・センター強盗に必要な邸宅のアートスタジオの拡張料金が$1,000,000割引かれ、アートスタジオの作戦ボードから購入できる金庫室キーパッドが無料になり、<a href="//w.atwiki.jp/gtav/pages/920.html" title="Warstock Cache &amp; Carry (251d)">ウォーストック</a>から<a href="//w.atwiki.jp/gtav/pages/2650.html" title="Annihilator Stealth (12d)">アナイアレイターステルス</a>が無料で手に入り、邸宅に飾れる「三日月の時制」が贈られ、コルツ・センター強盗の初回クリア後の次のコルツ・センター強盗挑戦時に高価格の主要ターゲット「努力の成果」が出現するようになる。
+<br>
+
+</td></tr></tbody></table>
+
+<br>
+<h2 id="id_d69994c2">開始までの流れ<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/3" rel="nofollow"></a></h2>
+
+<div class="atwiki_plugin_slide_img slick-initialized slick-slider slick-dotted" style="width:745px; margin-right: auto;" data-wikiid="gtav" data-auto_time="0"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2235px;"><div class="image slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 745px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16190/Artstudio.jpg" alt="Artstudio.jpg" style="width:745px; height: 419px;"></div><div class="image slick-slide" data-slick-index="1" aria-hidden="true" style="width: 745px; position: relative; left: -745px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide11" aria-describedby="slick-slide-control11"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3216/16161/Art%20Studio.jpg" alt="https://img.atwiki.jp/gtav/attach/3216/16161/Art%20Studio.jpg" style="width: 745px; height: 419px;"></div><div class="image slick-slide" data-slick-index="2" aria-hidden="true" style="width: 745px; position: relative; left: -1490px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide12" aria-describedby="slick-slide-control12"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16158/KCH2.jpg" alt="KCH2.jpg" style="width: 745px; height: 419px;"></div></div></div><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 3" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control11" aria-controls="slick-slide11" aria-label="2 of 3" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control12" aria-controls="slick-slide12" aria-label="3 of 3" tabindex="-1">3</button></li></ul></div>
+
+<ul><li>ミッションを開始するには<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3216.html#id_f056da7e">邸宅</a></span>の地下2階に「<span style="font-weight: bold;"><!--@@@@@-->アートスタジオ</span>」を追加後、いずれかの邸宅のアートスタジオを直接訪れてカットシーンを見る必要がある。見終わったら、アートスタジオの作戦ボードからコルツ・センター強盗を開始できる。<ul><li>アートスタジオは、いずれかの邸宅に追加した段階ですべての邸宅に備え付けられる。<ul><li>どの邸宅のアートスタジオからミッションを開始しても良く、器材を調達した際、出発した邸宅ではない邸宅に届けることでもクリアできる仕様。</li></ul></li>
+<li>開始後は作戦ボードの他、<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->ラフに電話をかける</span>ことでも一部調達ミッションを開始できる</span>。偵察および逃走用の乗り物の調達ミッションの場合はマップ上のミッションマーカーに訪れることでも開始できる。<ul><li>いちいちアートスタジオに戻る必要が無いので便利。上手く活用しよう。</li></ul></li></ul></li></ul>
+<br>
+<hr>
+<h2 id="id_b0135802">強盗準備<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4" rel="nofollow"></a></h2>
+<h3 id="id_ef4e3637">コルツ・センター偵察<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-1" rel="nofollow"></a></h3>
+<div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16194/t/Model.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16194/m/Model.jpg"><img class="atwiki_plugin_image" loading="lazy" width="745" height="419" style="aspect-ratio: 745/419;" src="//img.atwiki.jp/gtav/attach/3237/16194/Model.jpg"></picture></div>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->コルツ・センター</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->ベル・ビル</span>に入れ</span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->警備室</span>に忍び込め・AIアシスタントを<span style="color: #1d8f00;"><!--@@@@@-->セキュリティシステム</span>にアップロードしろ</span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->3.カメラ映像で主要ターゲットを探せ・展示室を偵察するか退出しろ・<span style="color: #026aba;"><!--@@@@@-->従業員用入口</span>の写真を撮れ</span>
+<br>
+<br>
+<ul><li>2回目以降はAIアシスタントが主要ターゲットを教えてくれるので偵察は任意となる。<ul><li>しかし、マンホールの鍵の入手や「買い手のリクエスト」で指定されたその他の略奪品の位置を捕捉しておくなどができるため偵察はしておいた方が良い。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_1" id="footnote_body_1" title="偵察時に位置を記録していない略奪品は、強盗時にマップに表示されない">*1</a><span class="hidden">)</span></span></li>
+<li>偵察自体はどのタイミングでも行えるので、キーカードの調達でコルツ・センターを訪れてからその足で偵察を行う…などの順番でこなせば移動の手間が少ない。</li></ul></li>
+<li>監視カメラは、展示室にいる限りは範囲内に入っても反応しないが、立ち入り禁止エリアを出入りするところを捉えられると発覚扱いになり、警備員に建物の外につまみ出される<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_2" id="footnote_body_2" title="ナイトクラブの迷惑客をつまみ出す演出と同じ">*2</a><span class="hidden">)</span></span>ので注意。</li>
+<li><a href="//w.atwiki.jp/gtav/pages/3040.html" title="Career Progress (13d)">キャリア進行状況</a>のティア2『その他の略奪品をすべて偵察しろ』は、<span style="font-weight: bold;"><!--@@@@@-->その他の略奪品がすべて存在している時にすべて偵察する</span>という意味らしく、前回のフィナーレでその他の略奪品を奪ったことでそのスペースに展示品が無い場合は「すべて偵察」は出来ない模様。</li>
+<li><a href="//w.atwiki.jp/gtav/pages/2643.html">カヨ・ペリコ強盗</a>の偵察とは違い、略奪品の位置や値段を記録した後にセッションを切り替えても記録は保持されないので注意。面倒でも偵察後は邸宅に直接戻る必要がある。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h4 id="id_fb459858">侵入地点<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-1-1" rel="nofollow"></a></h4>
+<ul><li>作戦ボードに表記される侵入地点は「従業員用入口」、「天窓」、「搬入口」、「下水道入口（下水トンネル）」の全部で4ヶ所ある。<ul><li>「従業員用入口」は初回の偵察時に必ず撮影することになる。</li>
+<li>「天窓」はベル・ビルの屋上の<span style="font-weight: bold;"><!--@@@@@-->天窓</span>を外から撮影すると発見できる。建物の階段や梯子を上る事で到達できるが、基本的にはヘリなどを使えばすぐにたどり着ける。<ul><li>これを発見することで「<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_537c4888">タクティカル装置</a></span>」を調達できるようになる。</li></ul></li>
+<li>「搬入口」は建物の西の駐車場の先の<span style="font-weight: bold;"><!--@@@@@-->地下へと続くシャッター</span>を撮影すると発見できる。<ul><li>これを発見することで「<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_a0027409">アルファメール変装</a></span>」を調達できるようになる。</li></ul></li>
+<li>「下水道入口（下水トンネル）」は庭園の迷路の中に<span style="font-weight: bold;"><!--@@@@@-->マンホール</span>があり、これを撮影すると発見できる。やはり基本的にヘリなどを使えば上からすぐに視認できるだろう。<ul><li>これを発見することで「<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_ecb4b55a">防護服</a></span>」を調達できるようになる。</li>
+<li>ちなみにマンホールを撮影していなくてもマンホールの鍵を手に入れさえすればフィナーレで下水道入口を使用可能。</li></ul></li></ul></li>
+<li>以下のサイトで、侵入地点の位置を確認できる。<br><a href="https://gtaweb.eu/gtao-map/ls/-/kortz-center-heist-entry-points" target="_blank">https://gtaweb.eu/gtao-map/ls/-/kortz-center-heist-entry-points</a></li></ul>
+<h4 id="id_34cec3f4">注目ポイント<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-1-2" rel="nofollow"></a></h4>
+<ul><li>注目ポイントは「配達トラック」、「展示ケース警報器」、「地下への行き方」、「配電盤」、「無線タワー」、「警備室」の全部で6ヶ所ある。<ul><li>「配達トラック」は監視カメラの映像を確認する際に搬入口のカメラをパンすると発見できる。配達トラックに配置されるサブターゲットはソロで取れる物としては最も高額となるので積極的に狙いたい。</li>
+<li>「展示ケース警報器」は展示室地下1階部分の受付の壁部分に設置された機械を撮影すると発見できる。</li>
+<li>「地下への行き方」は展示室地下1階部分の展示ケースの西にあるドアを撮影すると発見できる。</li>
+<li>「配電盤」はベル・ビルの外側の壁部分に3ヶ所設置されている配電盤のいずれかを撮影すると発見できる。<ul><li>これを発見することで「<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_787b92c5">EMPチャージ</a></span>」を調達できるようになる。</li></ul></li>
+<li>「無線タワー」はコルツ・センターの屋上に3ヶ所設置されている通信塔のいずれかを撮影すると発見できる。<ul><li>これを発見することで「<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_a5a1b56d">警備ルート</a></span>」を調達できるようになる。</li></ul></li>
+<li>「警備室」は建物の西の駐車場にある警備用の小屋を撮影すると発見できる。</li></ul></li>
+<li>以下のサイトで、注目ポイントの位置を確認できる。<br><a href="https://gtaweb.eu/gtao-map/ls/-/kortz-center-heist-poi" target="_blank">https://gtaweb.eu/gtao-map/ls/-/kortz-center-heist-poi</a></li></ul>
+<br>
+<h4 id="id_f7e8c634">潜入道具<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-1-3" rel="nofollow"></a></h4>
+<ul><li>偵察時に発見できる潜入道具は「<span style="font-weight: bold;"><!--@@@@@-->マンホールの鍵</span>」の1種。<ul><li>コルツ・センターの敷地内の出現候補地点5ヶ所の内のいずれか1ヶ所に出現する。いずれも建設機材が置いてある場所なのが特徴。「鍵」というよりは大きな「フック」のような形をしている。</li>
+<li>撮影するとフィナーレの際に位置が表示される…が、実際には<span style="font-weight: bold;"><!--@@@@@-->偵察時の時点で盗むことが可能</span>なので撮るよりも取った方が良いだろう。</li>
+<li>使いまわしができそうな気もするが、使い捨てで持ち越すこともできない。ミッション毎に新たに盗む必要がある。</li></ul></li>
+<li>以下のサイトで、マンホールの鍵の位置を確認できる。<br><a href="https://gtaweb.eu/gtao-map/ls/-/kortz-center-heist-manhole-key" target="_blank">https://gtaweb.eu/gtao-map/ls/-/kortz-center-heist-manhole-key</a></li></ul>
+<br>
+<h3 id="id_8f03c504">各種ターゲット一覧<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-2" rel="nofollow"></a></h3>
+<h4 id="id_f5c06f85">主要ターゲット<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-2-4" rel="nofollow"></a></h4>
+金庫室内部に展示されている絵画。本強盗における主目標。これを額縁から取り外し、レイが制作した本物そっくりの贋作とすり替える形で強奪する。
+<br>
+これらのターゲットは、売却して換金する以外にも自身の邸宅に持ち帰ってコレクションとして展示する事も可能。
+<br>
+初回は「デルニエール・デボージュ」で固定されており、
+<br>
+以降はウィークリーイベントが更新されるタイミングで選出された3種の絵画が順番に1→2→3→1→2→3→1→…というローテーションで主要ターゲットとして登場する（場合によってはイベント用の絵画がこのローテーションの中に組み込まれることがある）。
+<br>
+絵画の種類はローテーションで決まっているため、強盗をキャンセルして仕切り直しても変更されない。目当ての絵画を選ぶには順番通りに『コルツ・センター強盗』をクリアし続ける必要がある。
+<br>
+主要ターゲットの価格は<span style="font-weight: bold;"><!--@@@@@-->週ごとの初回クリア時のみ</span><span style="color: red;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@-->4倍</span></span></span>となる。
+<br>
+以下のサイトでコルツ・センターのアイコンをクリックすると、現在の週の主要ターゲットのローテーションを確認できる。<br><a href="https://gtaweb.eu/gtao-map/ls/-/kortz-center" target="_blank">https://gtaweb.eu/gtao-map/ls/-/kortz-center</a>
+<br>
+<br>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;">...</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称</td>
+		<!--0-1--><td style="background-color:#ff5959;">価格(ノーマル)</td>
+		<!--0-2--><td style="background-color:#ff5959;">価格(ハード)</td>
+		<!--0-3--><td style="background-color:#ff5959;">備考</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">デルニエール・デボージュ</td>
+		<!--1-1--><td style="">$1,925,000<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_3" id="footnote_body_3" title="週ごとの初回クリア時の4倍ボーナスが含まれてる可能性あり。要検証">*3</a><span class="hidden">)</span></span></td>
+		<!--1-2--><td style=""></td>
+		<!--1-3--><td style="">初回固定</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">黙想中の長い耳</td>
+		<!--2-1--><td style=""></td>
+		<!--2-2--><td style=""></td>
+		<!--2-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ローマの堕落</td>
+		<!--3-1--><td style="">$305,000</td>
+		<!--3-2--><td style=""></td>
+		<!--3-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ブラザー・ブラザー</td>
+		<!--4-1--><td style=""></td>
+		<!--4-2--><td style=""></td>
+		<!--4-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">人々のスケッチ</td>
+		<!--5-1--><td style="">$306,000</td>
+		<!--5-2--><td style="">$336,600</td>
+		<!--5-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">満開の後</td>
+		<!--6-1--><td style=""></td>
+		<!--6-2--><td style=""></td>
+		<!--6-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">トゥルー・ラヴ</td>
+		<!--7-1--><td style=""></td>
+		<!--7-2--><td style=""></td>
+		<!--7-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">息をのむ</td>
+		<!--8-1--><td style=""></td>
+		<!--8-2--><td style=""></td>
+		<!--8-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">絞り尽くされた肉体</td>
+		<!--9-1--><td style="">$308,000</td>
+		<!--9-2--><td style="">$338,800</td>
+		<!--9-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_11">		<!--10-0--><td style="">声が聞こえる</td>
+		<!--10-1--><td style="">$308,500</td>
+		<!--10-2--><td style="">$339,350</td>
+		<!--10-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_12">		<!--11-0--><td style="">冬、目的地なし</td>
+		<!--11-1--><td style="">$309,000</td>
+		<!--11-2--><td style="">$339,900</td>
+		<!--11-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_13">		<!--12-0--><td style="">真珠の首飾り少女</td>
+		<!--12-1--><td style=""></td>
+		<!--12-2--><td style=""></td>
+		<!--12-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_14">		<!--13-0--><td style="">チャット・オン・フルーツ</td>
+		<!--13-1--><td style=""></td>
+		<!--13-2--><td style=""></td>
+		<!--13-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_15">		<!--14-0--><td style="">パンプキン</td>
+		<!--14-1--><td style=""></td>
+		<!--14-2--><td style=""></td>
+		<!--14-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_16">		<!--15-0--><td style="">異なる双子</td>
+		<!--15-1--><td style=""></td>
+		<!--15-2--><td style=""></td>
+		<!--15-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_17">		<!--16-0--><td style="">スタックの研究V</td>
+		<!--16-1--><td style=""></td>
+		<!--16-2--><td style="">$342,650</td>
+		<!--16-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_18">		<!--17-0--><td style="">アイ、フルーツ</td>
+		<!--17-1--><td style="">$312,000</td>
+		<!--17-2--><td style="">$343,200</td>
+		<!--17-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_19">		<!--18-0--><td style="">生殺し</td>
+		<!--18-1--><td style="">$312,500</td>
+		<!--18-2--><td style="">$343,750</td>
+		<!--18-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_20">		<!--19-0--><td style="">行き過ぎた成功</td>
+		<!--19-1--><td style=""></td>
+		<!--19-2--><td style=""></td>
+		<!--19-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_21">		<!--20-0--><td style="">みなぎる果汁</td>
+		<!--20-1--><td style=""></td>
+		<!--20-2--><td style=""></td>
+		<!--20-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_22">		<!--21-0--><td style="">曲がりくねった家路</td>
+		<!--21-1--><td style=""></td>
+		<!--21-2--><td style=""></td>
+		<!--21-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_23">		<!--22-0--><td style="">シャウエッセン</td>
+		<!--22-1--><td style=""></td>
+		<!--22-2--><td style=""></td>
+		<!--22-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_24">		<!--23-0--><td style="">信用</td>
+		<!--23-1--><td style=""></td>
+		<!--23-2--><td style=""></td>
+		<!--23-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_25">		<!--24-0--><td style="">死が二人をわかつまで</td>
+		<!--24-1--><td style=""></td>
+		<!--24-2--><td style=""></td>
+		<!--24-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_26">		<!--25-0--><td style="">メロンについての考察</td>
+		<!--25-1--><td style=""></td>
+		<!--25-2--><td style=""></td>
+		<!--25-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_27">		<!--26-0--><td style="">努力の成果</td>
+		<!--26-1--><td style="">$365,000</td>
+		<!--26-2--><td style="">$401,500</td>
+		<!--26-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_28">		<!--27-0--><td style="">我が近接攻撃</td>
+		<!--27-1--><td style="">$317,000</td>
+		<!--27-2--><td style="">$348,700</td>
+		<!--27-3--><td style=""></td></tr>
+</tbody></table>
+
+</td></tr></tbody></table>
+
+<br>
+<br>
+<h4 id="id_c13002fa">その他の略奪品<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-2-5" rel="nofollow"></a></h4>
+主要ターゲットとは別に、カバンに詰め込むサブターゲット。建物内の各地に置かれている。
+<br>
+複数人でプレイする場合、<span style="font-weight: bold;"><!--@@@@@-->全員が手に入れたその他の略奪品の入手総額を参加人数で割った額が分配され、それぞれの報酬に上乗せされる</span>。
+<br>
+その他の略奪品を奪うと、次のコルツ・センター強盗ではその奪った場所にあったその他の略奪品が配置されず、そのさらに次のコルツ・センター強盗の際にその場所に復活する仕組み。
+<br>
+サブターゲットの価格は本強盗を開始する度に若干ながら変動する模様。（要検証）
+<br>
+<br>
+<h5 id="id_64516958">買い手のリクエスト<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-2-5-1" rel="nofollow"></a></h5>
+各強盗ごとに設定されている特別なその他の略奪品。
+<br>
+買い手がリクエストしたもので、通常時よりも金額が高めに設定されている。
+<br>
+偵察時に撮影すると<span style="font-weight: bold;"><!--@@@@@--><span style="color: orange;"><!--@@@@@-->黄色のアイコン</span></span>で記録される。
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->エリートチャレンジ</span>の目標にも設定されており、チャレンジを達成するには全てのリクエスト品を盗む必要がある。
+<br>
+リクエスト品は、強盗受注時点で展示されている展示品の中から約2～3点ランダムで選ばれる。
+<br>
+必ず空のバッグに全て収まる分しかリクエストされないため、空き容量の心配をする必要はないが、リクエスト品を全て回収する前に他の展示品をバッグに入れてしまった場合は、リクエスト品を全て回収できなくなる可能性が出てくるので要注意。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_4" id="footnote_body_4" title="リクエスト品が絵画2点だった場合は、他の展示品を盗んだ時点で達成不可能になる">*4</a><span class="hidden">)</span></span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->展示室2階にある、プレイヤーが2人いないと開けられないシャッター部屋の中の展示品がリクエスト品に選ばれた場合は、ソロプレイではどうやっても入手できないため、<span style="color: red;"><!--@@@@@-->その周回でのエリートチャレンジは実質的に達成不可能になる。</span></span>
+<br>
+リクエスト品は強盗を受注する度に変わるため、シャッター部屋の中の展示品がリクエスト品だった場合は、一度強盗をキャンセルすることでリクエスト品を再抽選することができる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_5" id="footnote_body_5" title="難易度ハードの場合は、強盗をキャンセルするとノーマルに戻ってしまうのでハードのソロでエリートチャレンジがしたい場合は運が必要">*5</a><span class="hidden">)</span></span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_6" id="footnote_body_6" title="手間と人手はかかるが、前の強盗を複数人で挑んでシャッター部屋のサブターゲットのみを全て回収してしまえば、次の強盗ではシャッター部屋の中からは選ばれないという手もある">*6</a><span class="hidden">)</span></span>
+<br>
+<br>
+リクエスト品を全て回収すると、ホストを含めたメンバー全員に<span style="font-weight: bold;"><!--@@@@@-->$50,000（ハードの場合は$100,000）</span>のボーナスが加算されるので、仮にエリートチャレンジを狙えなくても<span style="font-weight: bold;"><!--@@@@@-->リクエスト品を全回収するように努めれば最終的により多くの報酬を得られるようになる。</span>
+<br>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->■ガラスケース</span>
+<br>
+<ul><li>通常のガラスケース(横長のケース)の展示品は<a href="//w.atwiki.jp/gtav/pages/169.html" title="The Jewel Store Job (5d)">宝石店強盗</a>のように素手もしくは持っている銃の銃床で叩き割って回収する。宝石店強盗と違い銃撃では壊せない。</li>
+<li>強化ガラス(縦長のケース)のターゲットはカヨ・ペリコのようにガラスカッターで切断し、中身を回収する。</li>
+<li>必要な容量はブレスレットやバングルといった通常の展示品が10%、卵や女神像といった大物が20%、強化ガラスケースの品物が30%。</li>
+<li>いずれにせよ展示室地下1階の受付の壁に設置されている<span style="font-weight: bold;"><!--@@@@@-->展示ケース警報器</span>を無効化、もしくは<span style="font-weight: bold;"><!--@@@@@-->EMPチャージ</span>を使用しないと<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->手を出した時点で警報が鳴る</span></span>ので注意。<ul><li>また、いくら警報器を無力化した後でも略奪の際の派手にガラスを叩き割る音やカッターの切断音を<span style="font-weight: bold;"><!--@@@@@-->付近の敵に聞かれると警戒される。</span>一応そこまで鳴り響く範囲は広くないものの、気になるなら略奪前にあらかじめ周囲の敵を倒しておこう。</li></ul></li>
+<li>回収すると次の強盗ではケースが空<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_7" id="footnote_body_7" title="表向きでは「調査のために持ち出された展示物」という扱いになってる模様">*7</a><span class="hidden">)</span></span>になっていたり、価値のつかない展示品<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_8" id="footnote_body_8" title="鉱石など。ちなみに撮影してもラフに送信できない">*8</a><span class="hidden">)</span></span>に入れ替わる。</li></ul>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;">...</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称</td>
+		<!--0-1--><td style="background-color:#ff5959;">金額</td>
+		<!--0-2--><td style="background-color:#ff5959;">バッグに入る容量</td>
+		<!--0-3--><td style="background-color:#ff5959;">備考</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">メメント・ノン・モリ<br>(ゴールド)</td>
+		<!--1-1--><td style="">$85,000</td>
+		<!--1-2--><td style="">30%</td>
+		<!--1-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">メメント・ノン・モリ<br>(アメジスト)</td>
+		<!--2-1--><td style="">$87,500~$90,000</td>
+		<!--2-2--><td style="">30%</td>
+		<!--2-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">メメント・ノン・モリ<br>(エメラルド)</td>
+		<!--3-1--><td style="">$80,000</td>
+		<!--3-2--><td style="">30%</td>
+		<!--3-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">メメント・ノン・モリ<br>(ルビー)</td>
+		<!--4-1--><td style="">$82,500</td>
+		<!--4-2--><td style="">30%</td>
+		<!--4-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">コカールのカルカネット<br>(レッドスピネル)</td>
+		<!--5-1--><td style="">$80,000</td>
+		<!--5-2--><td style="">30%</td>
+		<!--5-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">コカールのカルカネット<br>(イエローダイヤモンド)</td>
+		<!--6-1--><td style="">$92,500</td>
+		<!--6-2--><td style="">30%</td>
+		<!--6-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">コカールのカルカネット<br>(インペリアル・トパーズ)</td>
+		<!--7-1--><td style="">$87,500</td>
+		<!--7-2--><td style="">30%</td>
+		<!--7-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">コカールのカルカネット<br>(タンザナイト)</td>
+		<!--8-1--><td style="">$97,500</td>
+		<!--8-2--><td style="">30%</td>
+		<!--8-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">シルバーダップルピント</td>
+		<!--9-1--><td style="">$90,000</td>
+		<!--9-2--><td style="">30%</td>
+		<!--9-3--><td style="">強化カラス</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_11">		<!--10-0--><td style="">佐目毛のアンダルシアン</td>
+		<!--10-1--><td style="">$95,000~$97,500</td>
+		<!--10-2--><td style="">30%</td>
+		<!--10-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_12">		<!--11-0--><td style="">マーブルサビーノ・クリオージョ</td>
+		<!--11-1--><td style="">$80,000</td>
+		<!--11-2--><td style="">30%</td>
+		<!--11-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_13">		<!--12-0--><td style="">クレメロ・ダッチウォームブラッド</td>
+		<!--12-1--><td style="">$85,000</td>
+		<!--12-2--><td style="">30%</td>
+		<!--12-3--><td style="">強化ガラス</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_14">		<!--13-0--><td style="">コカールの森の卵</td>
+		<!--13-1--><td style="">$62,000~$64,000</td>
+		<!--13-2--><td style="">20%</td>
+		<!--13-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_15">		<!--14-0--><td style="">コカールの彩りの卵</td>
+		<!--14-1--><td style="">$54,000</td>
+		<!--14-2--><td style="">20%</td>
+		<!--14-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_16">		<!--15-0--><td style="">コカールの魔法の卵</td>
+		<!--15-1--><td style="">$52,000</td>
+		<!--15-2--><td style="">20%</td>
+		<!--15-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_17">		<!--16-0--><td style="">コカールの深緑の卵</td>
+		<!--16-1--><td style="">$58,000</td>
+		<!--16-2--><td style="">20%</td>
+		<!--16-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_18">		<!--17-0--><td style="">コカールのワイバーンの卵&nbsp;</td>
+		<!--17-1--><td style="">$60,000</td>
+		<!--17-2--><td style="">20%</td>
+		<!--17-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_19">		<!--18-0--><td style="">豊穣の女神像<br>(アイボリー)</td>
+		<!--18-1--><td style="">$62,000~$92,000</td>
+		<!--18-2--><td style="">20%</td>
+		<!--18-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_20">		<!--19-0--><td style="">豊穣の女神像<br>(シルバー)</td>
+		<!--19-1--><td style="">$56,000~$84,000</td>
+		<!--19-2--><td style="">20%</td>
+		<!--19-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_21">		<!--20-0--><td style="">豊穣の女神像<br>(ゴールド)</td>
+		<!--20-1--><td style="">$52,000~$78,000</td>
+		<!--20-2--><td style="">20%</td>
+		<!--20-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_22">		<!--21-0--><td style="">コカールのブレスレット</td>
+		<!--21-1--><td style="">$29,000~$35,000</td>
+		<!--21-2--><td style="">10%</td>
+		<!--21-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_23">		<!--22-0--><td style="">アンティークのバンド</td>
+		<!--22-1--><td style="">$29,000~$34,000</td>
+		<!--22-2--><td style="">10%</td>
+		<!--22-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_24">		<!--23-0--><td style="">アンティークのリング</td>
+		<!--23-1--><td style="">$29,000~$34,000</td>
+		<!--23-2--><td style="">10%</td>
+		<!--23-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_25">		<!--24-0--><td style="">ファラオのバングル</td>
+		<!--24-1--><td style="">$30,000~$35,000</td>
+		<!--24-2--><td style="">10%</td>
+		<!--24-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_26">		<!--25-0--><td style="">アール・デコのリング</td>
+		<!--25-1--><td style="">$30,000~$34,000</td>
+		<!--25-2--><td style="">10%</td>
+		<!--25-3--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_27">		<!--26-0--><td style="">ピザンチンのフープス</td>
+		<!--26-1--><td style="">$29,000~$35,000</td>
+		<!--26-2--><td style="">10%</td>
+		<!--26-3--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_28">		<!--27-0--><td style="">アール・デコのサークレット</td>
+		<!--27-1--><td style="">$43,000~$52,000</td>
+		<!--27-2--><td style="">10%</td>
+		<!--27-3--><td style="">ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_29">		<!--28-0--><td style="">いん石破片</td>
+		<!--28-1--><td style="">$74,000~$94,000</td>
+		<!--28-2--><td style="">20%</td>
+		<!--28-3--><td style="">ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_30">		<!--29-0--><td style="">アルジャーノンのヴィーナス<br>(アイボリー)</td>
+		<!--29-1--><td style="">$120,000</td>
+		<!--29-2--><td style="">30%</td>
+		<!--29-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_31">		<!--30-0--><td style="">アルジャーノンのヴィーナス<br>(ブロンズ)</td>
+		<!--30-1--><td style="">$110,000~$112,500</td>
+		<!--30-2--><td style="">30%</td>
+		<!--30-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_32">		<!--31-0--><td style="">アルジャーノンのヴィーナス<br>(シルバー)</td>
+		<!--31-1--><td style="">$107,500</td>
+		<!--31-2--><td style="">30%</td>
+		<!--31-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_33">		<!--32-0--><td style="">アルジャーノンのヴィーナス<br>(ゴールド)</td>
+		<!--32-1--><td style="">$100,000</td>
+		<!--32-2--><td style="">30%</td>
+		<!--32-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_34">		<!--33-0--><td style="">アルジャーノンのヴィーナス<br>(マーブル)</td>
+		<!--33-1--><td style="">$125,000</td>
+		<!--33-2--><td style="">30%</td>
+		<!--33-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_35">		<!--34-0--><td style="">エメラルド</td>
+		<!--34-1--><td style="">$120,000</td>
+		<!--34-2--><td style="">30%</td>
+		<!--34-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_36">		<!--35-0--><td style="">グレースピネル</td>
+		<!--35-1--><td style="">$122,500~$127,500</td>
+		<!--35-2--><td style="">30%</td>
+		<!--35-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_37">		<!--36-0--><td style="">タンザナイト</td>
+		<!--36-1--><td style="">$112,500</td>
+		<!--36-2--><td style="">30%</td>
+		<!--36-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_38">		<!--37-0--><td style="">ルビー</td>
+		<!--37-1--><td style="">$117,500</td>
+		<!--37-2--><td style="">30%</td>
+		<!--37-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_39">		<!--38-0--><td style="">アクアマリン</td>
+		<!--38-1--><td style="">$102,500~$105,000</td>
+		<!--38-2--><td style="">30%</td>
+		<!--38-3--><td style="">強化ガラス<br>ソロプレイでは入手不可</td></tr>
+</tbody></table>
+
+</td></tr></tbody></table>
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->■絵画(サブターゲット)</span>
+<br>
+<ul><li>性質および略奪方法はカジノ強盗やカヨ・ペリコ強盗のものと同じ。やはりいずれも1つでバッグの半分(50%)を埋めてしまうので、事前に何を奪うのかはよく吟味しよう。<ul><li>金庫室内に置かれる絵画は安全に取れるためか展示室のものより安価。一方で展示室2階のシャッター部屋に置かれる2枚の絵画は高額に設定されている。</li></ul></li>
+<li>このターゲットには警報器が存在しないので、少なくとも手を出した時点で発覚することは無い。また大きな音も鳴らないので近くの警備員に音を聞かれる事もないが、流石に<span style="font-weight: bold;"><!--@@@@@-->切り取る様子を目撃されたり監視カメラに映されると即発覚する</span>ので、やはり周囲には注意したい。</li>
+<li>上述のガラスケース入りの略奪品と比較すると、警報器が無く、回収時に音を鳴らす事も無く、そして手っ取り早くバックを埋められるという利点があるものの、容量あたりの価格は比較的安い傾向にある。具体的にはソロで取れる最大価格$122,500の絵画を1枚回収するよりも、<span style="font-weight: bold;"><!--@@@@@-->容量10%のリングやブレスレットが仮に最低価格となる$29,000のものしか配置されてなかったとしても、そちらを5個回収（合計$145,000）する方が最終的に一番得をする事になる。</span><ul><li>以上の事から少しでも報酬を増やしたい場合は、基本的にはガラスケース入りの略奪品を優先して狙い、絵画は「買い手のリクエスト」の候補に含まれていたりアワードやエリートチャレンジを狙う等、何らかの事情が無ければスルーした方が賢明とも言える。</li></ul></li>
+<li>回収すると次の強盗で絵画があった部分には「ON LOAN<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_9" id="footnote_body_9" title="「貸し出し中」という意味">*9</a><span class="hidden">)</span></span>」と書かれたカードに入れ替えられる。</li></ul>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;">...</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称</td>
+		<!--0-1--><td style="background-color:#ff5959;">金額</td>
+		<!--0-2--><td style="background-color:#ff5959;">備考</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">大いなる原点回帰</td>
+		<!--1-1--><td style="">$142,500~$160,000</td>
+		<!--1-2--><td style="">ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">確認必須の設計図</td>
+		<!--2-1--><td style="">$147,500~$160,000</td>
+		<!--2-2--><td style="">ソロプレイでは入手不可</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">おしまいだ</td>
+		<!--3-1--><td style="">$107,500~$122,500</td>
+		<!--3-2--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">開けろ</td>
+		<!--4-1--><td style="">$107,500~$122,500</td>
+		<!--4-2--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">統べる者</td>
+		<!--5-1--><td style="">$110,000~$120,000</td>
+		<!--5-2--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">釈明</td>
+		<!--6-1--><td style="">$112,500~$115,000</td>
+		<!--6-2--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">オレンジの粉砕</td>
+		<!--7-1--><td style="">$112,500~$122,500</td>
+		<!--7-2--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">公爵夫人</td>
+		<!--8-1--><td style="">$107,500~$120,000</td>
+		<!--8-2--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">我を見ゆ</td>
+		<!--9-1--><td style="">$102,500~$122,500</td>
+		<!--9-2--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_11">		<!--10-0--><td style="">弱肉強食</td>
+		<!--10-1--><td style="">$105,000~$117,500</td>
+		<!--10-2--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_12">		<!--11-0--><td style="">黄金の子犬</td>
+		<!--11-1--><td style="">$82,500~$90,000</td>
+		<!--11-2--><td style="">金庫室内</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_13">		<!--12-0--><td style="">友という名の</td>
+		<!--12-1--><td style="">$77,500~$87,500</td>
+		<!--12-2--><td style="">金庫室内</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_14">		<!--13-0--><td style="">ハンターがはく製になる</td>
+		<!--13-1--><td style="">$72,500~$90,000</td>
+		<!--13-2--><td style="">金庫室内</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_15">		<!--14-0--><td style="">束縛なき情愛の習作 69番</td>
+		<!--14-1--><td style="">$72,500~$92,500</td>
+		<!--14-2--><td style="">金庫室内</td></tr>
+</tbody></table>
+
+
+</td></tr></tbody></table>
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->■その他サブターゲット</span>
+<br>
+<ul><li>アルファメールの変装で入れる搬入口の搬入トラックの荷物は近くにあるバールを使って開ける。配置される確率はさほど高くないが、ソロで手に入るサブターゲットの中では必要容量の割に価値がそれなりにつくので、見かけたら積極的に狙いたい。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_10" id="footnote_body_10" title="ただし、リクエストされた展示品を回収しきれなくなる場合があるので一応注意">*10</a><span class="hidden">)</span></span></li>
+<li>貸金庫はカジノ強盗と同様のシステムだが、ペリコの隠し金庫の現金とは違い<strong>バッグの容量にしっかりカウントされる</strong>ので注意。</li></ul>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;">...</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称</td>
+		<!--0-1--><td style="background-color:#ff5959;">金額</td>
+		<!--0-2--><td style="background-color:#ff5959;">バッグに入る容量</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">搬入トラックの荷物</td>
+		<!--1-1--><td style="">$120,000前後?</td>
+		<!--1-2--><td style="">30%</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">金庫室の貸金庫</td>
+		<!--2-1--><td style="">$5,000~$8,000?中身がない($0)ハズレもあり</td>
+		<!--2-2--><td style="">5%</td></tr>
+</tbody></table>
+
+</td></tr></tbody></table>
+
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 id="id_0b37fe15">必須の調達ミッション<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3" rel="nofollow"></a></h3>
+<div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16198/t/Prep.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16198/m/Prep.jpg"><img class="atwiki_plugin_image" loading="lazy" width="745" height="419" style="aspect-ratio: 745/419;" src="//img.atwiki.jp/gtav/attach/3237/16198/Prep.jpg"></picture></div>
+<br>
+<h4 id="id_3b5940c7">潜入装備<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-6" rel="nofollow"></a></h4>
+<h5 id="id_4b4b9075">スタッフ用のキーカード<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-6-2" rel="nofollow"></a></h5>
+<ul><li>これを調達する事で従業員入口から堂々と展示室内部へと侵入できるようになる。同様に脱出時にも従業員入口が使用できる。<ul><li>ない場合も展示室内の警備員を倒すとランダムでドロップする展示室の鍵を使用すれば、展示室のドアから脱出できる。</li></ul></li>
+<li>ラペリング降下およびアルファメール配達員や下水道など地下からの侵入パターンを選んだ場合でも、このキーカードがあれば展示室から脱出する際にわざわざ警備員を倒し回らずに済む。加えて従業員入口はヘリから最も近い脱出地点の1つなので調達しておいて損はない。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->ピルボックス・ヒル</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->ハッカーのねぐら</span>に潜入しろ</span>
+<br>
+<ul><li>入口付近には例の如く敵が密集しているので遠慮なく爆発物で吹き飛ばしても良い。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #026aba;"><!--@@@@@-->テラーバイト</span>に乗り込め・<span style="color: #1d8f00;"><!--@@@@@-->キーカードクローンメーカー</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->テラーバイト</span>の外に出ろ・<span style="color: #9c8c00;"><!--@@@@@-->ハッカーのねぐら</span>を出ろ</span>
+<br>
+<ul><li>入口からちょうど右側に計3箇所の<span style="font-weight: bold;"><!--@@@@@-->電源装置</span>があり、2箇所のうちのいずれかの電源装置を撃つとテラーバイトが停められているガレージのシャッターを開けることが出来る。<ul><li>右手前にはアーマー、ライフ、少量の弾薬、改良型ライフルが置かれている部屋がある。ちょうどその部屋の左上にある電源装置を撃つとシャッターが開いて取得できるので有効活用しよう。</li>
+<li>テラーバイトの内部にキーカードクローンメーカーがある。また、奥に敵が1人居るので注意。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.クローンメーカーを<span style="color: #9c8c00;"><!--@@@@@-->コルツ・センター</span>まで届けろ・<span style="color: #1d8f00;"><!--@@@@@-->キーカードクローンメーカー</span>を設置しろ・エリアを離れろ</span>
+<br>
+<ul><li>道中で追手が2両ずつ出現する。コルツ・センターに近づくと出現しなくなる。<ul><li>従業員入口にキーカードクローンメーカーを設置する。手前にはカメラがあり、クローンメーカーを設置している最中あるいは武器を装備した状態でカメラの視界に入ると手配度2が付く。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_537c4888">タクティカル装置<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-6-3" rel="nofollow"></a></h5>
+<ul><li>これを調達する事でラペリングフック、テルミット、ナイトビジョン、展示室の監視カメラの一部を停止できる器材が使用できるようになる。</li>
+<li>ラペリングフックは、天窓からの侵入に使用するための装備。</li>
+<li>テルミットは2種類あり、<span style="font-weight: bold;"><!--@@@@@-->小型爆弾型</span>と<span style="font-weight: bold;"><!--@@@@@-->サーマルチャージ型</span>がある。<ul><li>小型爆弾型は、スタッフ用キーカードを未調達の場合に従業員入口のドアロックを破壊する際に使用する。<ul><li>爆破の際に大きな音を出すため、同じエリア内に警備員がいる状態で実行すれば<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->即発覚</span></span>となる。脱出の際に発覚せずに爆破する場合は、展示室全階層と地下<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_11" id="footnote_body_11" title="搬入口含む">*11</a><span class="hidden">)</span></span>にいる全ての敵を倒す必要がある。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_12" id="footnote_body_12" title="外から展示室に入る場合は、敷地内の全ての敵を倒しても爆破した時点で強制発覚する">*12</a><span class="hidden">)</span></span></li></ul></li>
+<li>サーマルチャージ型は、展示室から地下へと繋がる階段ルーム、地下の警備室と搬入口のドアロックを破壊する際に使用する。使用には回数制限があり、<span style="font-weight: bold;"><!--@@@@@-->合計で2箇所</span>のドアロックを破壊できる。<ul><li>小型爆弾型よりは音を出さないため、ドアロック付近の警備員のみ倒せば気付かれずに使用できる。</li></ul></li></ul></li>
+<li>ナイトビジョンは、暗闇でも視界を確保できるようになる。<ul><li><span style="font-weight: bold;"><!--@@@@@-->EMPチャージを使用するのであれば、ほぼ必須のアイテム。</span></li></ul></li>
+<li>展示室の監視カメラの一部を停止できる器材は、天窓侵入の際に稼働式の監視カメラを停止することができる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_13" id="footnote_body_13" title="説明文では器材と記載されているが、ムービーではどう見ても器材を一切使わずに壁のボタンを押して停止している">*13</a><span class="hidden">)</span></span></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->バートン</span>に行け・<span style="color: #1d8f00;"><!--@@@@@-->サーマルチャージ</span>を盗め</span>
+<br>
+<ul><li>相手はプロフェッショナル。例の如く特殊カービンやアサルトショットガン持ちが大半なので、爆発物でまとめて一掃しよう。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->保釈局</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->保釈局</span>に入る方法を選べ</span>
+<br>
+<ul><li>正面ドアから突入するか、<s><!--@@@@@-->主人公が既に指名手配されてるが故に</s>大人しく投降して牢屋からキーピックで脱出するかを選択する。どのパターンを選んでも最終的に銃撃戦は避けられないが、後述の理由からどちらかと言えば投降する方が若干ラクか。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: red;"><!--@@@@@-->サーマルチャージ</span>を設置しろ・タクティカル装置を探せ・<span style="color: #1d8f00;"><!--@@@@@-->タクティカル装置</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->保釈局</span>を出ろ</span>
+<br>
+<ul><li>投降した場合は自身の武器は没収され、牢屋からキーピックで脱出時に簡単なステルス行動となる。敵が2人いるが、いずれも背後を向いてるのでしのび足で近づけば楽に素手でテイクダウンできる。<ul><li>奥の机に自身の武器が入ったバックが置かれてるので回収する。ただし拾った時点で即座に発覚し、背を向いてる敵2人は近接武器で襲ってくるので、拾う前にあらかじめテイクダウンしておくと良いだろう。</li></ul></li>
+<li>正面ドアから突入した際は普通に最初から銃撃戦となる。<ul><li>地下の駐車スペースには軍用マシンガン持ちの敵が1人待ち構えているので要注意。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.タクティカル装置を<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ</span>
+<br>
+<ul><li> 追手は<a href="//w.atwiki.jp/gtav/pages/1910.html" title="Kamacho (484d)">カマチョ</a>と<a href="//w.atwiki.jp/gtav/pages/2473.html" title="Caracara 4x4 (484d)">カラカラ4x4</a>の2セット。正面ドアから突入するパターンを選んだ場合は<span style="font-weight: bold;"><!--@@@@@-->追加で機銃付きの<a href="//w.atwiki.jp/gtav/pages/1945.html" title="Caracara (300d)">カラカラ</a>が出現する</span>。もたもたしてると機銃で瞬殺されるので、速やかにカバーアクションを取るなりしよう。</li>
+<li>近くに<a href="//w.atwiki.jp/gtav/pages/3111.html" title="Burrito (Bail Enforcement) (439d)">保釈執行ブリート</a>が止まってるので、これに乗れば背後からの銃撃を防ぎつつ逃走できる。ただし、両サイドのステップを引っ掛けると簡単にスピンするので運転に注意すること。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<br>
+<h5 id="id_ecb4b55a">防護服<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-6-4" rel="nofollow"></a></h5>
+<ul><li>フィナーレでこの衣装を選択すると、侵入経路である<span style="font-weight: bold;"><!--@@@@@-->下水道ルートを一切ダメージを受ける事なく通れる</span>ようになる。<ul><li>また、下水道ルートを抜けた後、<span style="font-weight: bold;"><!--@@@@@-->警備員に近付くと臭いで発覚してしまうことを防護服を脱ぐことで防げるようになる。</span></li>
+<li>さらに、調達中に任意で設計図を撮影すると下水道に入った際にラフにどの道を通れば良いか教えてもらえるようになる。</li></ul></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->バインウッド・ヒルズ</span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_14" id="footnote_body_14" title="場所はランダム。ベスプッチ運河などのパターンもある">*14</a><span class="hidden">)</span></span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->家</span>に侵入しろ</span>
+<br>
+<ul><li>いつものように敵が密集してるので殲滅してから家に侵入しよう。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.ラボのボスを倒せ・<span style="color: #026aba;"><!--@@@@@-->ボス</span>の顔をスキャンしろ・AIアシスタントが網膜スキャンを解析するまで待て・<span style="color: #1d8f00;"><!--@@@@@-->地下室のドア</span>を開けろ</span>
+<br>
+<ul><li>ラフから送られた写真を元にボスを探して倒す。室内での銃撃戦なので慎重にクリアリングしながら進もう。<ul><li>ボスの居場所は地下1階の寝室ないしはシャワールーム。</li></ul></li>
+<li>ボスを倒したらスナップマティックを開き、ボスに<span style="font-weight: bold;"><!--@@@@@-->カメラを向けた状態を維持するとスキャンが実行される</span>。写真撮影ではないので混同しないよう注意。ゲーム上の都合か、ターゲットがうつ伏せや顔面血濡れになっていたり、果てに黒焦げになっても問題なくスキャンは完了する。</li>
+<li>AIアシスタントが網膜スキャンを完了したら地下2階のドアへ向かい、地下室へ入る。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: red;"><!--@@@@@-->結晶作業員</span>を片付けろ・<span style="color: #1d8f00;"><!--@@@@@-->防護服</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->結晶ラボ</span>を出ろ・<span style="color: #9c8c00;"><!--@@@@@-->家</span>の外に出ろ</span>
+<br>
+<ul><li>内部構造は<a href="//w.atwiki.jp/gtav/pages/2969.html" title="Stash House (15d)">隠れ家</a>と同一なので、カバーしつつ手榴弾を投げ込めば安全に殲滅できる。</li>
+<li>黒色の防護服(よく見るとヒューメイン研究所のロゴ入り)を着ている作業員が居るので、倒したら防護服を手に入れる。<ul><li>作業員といえどアサルトライフル持ちなので油断しないように。</li></ul></li>
+<li>地下室を出ると1階から増援が2人出現する。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.防護服を自分の<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ</span>
+<br>
+<ul><li>防護服を邸宅へ届ける前に、コルツ・センターの近くのカメラアイコンがある場所に向かうと作業員が集まっており、そこで下水道の設計図を撮影できる。<ul><li>付近には警備員がおり、近づいた時点で手配度が付くので撮影後は速やかにエリアを離れよう。</li>
+<li>撮影の判定は割と甘めなので、遠目から撮影すれば手配されずに済ませることも可能。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h5 id="id_a0027409">アルファメール変装<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-6-5" rel="nofollow"></a></h5>
+<ul><li>フィナーレで<span style="font-weight: bold;"><!--@@@@@-->配達員</span>の衣装を選択できるようになる。<ul><li>ミッション開始地点の邸宅にアルファメール仕様のバンが配置され、<span style="font-weight: bold;"><!--@@@@@-->配達員の衣装を着たうえでバンに乗る</span>ことで警戒される事なく搬入口に入れるようになる。<ul><li><span style="font-weight: bold;"><!--@@@@@-->チーム全員が最もスムーズかつ安全に金庫室のあるエリアまで直行できる</span>ため、エリートチャレンジに挑戦する場合や効率よく周回したい場合はオススメ。</li></ul></li></ul></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.アルファメール<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>に侵入しろ</span>
+<br>
+<ul><li>倉庫前に居る2人の警備員に接触してしまうとその時点で発覚状態となってしまうので注意。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.アルファメールの器材を見つけろ・<span style="color: #1d8f00;"><!--@@@@@-->アルファメールの身分証</span>を盗め・<br>アルファメールのコスチュームを見つけろ・<span style="color: #1d8f00;"><!--@@@@@-->アルファメールのコスチューム</span>を盗め</span>
+<br>
+<ul><li>ここからはステルス行動となる。<ul><li>通路の警備員は一見始末する必要がありそうだが、スマホに夢中であるため、小走りで目の前を走り抜ければ気付かれることなく通過できる。</li>
+<li>ロッカールームで腕立て伏せをしている職員の近くにアルファメールのコスチュームがあり、着用することで非武装なら発覚の猶予を伸ばせるようになる。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.身分証で<span style="color: #026aba;"><!--@@@@@-->アルファメールのバン</span>に乗り込め・<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>を出ろ</span>
+<br>
+<ul><li>身分証は小部屋にある。取得した後はバンに乗り、<span style="font-weight: bold;"><!--@@@@@-->自分で出口まで運転する</span>。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.警察の追跡を振り切れ・バンを<span style="color: #9c8c00;"><!--@@@@@-->ロスサントス・カスタム</span>まで運転しろ・バンのプレートを変えろ</span>
+<br>
+<ul><li>盗難がバレて警官が巡回するようになるが、数は少ないので自ら警官の視界に入るような事をしなければ発覚する心配はない。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_15" id="footnote_body_15" title="手配度は発生していない">*15</a><span class="hidden">)</span></span><ul><li>既に発覚している場合は手配度☆2が発生しているため、消す必要がある。また、警察とは別に追手も出現している。</li></ul></li>
+<li>利用するロスサントス・カスタムは何処でも良い。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_16" id="footnote_body_16" title="現在地から一番近い店舗へナビゲートされるようになっている">*16</a><span class="hidden">)</span></span></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->5.アルファメールのバンを<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ</span>
+<br>
+<ul><li>プレートを貼り換えたバンを邸宅まで届けるとクリア。</li></ul>
+<br>
+<hr>
+<h4 id="id_2e98ebaf">追跡不可の武器<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-7" rel="nofollow"></a></h4>
+<ul><li>フィナーレで使用する武器セットを3つの選択肢から選んで調達する。複数種の調達を行った場合はフィナーレを開始する際に選択することになる。</li>
+<li>やることの流れは各装備でおおよそ同じ。目的地と難度が異なり、ストリート装備≦警備装備＜軍用装備の順番で難しい。難しい方が装備の質も上。<ul><li>プレイヤーが<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3216.html#id_a984b759">邸宅の武器庫</a>を所有している場合、各武器セットにMk2武器が1つずつ追加される</span>。<br>また、<span style="font-weight: bold;"><!--@@@@@-->プレイヤーが<a href="//w.atwiki.jp/gtav/pages/1762.html" title="地下基地 (22d)">地下基地</a>を所有している場合、Mk2武器に特別な弾薬やアップグレードが追加される</span>。</li></ul></li>
+<li>警備装備と軍用装備で使用可能な<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/142.html" title="Stun Gun (692d)">スタンガン</a></span>は有効射程こそ短いが<span style="font-weight: bold;"><!--@@@@@-->敵を装備問わず一撃で無力化出来る</span>強力な武器であり、非武装以外では唯一走っても足音を発生させない武装であるため、警備輸送をこなさない場合はステルスの維持にほぼ必須となる。また、<span style="font-weight: bold;"><!--@@@@@-->監視カメラを撃つ事で破壊する事なく機能を一時的に停止させる事ができる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_17" id="footnote_body_17" title="展示室1Fの横移動式カメラは除く">*17</a><span class="hidden">)</span></span></span><ul><li>ただし、<span style="font-weight: bold;"><!--@@@@@-->スタンガンはサプレッサー装備の銃よりも発射音が大きく</span>、敵の配置によっては気付かれやすくなるので要注意。</li></ul></li>
+<li>偵察ミッション同様に<a href="//w.atwiki.jp/gtav/pages/3054.html#id_41e01162">サルベージヤード強盗</a>のフィナーレと同じく、ミッション終了まで組織以外のプレイヤーは同じセッションにいながらもお互いに知覚・干渉ができない状態となる。</li></ul>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;"><!--@@@@@-->武器セット一覧</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称</td>
+		<!--0-1--><td style="">ストリート装備</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="background-color:#ffa1a1;">武器</td>
+		<!--1-1--><td style=""><a href="//w.atwiki.jp/gtav/pages/3055.html" title="Battle Rifle (4d)">バトルライフル</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_18" id="footnote_body_18" title="サプレッサー付き">*18</a><span class="hidden">)</span></span>+ <a href="//w.atwiki.jp/gtav/pages/1677.html" title="MiniSMG (471d)">ミニSMG</a> + <a href="//w.atwiki.jp/gtav/pages/131.html" title="Pistol (627d)">ピストル</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_19" id="footnote_body_19" title="フラッシュライト、サプレッサー付き">*19</a><span class="hidden">)</span></span>+ <a href="//w.atwiki.jp/gtav/pages/1679.html" title="Pipe Bomb (32d)">パイプ爆弾</a> + <a href="//w.atwiki.jp/gtav/pages/1539.html" title="Machete (174d)">山刀</a> + <a href="//w.atwiki.jp/gtav/pages/2015.html" title="Pump Shotgun Mk2 (5d)">ポンプ式ショットガン Mk2</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_20" id="footnote_body_20" title="邸宅の武器庫を所有している場合">*20</a><span class="hidden">)</span></span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_21" id="footnote_body_21" title="フラッシュライト、サプレッサー付き。地下基地を所有している場合は通常弾に代わりフレシェット弾が付く">*21</a><span class="hidden">)</span></span></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">備考</td>
+		<!--2-1--><td style="">フレシェット弾搭載のポンプ式ショットガンMk2は非常に威力が高く、装備付き警備員でも胴撃ちで一撃キル可能というのが大きな利点で、少なくとも警備装備のヘビーショットガンよりは強力。調達ミッションも比較的難易度が低いので、短時間で効率よく周回するならこちらに軍配が上がる。<br>ただし、他の武器セットとは異なり<span style="font-weight: bold;"><!--@@@@@-->スタンガンが存在しない。</span>そのため、事前に警備輸送をクリアして弱体化させるか、邸宅の武器庫と地下基地を導入してフレシェット弾搭載のポンプ式ショットガンMk2を使用できるようにしておかないと、ステルス維持は極めて困難なものになる。また、アワードの『平和と静寂<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_22" id="footnote_body_22" title="一切キルすることなく「コルツ・センター強盗」をクリア">*22</a><span class="hidden">)</span></span>』を狙う場合にも不利になる。<br>バトルライフルは他のAR系統の武器と異なり<span style="font-weight: bold;"><!--@@@@@-->弾が敵を貫通する</span>という特徴があるため、貫通した先の敵に着弾音を聞かれないよう注意。状況次第ではピストルと使い分けが必要となる。</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style=""></td>
+		<!--3-1--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="background-color:#ff5959;">名称</td>
+		<!--4-1--><td style="">警備装備</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="background-color:#ffa1a1;">武器</td>
+		<!--5-1--><td style=""><a href="//w.atwiki.jp/gtav/pages/1154.html" title="Bullpup Rifle (691d)">ブルパップライフル</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_23" id="footnote_body_23" title="フラッシュライト、サプレッサー付き">*23</a><span class="hidden">)</span></span>+ <a href="//w.atwiki.jp/gtav/pages/1275.html" title="Heavy Shotgun (5d)">ヘビーショットガン</a> + <a href="//w.atwiki.jp/gtav/pages/1538.html" title="Machine Pistol (264d)">マシンピストル</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_24" id="footnote_body_24" title="サプレッサー付き">*24</a><span class="hidden">)</span></span>+ スタンガン + <a href="//w.atwiki.jp/gtav/pages/134.html" title="Combat Pistol (180d)">軍用ピストル</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_25" id="footnote_body_25" title="サプレッサー付き">*25</a><span class="hidden">)</span></span>+ <a href="//w.atwiki.jp/gtav/pages/144.html" title="Grenade (323d)">手榴弾</a> + <a href="//w.atwiki.jp/gtav/pages/1591.html" title="Switchblade (691d)">飛び出しナイフ</a> + <a href="//w.atwiki.jp/gtav/pages/1871.html" title="Marksman Rifle Mk2 (221d)">マークスマンライフル Mk2</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_26" id="footnote_body_26" title="邸宅の武器庫を所有している場合">*26</a><span class="hidden">)</span></span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_27" id="footnote_body_27" title="グリップ、サプレッサー、フラッシュライト、ホロサイト、ヘビーバレル付き。プレイヤーが地下基地を所有している場合は通常弾に代わり徹甲弾が付く">*27</a><span class="hidden">)</span></span></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">備考</td>
+		<!--6-1--><td style="">使い勝手の良いブルパップライフルにマシンピストル、そしてスタンガンも付いているため装備付きの警備員を一撃で無力化したりカメラを一時的に停止させられるなど、隠密行動に最も最適化された組み合わせとなっている。マークスマンライフルMk2は遠距離から警備員を排除したり、ステルスアナイアレイターで逃走時に追手の警察ヘリを撃墜する時に役立つ。<br>しかしヘビーショットガンにはサプレッサーが付いていないため、装備付きの警備員に対してはスタンガン一択となるうえ、<span style="font-weight: bold;"><!--@@@@@-->マークスマンライフルMk2の徹甲弾は警備員のヘルメットを貫通してくれない。</span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_28" id="footnote_body_28" title="ブルパップライフルだろうが徹甲弾付きのマークルマンライフルMk2だろうが、ヘルメット付きの警備員に対しては問答無用でヘッドショットが無効化される">*28</a><span class="hidden">)</span></span><br>総評としてどの武器も一撃が軽く、確殺性に欠けるのでキルする際は出来る限りヘッドショットを心がけること。同様に警備輸送もしっかりこなしていないと、発覚時の強行突破も若干厳しいものとなる。</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style=""></td>
+		<!--7-1--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="background-color:#ff5959;">名称</td>
+		<!--8-1--><td style="">軍用装備</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="background-color:#ffa1a1;">武器</td>
+		<!--9-1--><td style=""><a href="//w.atwiki.jp/gtav/pages/2679.html" title="Military Rifle (418d)">ミリタリーライフル</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_29" id="footnote_body_29" title="フラッシュライト、サプレッサー付き">*29</a><span class="hidden">)</span></span>+ <a href="//w.atwiki.jp/gtav/pages/242.html" title="Assault Shotgun (32d)">アサルト・ショットガン</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_30" id="footnote_body_30" title="サプレッサー付き">*30</a><span class="hidden">)</span></span>+ スタンガン + <a href="//w.atwiki.jp/gtav/pages/3024.html" title="Tactical SMG (172d)">タクティカルSMG</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_31" id="footnote_body_31" title="サプレッサー付き">*31</a><span class="hidden">)</span></span>+ <a href="//w.atwiki.jp/gtav/pages/132.html" title="Sticky Bomb (103d)">粘着爆弾</a> + <a href="//w.atwiki.jp/gtav/pages/146.html" title="Knife (174d)">ナイフ</a> + <a href="//w.atwiki.jp/gtav/pages/1795.html" title="Heavy Sniper Mk2 (77d)">ヘビースナイパー Mk2</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_32" id="footnote_body_32" title="邸宅の武器庫を所有している場合">*32</a><span class="hidden">)</span></span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_33" id="footnote_body_33" title="サプレッサー、ヘビーバレル、高性能スコープ付き。地下基地を所有している場合は拡張マガジンが追加され、高性能スコープに代わりサーマルスコープが付く">*33</a><span class="hidden">)</span></span></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_11">		<!--10-0--><td style="">備考</td>
+		<!--10-1--><td style="">高DPSが売りのミリタリーライフルに加え、接近戦では非常に強力なアサルト・ショットガンが使用できるためステルスから発覚時、そして警備員の装備の有無を問わず攻略が安定しやすい。もちろん事前に警備輸送をこなしていれば、お互い向かい合っている警備員をアサルト・ショットガンで至近距離から胴体一撃で素早く射殺できる。ヘビースナイパーMk2は単発ダメージが非常に大きいため、ステルスアナイアレイターで逃走時に追手の警察ヘリを容易に撃墜する事ができる。タクティカルSMGもサプレッサー付きなうえに装弾数も多く、ステルスキルから逃走時のドライブバイまで問題なしと至れり尽くせり。<br>ただその分、調達ミッションは長距離移動が必須となるうえに難易度もそれなりに高め。あえて本装備を多用するならば、調達時は素早い離脱が可能なオプレッサーMk2ないしは四方八方からの銃撃に耐えられる装甲クルマ等の防弾車両を使用する事が望ましい。</td></tr>
+</tbody></table>
+
+</td></tr></tbody></table>
+
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_5bdb9575">ストリート装備<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-7-6" rel="nofollow"></a></h5>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->ラ・プエルタ</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->修理店</span>に侵入しろ</span>
+<br>
+<ul><li>目的の修理店の横には敵がたむろしているので倒して中に侵入する。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.武器保管ロッカーを見つけろ・<span style="color: #1d8f00;"><!--@@@@@-->追跡不可の武器</span>を盗め・<span style="color: #1d8f00;"><!--@@@@@-->監視カメラの映像</span>を消せ・<span style="color: #9c8c00;"><!--@@@@@-->修理店</span>を出ろ・<span style="color: #9c8c00;"><!--@@@@@-->武器</span>を邸宅に届けろ</span>
+<br>
+<ul><li>内部はオートショップを流用した形になっている。<ul><li>リフトや駐車スペース一杯に車が駐車してあるので爆発物はなるべく使用しないようにしよう。</li></ul></li>
+<li>2階の事務所にはいる扉にキーパットがあるのでハッキングする。内容は5文字を並び替えて単語にする物。</li>
+<li>事務所内にバックに入った武器が置いてあるので回収する。回収するとガレージの入口から敵が2人スポーンするので注意。</li>
+<li>1階に戻り一番奥にあるPCで監視カメラの映像を消す。</li>
+<li>外に出て邸宅に戻ればクリアとなる。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_ed52116c">警備装備<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-7-7" rel="nofollow"></a></h5>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->目的地</span>に行け・セキュリサーブの<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>に侵入しろ</span>
+<br>
+<ul><li>セキュリサーブのスタッフが数名いるので倒しながら侵入する。<ul><li>現場に置かれているランポ・カスタムや装甲ボーラーは防弾ガラスなので、カバーを取られた場合は爆発物やアトマイザーで車両ごと吹っ飛ばす方が楽。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.武器保管ロッカーを見つけろ・<span style="color: #1d8f00;"><!--@@@@@-->追跡不可の武器</span>を盗め・<span style="color: #1d8f00;"><!--@@@@@-->爆弾</span>を設置しろ・<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>を出ろ</span>
+<br>
+<ul><li>内部にも敵が4名いるので殲滅する。グレネード・ランチャー等で爆殺した方が手っ取り早いが狭いので自爆のリスクもある。</li>
+<li>回収後、部屋の入口付近に増援が2人出現する。予め入口付近に近接地雷を仕掛けておけば、出現と同時に倒すことが可能。</li>
+<li>爆弾を2箇所に設置し終えるまで倉庫の外には出られないので注意。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: #9c8c00;"><!--@@@@@-->武器</span>を邸宅に届けろ</span>
+<br>
+<ul><li>倉庫を出て10秒後に爆発するので離れる。</li>
+<li>爆発後に<a href="//w.atwiki.jp/gtav/pages/1595.html" title="Baller LE LWB (Armored) (407d)">ボーラーLE LWB(装甲)</a> と<a href="//w.atwiki.jp/gtav/pages/902.html" title="Buzzard Attack Chopper (16d)">バザード攻撃ヘリ</a>が3セット出現する。バザードは機体右側の敵を始末すれば追跡するだけになり、ボーラーは運転手を始末するかミニガンを撃ち込むと爆破出来る。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_e31454d6">軍用装備<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-7-8" rel="nofollow"></a></h5>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->フォート・ザンクード</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->管制塔</span>に侵入しろ</span>
+<br>
+<ul><li>軍事基地に侵入する。軍事基地内に格納庫を持っていない場合、敷地内に入った瞬間に手配度☆3が付くので武器を構えておくこと。クルマ(装甲)なら安全に管制塔へ入れる。</li>
+<li>軍事基地を所有していれば管制塔手前まで安全に進めるが、どっちみち戦闘が発生して手配度が付くことは避けられない。加えて周辺では兵士が一気に湧くので、蜂の巣にされる前に速やかに管制塔内部へ入ろう。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.武器保管ロッカーを見つけろ・<span style="color: #1d8f00;"><!--@@@@@-->追跡不可の武器</span>を盗め・<span style="color: #1d8f00;"><!--@@@@@-->サーバー</span>をハッキングしろ・<br><span style="color: #1d8f00;"><!--@@@@@-->バックアップドライブ</span>を引き抜く・警察の追跡を振り切れ・<span style="color: #9c8c00;"><!--@@@@@-->武器</span>を邸宅に届けろ</span>
+<br>
+<ul><li>管制塔内部は通路が非常に狭く、加えて内部の兵士も大半がカービンライフルにポンプ式ショットガン、そして将官は改良型ライフルと武装が大変強力なので迂闊に前に出ようなら即座に重い一撃を喰らうか毎度恒例の超連射で瞬殺される。角を曲がる時は武器を構えながら慎重にクリアリングする事。</li>
+<li>管制塔最上部に着いたら端末をハッキングして、武器が保管されている部屋のオートロックを解除する。<ul><li>ここには兵士が数名居る上に階段がかなり狭く、おまけにこちらが狙いにくい位置から撃って来る。手榴弾などでの爆発で一旦怯ませてから突撃すると良いだろう。</li>
+<li>ハッキング内容は<a href="//w.atwiki.jp/gtav/pages/1568.html#id_a90dcc64"><span style="font-weight: bold;">サーバールーム</span></a>。</li></ul></li>
+<li>武器が保管されている部屋にも兵士が居るので、足元を撃って怯んだ隙に前に出るか、隙間から手榴弾を放り込もう。ただし自爆には注意。</li>
+<li>武器を回収したらサーバールームに向かってサーバーをハッキングし、その後バックアップドライブを引き抜く。<ul><li>サーバールームにはショットガン持ちが1人居るので注意。</li></ul></li>
+<li>管制塔を出ると追手として<a href="//w.atwiki.jp/gtav/pages/1764.html" title="Half-track (368d)">ハーフトラック</a>と<a href="//w.atwiki.jp/gtav/pages/1361.html" title="Valkyrie (36d)">ワルキューレ</a>が登場する。ハーフトラックは足が遅いので容易に振り切れるが、問題はワルキューレ。榴弾こそ撃って来ないが、それなりの精度でミニガンを当てて来る難敵。<ul><li>加えて周囲には兵士が野良湧きするので、あまりもたもたしないように。すぐにオプレッサーMk2なり航空機なり装甲クルマに乗り込んでさっさと基地から脱出しよう。</li>
+<li>この段階で死亡するとその場に盗んだ武器を落とすので、邸宅へ向かう前に再度回収する必要がある。</li></ul></li>
+<li>手配度を消したら邸宅に武器を届けるとクリア。</li></ul>
+<br>
+<hr>
+<br>
+<h4 id="id_649a3355">逃走用の乗り物<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-8" rel="nofollow"></a></h4>
+<ul><li>フィナーレで脱出時に使用する逃走用の乗り物を調達する。複数種の調達を行った場合はフィナーレを開始する際にいずれかを選択することになる。</li>
+<li>この調達ミッションのみ、フリーモード内で行われずジョブセッションのミッションとして行われる。<ul><li>ジョブセッションのミッションとしては非常に珍しいことに、<span style="font-weight: bold;"><!--@@@@@-->チームライフが存在しない</span>。<br>よって何度死亡しても問題ない。</li>
+<li>個人車両制限は強盗ミッションよりも緩く、<a href="//w.atwiki.jp/gtav/pages/2261.html" title="Oppressor MK2 (65d)">オプレッサーMk2</a>や個人航空機も使用可能。<ul><li>ただし、サービス車両やボス（CEO）スキル、ペガサス車両等は利用できないため、<a href="//w.atwiki.jp/gtav/pages/2645.html" title="Kosatka (267d)">コサトカ</a>の艦載機である<a href="//w.atwiki.jp/gtav/pages/2654.html" title="Sparrow (383d)">スパロー</a>やボス（CEO）の乗り物の<a href="//w.atwiki.jp/gtav/pages/902.html" title="Buzzard Attack Chopper (16d)">バザード</a>といった乗り物は使用不可。</li></ul></li></ul></li>
+<li>また邸宅のガレージにワークショップを導入していた場合、マンチェスとカラカラ(装甲)は入手後に自動的にエンジンのアップグレードが施され、脱出パートで使用する際に若干だが有利になる。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_6f7a3a16">マンチェス<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-8-9" rel="nofollow"></a></h5>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1"><!--0-0-->
+<!--0-1-->
+<!--0-2-->
+		<!--0-3--><td style="background-color:#8cb779;" colspan="4"><span style="font-size: large"><span style="color: #ffffff;"><!--@@@@@--><b>強盗調達：マンチェス・バイク"Heist Prep - Manchez Bikes"</b></span></span></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2"><!--1-0-->
+<!--1-1-->
+		<!--1-2--><td style="" colspan="3"><div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16192/t/Heist%20Prep%20-%20Manchez%20Bikes.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16192/m/Heist%20Prep%20-%20Manchez%20Bikes.jpg"><img class="atwiki_plugin_image" loading="lazy" width="320" height="177" style="aspect-ratio: 320/177;" src="//img.atwiki.jp/gtav/attach/3237/16192/Heist%20Prep%20-%20Manchez%20Bikes.jpg"></picture></div></td>
+		<!--1-3--><td style="background-color:#8cb779;"><span style="font-size: small"><span style="color: #000000;"><!--@@@@@--><b>バイクが欲しいのか？任せてくれ。<br>ダウンタウンに隠し場所を見つけた。<br>強盗に入る前にまずは注意をそらす必要がある。<br>ロスサントス市警が絡んでくるだろうが、<br>刑事ドラマは嫌いじゃないだろ？</b></span></span></td></tr>
+</tbody></table>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->白粉精製所</span>に行け・<span style="color: red;"><!--@@@@@-->警報器</span>を撃て・白粉精製所を出ろ</span>
+<br>
+<ul><li>指示された地点にある白粉精製所に赴いて中にいる敵に対処しつつ警報器を破壊する。<ul><li>白粉精製所の中で行う必要があるのは警報器を破壊することだけなので、中に入って素早く警報器だけを破壊すると、中のの敵がこちらに反応する前に一瞬で外に出ることができる。</li>
+<li>精製所を出ると警報を受けたミッション・ロウの警官らが誘き寄せられてやって来るのでその間に警察署へ向かう。</li></ul></li>
+<li>なお、このタイミングで警察署に直行してもミッションは進行するが、署内に配置される警官が増加し激しい銃撃戦となる。腕に自信のあるプレイヤーは挑戦してみては。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->ミッション・ロウ警察署</span>に行け・爆弾を仕掛けて<span style="color: #1d8f00;"><!--@@@@@-->ドア</span>を爆破しろ・爆弾を起爆しろ</span>
+<br>
+<ul><li>警察署へは裏口から侵入しドアを小型爆弾で吹っ飛ばして押し入る事になる。<ul><li>なお、小型爆弾による爆風でプレイヤーがダメージを受けることはない。</li></ul></li>
+<li>当然ながら手配度が3まで付き内部にいる警官らと後から湧いてやって来る増援の警官らを相手取る事になるので注意。<ul><li>内部の部屋の幾つかにはアーマーやライフ、武器などが置かれているので状況に応じて有効活用しよう。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: #1d8f00;"><!--@@@@@-->ロスサントス市警のキーカード</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->ガレージ</span>に行け・<span style="color: #1d8f00;"><!--@@@@@-->キーパッド</span>を使ってガレージに入れ</span>
+<br>
+<ul><li>カードキーは近付くとアイコンが表示される。<ul><li>道中にピッキングが必要なドアがあるが、<span style="font-weight: bold;"><!--@@@@@-->ドアの取っ手部分を撃てばピッキング無しで開けられる</span>。</li></ul></li>
+<li>入手したら地下へ行きガレージへの扉を開ける。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.<span style="color: #1d8f00;"><!--@@@@@-->ヒューズボックス</span>を撃ちシャッターを開け・<span style="color: #026aba;"><!--@@@@@-->マンチェス</span>を盗め・<span style="color: #026aba;"><!--@@@@@-->マンチェス</span>を<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>まで届けろ警察の追跡を振り切れ</span>
+<br>
+<ul><li><a href="//w.atwiki.jp/gtav/pages/1667.html" title="Manchez (487d)">マンチェス</a>は計4台配置されており、それぞれを1台ずつ盗み出す必要がある。<ul><li>厄介なことに周辺の道路は路地裏までロードブロックや警官らによって封鎖されているため、何も考えず盗んで飛び出そうとすればあっという間に蜂の巣にされかねない。ある程度排除して安全を確保してから邸宅まで手配を振り切りつつ向かうべし。</li>
+<li>警察署に戻るとその度に手配度が付く。</li>
+<li>警察署の南側は他と比べて若干手薄となっている。警察署からまっすぐ南下して高速道路のすぐそばにあるスタントジャンプ台で高速道路に逃げ込めば素早く逃げることが可能。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->5.調達ミッションを完了するならラフに連絡しろ</span>
+<br>
+<ul><li>4台全て盗めば自動的にクリアとなるが、必要分を盗んだと判断したなら<span style="font-weight: bold;"><!--@@@@@-->邸宅の敷地内で携帯のメッセージから</span>ラフに終了の連絡を入れればその時点で達成扱いとなる。<ul><li>マンチェスは2人乗りバイクなのでソロで挑むなら1台で良いが、<span style="font-weight: bold;"><!--@@@@@-->3人以上なら最低でも2台の用意が必要。</span></li>
+<li>なお、爆破等により盗めるマンチェスが既に残っていない場合も自動的にクリアとなる。複数人でプレイする予定があるなら爆破武器の使用は慎重に。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<br>
+<br>
+<h5 id="id_31d499d9">カラカラ(装甲)<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-8-10" rel="nofollow"></a></h5>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1"><!--0-0-->
+<!--0-1-->
+<!--0-2-->
+		<!--0-3--><td style="background-color:#8cb779;" colspan="4"><span style="font-size: large"><span style="color: #ffffff;"><!--@@@@@--><b>強盗調達：カラカラ(装甲)"Heist Prep - Armored Caracara"</b></span></span></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2"><!--1-0-->
+<!--1-1-->
+		<!--1-2--><td style="" colspan="3"><div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16191/t/Heist%20Prep%20-%20Armored%20Caracara.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16191/m/Heist%20Prep%20-%20Armored%20Caracara.jpg"><img class="atwiki_plugin_image" loading="lazy" width="320" height="178" style="aspect-ratio: 320/178;" src="//img.atwiki.jp/gtav/attach/3237/16191/Heist%20Prep%20-%20Armored%20Caracara.jpg"></picture></div></td>
+		<!--1-3--><td style="background-color:#8cb779;"><span style="font-size: small"><span style="color: #000000;"><!--@@@@@--><b>なるほど、逃走で使える武装カラカラが欲しいんだな？<br>それならまず用意するものがある。<br>1)レースカー。2)変装道具。3)健康安全に関する免責同意書。<br>3番目ものに関してはこっちで用意しよう。</b></span></span></td></tr>
+</tbody></table>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->ベスプッチ運河</span>に行け・<span style="color: #1d8f00;"><!--@@@@@-->キーパッド</span>をハックして解除しろ・<span style="color: #1d8f00;"><!--@@@@@-->レース用オーバーオール</span>に着替えろ・<span style="color: #026aba;"><!--@@@@@-->インペレイター(アポカリプス)</span>を盗め・ガレージを出ろ</span>
+<br>
+<ul><li><a href="//w.atwiki.jp/gtav/pages/2420.html" title="Imperator (77d)">インペレイター(アポカリプス)</a>に乗ってガレージを出ると持ち主が追いかけてくるが、非武装なので相手せずアリーナへ向かおう。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->メイズバンク・アリーナ</span>に行け</span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: #026aba;"><!--@@@@@-->カラカラ(装甲)</span>を盗め</span>
+<br>
+<ul><li>コースに入るとレースが開始される。どうするかはプレイヤーの自由。紛れて撃ち抜いてもいいし降りて狙撃しても良い。<a href="//w.atwiki.jp/gtav/pages/3248.html" title="Caracara (Armored) (2d)">カラカラ(装甲)</a>や<a href="//w.atwiki.jp/gtav/pages/1785.html" title="Technical Custom (226d)">テクニカル</a>は砲手がおり銃撃してくるが、命中率は低く設定されており、あまり気にせず倒せるだろう。<ul><li>いずれの砲手もよく見たらジャガーノートであり、<span style="font-weight: bold;"><!--@@@@@-->ハイパーアーマー&amp;ヘッドショット無効</span>と中々厄介な特性を持つが、鬼耐久ではないので地道にドライブバイを当て続ければいずれ倒せる。テクニカルの砲手は重火器や粘着爆弾などの爆発物でテクニカルごと吹き飛ばすと良い。</li>
+<li>カラカラ(装甲)のフロントガラスは防弾仕様なので、運転手を撃ち抜くには側面に回り込むか完全被甲弾を装填したMk2武器を使用する必要がある。<ul><li>ただし、フロントガラスを完全被甲弾で撃ち抜くと防弾ガラスが機能しなくなり、後述の逃走パートで追手や警察に中身を撃ち抜かれるリスクが増える点には注意。</li></ul></li>
+<li>砲手を倒さずにカラカラ(装甲)を奪うと砲手は降りてピストルで攻撃をしてくる。</li></ul></li>
+<li>乗り物は必ずしもインペレイター(アポカリプス)である必要はなく、ピット内のガレージには<a href="//w.atwiki.jp/gtav/pages/2425.html" title="Deathbike (411d)">デスバイク</a>が止まってるのでそちらに乗り換えても良い。むしろデスバイクはインペレイターよりも機動性が高く、加えてドライブバイで<a href="//w.atwiki.jp/gtav/pages/2734.html" title="Compact EMP Launcher (406d)">コンパクトEMPランチャー</a>が使用できるため、容易にカラカラ(装甲)を足止めすることが出来る。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.メイズバンク・アリーナを出ろ・警察の追跡を振り切れ・<span style="color: #026aba;"><!--@@@@@-->カラカラ(装甲)</span>を<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ</span>
+<br>
+<ul><li>盗難がバレて手配度☆2と共に追手が出現する。カラカラ(装甲)は小型のウェッジが搭載されており、乗り物を弾き飛ばせる上に背面防弾なので安全。邪魔する乗り物は体当たりで弾き飛ばそう。</li></ul>
+
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_e428d4ae">アナイアレイターステルス<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-8-11" rel="nofollow"></a></h5>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1"><!--0-0-->
+<!--0-1-->
+<!--0-2-->
+		<!--0-3--><td style="background-color:#8cb779;" colspan="4"><span style="font-size: large"><span style="color: #ffffff;"><!--@@@@@--><b>強盗調達：アナイアレイターステルス"Heist Prep - Annihilator Stealth"</b></span></span></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2"><!--1-0-->
+<!--1-1-->
+		<!--1-2--><td style="" colspan="3"><div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16193/t/Heist%20Prep%20-%20Annihilator%20Stealth.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16193/m/Heist%20Prep%20-%20Annihilator%20Stealth.jpg"><img class="atwiki_plugin_image" loading="lazy" width="320" height="177" style="aspect-ratio: 320/177;" src="//img.atwiki.jp/gtav/attach/3237/16193/Heist%20Prep%20-%20Annihilator%20Stealth.jpg"></picture></div></td>
+		<!--1-3--><td style="background-color:#8cb779;"><span style="font-size: small"><span style="color: #000000;"><!--@@@@@--><b>よし、アナイアレイターステルスが欲しいなら当てがある。<br>ヘリを調達してくれれば、パイロットはこっちで手配しよう。<br>だが気を付けろよ。マッチョな丸刈り連中から軍事資産を盗むんだ。<br>争いは避けられないだろう。</b></span></span></td></tr>
+</tbody></table>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->フォート・ザンクード</span>に行け・強化扉の<span style="color: red;"><!--@@@@@-->ロック</span>を破壊しろ</span>
+<br>
+<ul><li>軍事基地に侵入すると手配度☆4となり、例にもよって大量の兵士が一斉に駆けつけてくるので相応の準備をしよう。<ul><li>ただし、ホストが<span style="font-weight: bold;"><!--@@@@@-->軍事基地の格納庫を所有している場合は内部に侵入しても手配度が付かない</span>ため、後述するライノ戦車やハイドラまで安全にたどり着ける。とはいえ攻撃し始めた段階でどっちみち手配度が付く。</li>
+<li>何とも都合のいいことに、<a href="//w.atwiki.jp/gtav/pages/192.html" title="Rhino tank (481d)">ライノ戦車</a>と<a href="//w.atwiki.jp/gtav/pages/1359.html" title="hydra (450d)">ハイドラ</a>が周辺に配置されているのでありがたく頂戴しよう。ただし、ハイドラはすぐに離陸しないと射殺されるので注意。付近のコンテナにはホーミングランチャーが配置されている。</li>
+<li>強化扉のロックは格納庫の左右二箇所あり、それぞれRPGを計4発撃ちこまないと破壊できない。しかし<span style="font-weight: bold;"><!--@@@@@-->戦車の主砲なら1発で破壊</span>できる。もちろんハイドラのキャノンでも一瞬で破壊できる。</li>
+<li>強化扉のロックはロックオン可能なのでオプレッサーMk2で直接乗り込んで空中からミサイルをAとBにそれぞれ3発ずつ撃ち込むと直ぐに破壊できる。</li>
+<li>この段階で死亡すると<a href="//w.atwiki.jp/gtav/pages/209.html">クルセイダー</a>に乗った状態で軍事基地南の駐車場で復活する。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #026aba;"><!--@@@@@-->アナイアレイターステルス</span>を盗め</span>
+<br>
+<ul><li>シャッターを開けると中から軍人をフル搭乗させた<a href="//w.atwiki.jp/gtav/pages/211.html" title="Barracks (481d)">バラックス</a>が2両飛び出してくるので遠慮なく吹き飛ばそう。<ul><li><a href="//w.atwiki.jp/gtav/pages/2650.html" title="Annihilator Stealth (12d)">アナイアレイターステルス</a>のトレーラーはある程度の爆発物は耐えると思われるが、ライノ戦車・ハンジャールの砲撃では一撃で破壊されるので注意。</li>
+<li>トレーラーは基地内に配置されている<a href="//w.atwiki.jp/gtav/pages/212.html">バラックス・トラック</a>を探して牽引すると回収できる。ただし背面はガラス張りなので射殺される可能性はある。<ul><li>配置場所は格納庫内部のちょうど左側、あるいは格納庫の手前にある戦闘機の駐機スペース付近が最も近いか。もしくは兵士が直接乗り付けてくる場合があるのでそれを強奪しても良い。</li>
+<li>バラックス・トラックに乗車中は、兵士の命中率が下げられているのか、大量の兵士に四方から撃たれまくってもダメージはあまり受けないようになっている。ただし、何もしないと普通に撃たれるので注意。</li></ul></li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: #026aba;"><!--@@@@@-->アナイアレイター</span>を<span style="color: #9c8c00;"><!--@@@@@-->Pモス</span>まで届けろ</span>
+<br>
+<ul><li>基地のゲートを出る際は、ゲートバーが下がっている状態で突っ込むとアナイアレイターステルスが大ダメージを受けてしまうのでスピードを落としてゲートバーを上げてから通過するようにしよう。</li>
+<li>基地を脱出すると程なくして手配度☆3まで下がる。幸いにもヘリは出現しない。<ul><li>バラックス・トラックは、スピードは出るもののブレーキは非常に弱いため、スピードの出し過ぎに注意。調子に乗ってスピードを出し過ぎていると、いざという時に止まれなくなって川に突っ込んでしまう可能性がある。</li>
+<li>グランド・セノーラ砂漠付近まで来るとラフから砂漠を通るよう指示され、ナビの通りに砂地を進むとパトカーが大幅に減速し、最終的に停車して振り切れるようになる。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.<span style="color: #026aba;"><!--@@@@@-->アナイアレイター</span>を<span style="color: #9c8c00;"><!--@@@@@-->引渡所</span>に届けろ</span>
+<br>
+<ul><li>ここからはP-996レーザーが8機ほど巡回するステルス行動となる。<span style="font-weight: bold;"><!--@@@@@-->ステルスモードに切り替える事でレーザーの視界をある程度狭められる。</span><ul><li>刑務所上空を飛行すると手配度が付くので、通過する際はあらかじめステルスモードに切り替えておこう。</li>
+<li>ステルス自体はそこまで難易度は高くないが、発覚してもレーザーは低速で飛行するのでミサイルを当てやすく、攻撃頻度も控えめなので撃墜は容易。<ul><li>仮にミサイルを被弾しても耐久補正のおかげでヘルスは1割程度しか減らない。そのため面倒なら最初から発覚前提で空中戦を仕掛けるかもしくは追撃を無視して真っ直ぐ引渡所に向かっても大して問題にならない。</li>
+<li>とはいえ、ビルや鉄塔に勢いよく衝突しようなら即座に破壊されてしまう。加えて日没の時間帯故に鉄塔がかなり視認しづらいので、いつも以上に周囲には注意すること。</li></ul></li>
+<li>発覚して手配度が付いた場合は消して引渡所へ届けてミッションクリア。ステルスモードなら手配度☆2に下がるので簡単に振り切れる。</li></ul></li></ul>
+
+
+<hr>
+<h4 id="id_1eefc550">器材（機材）<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-9" rel="nofollow"></a></h4>
+<h5 id="id_84dc9ff5">アクセスコード<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-9-12" rel="nofollow"></a></h5>
+<ul><li>金庫室前のレーザー室へと続く強化扉を、警備室から開けるためのアクセスコードを調達する。</li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->目的地</span>に行け・<span style="color: red;"><!--@@@@@-->コンテナ</span>のロックを撃て・コンテナを開けろ・<span style="color: #1d8f00;"><!--@@@@@-->ドローン</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->見晴らしのいい地点</span>に行け</span>
+<br>
+<ul><li>目的地は毎回変わるが、やる事は同じ。</li>
+<li>コンテナの周囲にはエバハードの兵士が数名いるのでミサイルなりで吹き飛ばす。<ul><li>コンテナを開けてドローンを入手し、指定された見晴らしのいい地点へと向かう。<ul><li>高所なので（ここに限ったことではないが）航空機で乗り付けるのが手っ取り早い。</li>
+<li>指定された場所が立体駐車場の場合、周辺にロックオン可能な乗り物が駐車されており、盗むことが可能。</li>
+<li>たまにエージェンシーやビルの屋上を指定されることがある。</li></ul></li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.ドローンを飛ばせ・<span style="color: #9c8c00;"><!--@@@@@-->警備会社</span>に潜入しろ</span>
+<br>
+<ul><li>ここからはドローンを操作して潜入する。<ul><li>この外のパートではドローンがブーストを使えるのでそれで素早く移動させよう。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: red;"><!--@@@@@-->制御パネル</span>をショートさせろ・端末をスキャンしろ・<span style="color: #1d8f00;"><!--@@@@@-->アクセスコード</span>をダウンロードしろ・<span style="color: red;"><!--@@@@@-->バックアップサーバー</span>を破壊しろ</span>
+<br>
+<ul><li>潜入後は敵の視界に入らないように<a href="//w.atwiki.jp/gtav/pages/3011.html" title="drones (487d)">ドローン</a>を移動する。発覚しても失敗にはならず、衝突や銃撃でドローンが破壊されても侵入地点から即座に再スタート出来るので心配無用。敵はスタンガン1発で倒せる。<ul><li>ドローンは多少の銃撃には耐え、一瞬壁などにぶつかっただけなら壊れない。ただし、<span style="font-weight: bold;"><!--@@@@@-->数秒間ほど壁などにぶつかり続けた場合は壊れてしまう。つまりは何かにぶつかってもすぐに離れれば基本問題ない</span>。要するに壁や床、天井などに<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->ドローンを擦りつけるような操縦をしないこと</span>がコツ</span>。</li></ul></li>
+<li>ちなみにMAPを見ただけでは分からないが上下方向の視界はさほど広くないので、素早く真上や真下を通り過ぎれば発覚しない。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.エリアを離れろ</span>
+<br>
+<ul><li>飛び降りて逃げるなり乗り付けた航空機で逃げるなりでその場を離れる。<ul><li>ただし、発覚していた場合は入口の前にパトカーが止まっており、接近すると手配度☆2が付くので注意。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h5 id="id_056726be">ハッキング装置<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-3-9-13" rel="nofollow"></a></h5>
+<ul><li>金庫の扉を解錠する際に使用するハッキング装置（<a href="//w.atwiki.jp/gtav/pages/1568.html#id_20ccd840">キーパッドクラッカー</a>）を調達する。</li>
+<li>本調達ミッションを実行するとコンパクトEMPランチャーの弾数が無限になるバグらしき現象が発生する。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_34" id="footnote_body_34" title="PCエンハンスト版で確認">*34</a><span class="hidden">)</span></span></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->目的地</span>に行け・<span style="color: red;"><!--@@@@@-->取引場所</span>を襲撃しろ・<span style="color: #026aba;"><!--@@@@@-->エージェント</span>のIAAキーカードを探せ・警察の追跡を振り切れ</span>
+<br>
+<ul><li>やることはカジノ強盗のハッキング装置のパターンの一つと同じ。オプレッサーMk2やスパローで爆撃して回収してしまうのがお手軽。</li>
+<li>目的地がチェンバーレイン・ヒルズの場合、銃撃に反応したギャングがエージェントに加勢するので手早くターゲットを始末して回収するように。<ul><li>手配度☆2が付くので手配を消してIAAの施設へ向かう。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->IAA施設</span>に向かえ・<span style="color: #1d8f00;"><!--@@@@@-->ドア</span>を開けろ・<span style="color: #9c8c00;"><!--@@@@@-->IAA施設</span>に入れ</span>
+<br>
+<ul><li>施設前に敵がいるので、始末して施設に入る。<ul><li>手配度が消えた際に警官がすぐ近くにいる状況で施設前の敵と戦闘を始めた場合、警官はIAAと敵対して銃撃戦を始めることがある。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.防爆扉を開けろ・ハッキング装置を探せ・<span style="color: #1d8f00;"><!--@@@@@-->ハッキング装置</span>を盗め・別の出口を見つけろ・<span style="color: #9c8c00;"><!--@@@@@-->IAA施設</span>を出ろ</span>
+<br>
+<ul><li>防爆扉はラフの指示通り発電機を壊すか、近くの端末を操作して開ける。<ul><li>発電機を破壊すれば、60秒間エリア全体が暗闇に覆われるため、ナイトビジョンか銃のフラッシュライトを頼りに行動することになる。<ul><li>暗闇になったからといって、敵の攻撃頻度や射撃の精密性は変わらないため、ハッキングで開けた方がプレイヤー自身の視界を確保できて有利。</li></ul></li></ul></li>
+<li>敵はIAAだけあってブルパップショットガンやアサルトショットガン、特殊カービンなど強力な装備を多数持っている。一番奥には軍用マシンガン持ちの敵が待ち構えているが、近くに爆発するガスボンベがあるのでそれを撃てば大抵は爆発で倒せる。<ul><li>ただしこの敵は耐久力が高めに設定されているのか、爆発に巻き込まれても倒れず起き上がってくることがあるので生死はしっかり確認すること。</li>
+<li>装置を回収すると入口から増援が2人来るが、出現位置が遠いので無視して逃げることも可能。</li></ul></li>
+<li>奥にはスラスターが駐機されているが、乗車不可能。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.<span style="color: #9c8c00;"><!--@@@@@-->メンテナンストンネル</span>から脱出しろ・ハッキング装置を<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ・<span style="color: red;"><!--@@@@@-->IAAエージェント</span>から逃げろ</span>
+<br>
+<ul><li>目の前の<a href="//w.atwiki.jp/gtav/pages/524.html" title="Burrito4 (4d)">ブリート</a>か、<a href="//w.atwiki.jp/gtav/pages/672.html" title="Sanchez (487d)">サンチェス</a>を奪ってまっすぐ進めば地上に出られる。防弾のブリートか、機動力に優れるサンチェス(オリジナル)かはお好みで。<ul><li>施設内の扉の位置によって出口が変わり、右なら宝石店強盗で使った地下道に、正面奥ならやや北の地下鉄トンネル内に出る。更に正面奥かつ右の出口は工事現場と地下鉄トンネルの中心に出る。<ul><li>正面奥ならそのまま地下鉄トンネルを北上し、デル・ペロ駅から出た方が比較的安全。ただし列車に轢かれないように。</li></ul></li></ul></li>
+<li>地上に出るとIAAの追手（バッファローとグレンジャーが1台ずつ）が出現するが、振り切る・始末する・邸宅の200m圏内に入ると指示が変わり邸宅に戻れるようになる。追手は2セットしか出てこないので面倒ならその場で処理しよう。</li></ul>
+<br>
+<hr>
+<br>
+<h3 id="id_58d1f347">任意の調達ミッション<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-4" rel="nofollow"></a></h3>
+<h4 id="id_e3eb7544">警備輸送<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-4-10" rel="nofollow"></a></h4>
+<ul><li>この調達を行うとフィナーレでの警備員の装備が弱体化する。<ul><li>完遂しておけば初期配置の警備兵の武器はほぼピストル、発覚後の増援兵がSMGやポンプ式ショットガン、ブルパップショットガンをたまに装備している程度になる。</li>
+<li>一方でこれを行わない場合、初期配置の敵もAPピストルや軍用ショットガンを携帯するようになる上、ダイヤモンド&amp;カジノのダガン警備兵と同様の防弾ヘルメットとボディアーマーを装備し、<strong>ハイパーアーマー付与&amp;ヘッドショット無効となり大幅強化される</strong>ためフィナーレに慣れないうちはクリア推奨。</li>
+<li>ただ、このミッションを完遂していても展示室2階にアサルトショットガン持ちの警備兵が固定配置で出現するので2階を漁るつもりなら一応注意。</li></ul></li>
+<li>ちなみに何かしらの理由で<span style="font-weight: bold;"><!--@@@@@-->セッションを退出すると問答無用で</span><span style="color: red;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@-->クリア（≒失敗）</span></span><span style="font-weight: bold;"><!--@@@@@-->扱い</span>になり、再挑戦できなくなる。</li>
+<li>この調達ミッションのみ資金を支払ってのスキップは不可能。</li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->目的地</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>に侵入しろ</span>
+<br>
+<ul><li>倉庫入口付近には敵がいるので殲滅してから入るように。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: red;"><!--@@@@@-->警備輸送</span>を破壊しろ・<span style="color: #1d8f00;"><!--@@@@@-->配達路</span>をダウンロードしろ・<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>を出ろ</span>
+<br>
+<ul><li>倉庫はアーケードの地下と同じ構造。内部にも大量の敵がおり、ヘビーショットガンといった強力な武器で武装しているので非常に危険。初期位置にある柵はカバーに使え、更に銃撃を防ぐ壁としても機能するのでカバーしながらロケット・ランチャーでフォークリフト目掛けて爆撃すると大幅に楽になる。ただし後述の増援の関係上、警備輸送を全て破壊する前に離れた方が良い。</li>
+<li>警備輸送(武器の箱、貨物)は爆発物で破壊できる(ヘビーショットガン等も有効)。爆発物の持ち合わせがなければ倉庫内にパイプ爆弾と火炎瓶が置かれている他、ヘビーショットガンとショットガン弾薬も置かれている。<ul><li>貨物を全て破壊すると入口に増援が2人出現する。入口付近から動かずに全ての貨物を破壊した場合、<span style="font-weight: bold;"><!--@@@@@-->いきなり真後ろに出現して撃ってくる</span>ため要注意。最後の一つを破壊する前に予め入口に近接地雷を仕掛けておけば出現と同時に吹き飛ばせる。</li></ul></li>
+<li>入口付近にあるPCから配達路をダウンロードしたら倉庫の外へ出る。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.残りの<span style="color: red;"><!--@@@@@-->貨物</span>を破壊しろ</span>
+<br>
+<ul><li>ここから<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->5分</span>の制限時間</span>が課せられ、貨物を載せたバンを破壊することになる。全て破壊してエリアを離れるとクリア。</li>
+<li>バンにはロックオン・ジャマーが適用されており、ミサイルが当てにくくなっている。<ul><li>サベージの榴弾マシンガンや戦闘用タンパのミニガンなどで破壊すると良いだろう。気づかれるまでは普通に走行しているだけなのでオプレッサーMk2でも後ろに張り付いて狙いを定めれば楽にミサイルを当てられる。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h4 id="id_a5a1b56d">警備ルート<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-4-11" rel="nofollow"></a></h4>
+<ul><li>これを調達することでフィナーレでの警備員の位置と視界が全て表示されるようになる。<ul><li>調達していない場合は、カジノ強盗の巡回ルート未クリアの時と同じようにプレイヤーが警備員にかなり接近した時にようやく位置と視界が表示される。<br>あまり接近しなくても敵の位置が把握できるカヨ・ペリコ強盗フィナーレ<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_35" id="footnote_body_35" title="サポートクルーによる有料オプション「偵察ドローン」というのが本強盗の「警備ルート」に相当するが、「偵察ドローン」がなくてもカヨ・ペリコ強盗の敵はミニマップで位置を把握しやすいため、ほぼ使われない。">*35</a><span class="hidden">)</span></span>とは比べ物にならないほどであることに留意。<ul><li>本強盗のフィナーレの敵はカジノ強盗フィナーレの敵と比較して、足音を検知したり、視界が長かったりと、敵の位置を理解できないと相当厳しいものとなる。</li></ul></li>
+<li>発覚した後でも、増援で湧いてくる警備員の位置が常にMAP上に表示されるメリットは非常に大きいので可能な限りは調達したい。</li></ul></li>
+<li>$70,000を支払うことで調達ミッションをスキップできる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_36" id="footnote_body_36" title="初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく">*36</a><span class="hidden">)</span></span></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->目的地</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->駐車場</span>を探して覆面クルーザーを見つけろ・<span style="color: #026aba;"><!--@@@@@-->覆面クルーザー</span>のトランクを開けろ・<span style="color: #1d8f00;"><!--@@@@@-->無線追跡機</span>を盗め</span>
+<br>
+<ul><li>現場には警官がいるが、非武装なら口頭で注意されるのみでスルー可能。</li>
+<li>視界外でトランクを開けて無線追跡機を盗むとバレない…が、たまにトランクを開けた時に警報が鳴ってバレてしまうことがある。<ul><li>更にタチの悪いことに周囲の警官は、カービンライフルにアサルトショットガンと嫌らしいくらいに強力な武器を使用している。このため、もし上述の警報音などで発覚しようなら瞬く間に集中砲火を浴びて倒され、個人車両も押収されてしまい非常にグダる危険性が高い。<ul><li>警報音が鳴った時に備えて、いつでもライフルやマシンガンを取り出せるようにしておこう。組織に加入してるなら、現場に入る前にあらかじめブルシャーク・テストステロンを飲んでおくと倒されにくくなる。</li>
+<li> 幸いにも覆面クルーザーは無敵なので、面倒なら最初から現場をスパロー等で爆撃してしまうのも手。</li></ul></li>
+<li>ただし、ラ・プエルタの場合は射殺されても手配度☆2のままだが個人車両は没収されず、野良湧きの警官もいないので内部的には手配が消えている模様。バグの可能性あり。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.警察の追跡を振り切れ・無線追跡機を<span style="color: #9c8c00;"><!--@@@@@-->コルツ・センター</span>まで届けろ・<span style="color: #1d8f00;"><!--@@@@@-->無線追跡機</span>を設置しろ・エリアを離れろ</span>
+<br>
+<ul><li>手配を消し、コルツ・センターの屋上にある電波塔に設置する。警備員がいるので視界に入らないように。<ul><li>尚、スパロー等で向かい警備員をミサイルで撃ち殺しても特に手配度は付かないので邪魔なら倒してから安全に設置する方法でもOK。</li>
+<li>条件は不明だが、無線追跡機を設置出来ないバグが発生することがある。こうなると進行不能となるのでセッション移動しか方法はない。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h4 id="id_5d0e0232">ガラスカッター<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-4-12" rel="nofollow"></a></h4>
+<ul><li>これを調達することで、フィナーレで展示ケースを切る必要があるタイプ(縦長のガラスケース)のその他の略奪品を盗むことができる。</li>
+<li>コルツ・センター強盗で使用するガラスカッターは、他の強盗で使用する類似カッターと違い、「<span style="font-weight: bold;"><!--@@@@@-->切断進行状況</span>」が表示されるようになっているため、切断加減の強弱をつけやすい。</li>
+<li>$70,000を支払うことで調達ミッションをスキップできる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_37" id="footnote_body_37" title="初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく">*37</a><span class="hidden">)</span></span></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->ノウ・ウェイ本部</span>に行け・AIアシスタントを<span style="color: #1d8f00;"><!--@@@@@-->ノウ・ウェイのサーバー</span>へアップロードしろ・AIアシスタントがノウ・ウェイのデータを解析するまで待て</span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->デル・ペロ</span>で隠れ家を見つけろ・<span style="color: #9c8c00;"><!--@@@@@-->隠れ家</span>に侵入しろ</span>
+<br>
+<ul><li>この時点で<a href="//w.atwiki.jp/gtav/pages/3227.html" title="vivanite2 (16d)">タクシー仕様のビバナイト</a>に客として乗れるようになる。時間はかかるが、隠れ家まで乗せてもらうのも一興。<ul><li>ビバナイトが到着して動かなくなるとプレイヤーの手で運転出来るようになる。</li></ul></li>
+<li>隠れ家入口付近に敵が配置されているのでロックオンミサイルで上空から手っ取り早く探す事も可能。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.ガラスカッターを見つけろ・<span style="color: #1d8f00;"><!--@@@@@-->ガラスカッター</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->隠れ家</span>の外に出ろ</span>
+<br>
+<ul><li>隠れ家内(レイアウトはハンズオン洗車場の流用)の敵を一掃し、ガラスカッターを探して盗む。<ul><li>ガレージ部分の車の後ろにアサルトショットガン持ちの敵がいるので注意。</li></ul></li>
+<li>なお、ベッドルームには金庫があり、敵の現金$10,000が入っている。<a href="//w.atwiki.jp/gtav/pages/2969.html" title="Stash house (15d)">フリーモードにおける隠れ家</a>と似て、室内のどこかに<span style="font-weight: bold;"><!--@@@@@-->暗証番号が書かれた赤いメモ</span>があるのでそれを視認して金庫を開錠する仕組み。<ul><li>暗証番号は以下のいずれか。<br><a href="//img.atwiki.jp/gtav/attach/3237/16195/Codes.png" target="_blank"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16195/t/Codes.png"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16195/m/Codes.png"><img loading="lazy" width="400" height="200" style="aspect-ratio: 400/200;" src="//img.atwiki.jp/gtav/attach/3237/16195/Codes.png"></picture></a></li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.ガラスカッターを<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ</span>
+<br>
+<ul><li>追手は車1台・バイク2台。例によってバイクは非常に速く、横付けしてくり抜いてくるので要注意。<ul><li>キネティック地雷か、身体に一発当てると降ろせるのでその隙に逃げるように。面倒なら近接地雷で消し炭にしても良い。</li></ul></li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h4 id="id_adbf469f">電動ドリル<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-4-13" rel="nofollow"></a></h4>
+<ul><li>これを調達することで金庫室内の貸金庫を電動ドリルでこじ開けてその他の略奪品を得ることができる。<ul><li>システムはカジノ強盗と同じで、獲得できる金額が1カ所あたり$5000前後と少額だったり、中身が入ってないハズレがあるのも同様。</li>
+<li>貸金庫の数自体もカジノより少ないので、基本的には金庫室の絵画を回収するなり、展示室の貴金属や絵画を狙った方が賢明。</li></ul></li>
+<li>$70,000を支払うことで調達ミッションをスキップできる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_38" id="footnote_body_38" title="初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく">*38</a><span class="hidden">)</span></span></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->バインウッド・ヒルズ</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->家</span>に忍び込め・<span style="color: #9c8c00;"><!--@@@@@-->家</span>に入れ</span>
+<br>
+<ul><li> 外には2人のホームセキュリティが居る。何故かヘリや飛行車両で敷地に近づくと黄色のマーカーが消えた瞬間に即発覚するので、徒歩ないしは車で近づくと良いだろう。</li>
+<li>バンの背後には<span style="font-weight: bold;"><!--@@@@@-->建設作業員の衣装</span>があり、これを着ると発覚までの猶予を延ばせる。<ul><li> 武器を装備すると即発覚するので注意。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.電動ドリルを見つけ出せ・<span style="color: #1d8f00;"><!--@@@@@-->電動ドリル</span>を盗め・<span style="color: #9c8c00;"><!--@@@@@-->家</span>から出ろ</span>
+<br>
+<ul><li>外で発覚しなかった場合は、ここでもステルスとなる。ステルス時は走ることが出来ないので、警備員の視界に入ったらっさっさと出よう。</li>
+<li>電動ドリルに近づくと緑色のアイコンが出現する。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.警察の追跡を振り切れ・電動ドリルを<span style="color: #9c8c00;"><!--@@@@@-->邸宅</span>に届けろ</span>
+<br>
+<ul><li> 発覚して手配度が付いたら振り切った後に邸宅へ向かうとクリア。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h4 id="id_787b92c5">EMPチャージ<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-4-14" rel="nofollow"></a></h4>
+<ul><li>これを調達することで<span style="font-weight: bold;"><!--@@@@@-->脱出時にコルツ・センターの施設全ての照明と防犯カメラ<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_39" id="footnote_body_39" title="屋外に設置されたカメラ除く">*39</a><span class="hidden">)</span></span>を無効化し、電子ロックされた扉も開放することができるようになる。</span><ul><li>照明が落ちることで警備員の視界が極端に狭まり、防犯カメラも機能しないため、足音にさえ気を付ければ屋内でかなり自由に行動できるようになる。<ul><li>一方でEMPチャージを使用しても流石に発覚時の警報音までは止められないので、発覚するとそのまま暗闇の中で無限湧きする増援とともに銃撃戦をする羽目になる。</li>
+<li>ちなみにEMPチャージを使用した後に銃撃戦になった場合、屋内に限っては警備員もこちらからある程度接近するまでは発砲してこなくなる<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_40" id="footnote_body_40" title="銃を構えたまま棒立ちになる">*40</a><span class="hidden">)</span></span>ので多少は有利になる。</li></ul></li>
+<li>ただし、<span style="font-weight: bold;"><!--@@@@@-->そのままでは照明が落ちるとプレイヤー自身も何も見えなくなるため、武器のフラッシュライトを頼るか<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_41" id="footnote_body_41" title="フラッシュライトを照らしながら移動するため、警備員に気づかれやすくなるので注意">*41</a><span class="hidden">)</span></span>、ナイトビジョンが含まれているタクティカル装置との併用が基本となる。</span></li>
+<li>主要ターゲットを手に入れて金庫室から出た段階で使用可能になり、携帯電話のセキュリティサーブのアプリで起動する。<ul><li>EMPチャージを使用することで<span style="font-weight: bold;"><!--@@@@@-->金庫室の監視カメラ映像を消す手間が省ける。</span></li></ul></li>
+<li>EMPチャージを使用するとエレベーターも止まるので地下から展示室に向かう方法は階段のみになる。</li>
+<li>EMPチャージを使用すると展示室1階の警備室のセキュリティシステムも止まるため、<span style="font-weight: bold;"><!--@@@@@-->展示室2階のシャッター部屋が開けられなくなる</span>ので注意。<ul><li>複数人でプレイする場合はEMPチャージを使用せずにプレイするか、先にシャッター部屋を開けて中の展示品を回収してからEMPチャージを使用すればいい。もしくは天窓ないしは従業員用入口から侵入して、地下へ行く前に略奪品を根こそぎ回収しに回るのも一つの手である。</li></ul></li></ul></li>
+<li>$70,000を支払うことで調達ミッションをスキップできる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_42" id="footnote_body_42" title="初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく">*42</a><span class="hidden">)</span></span></li></ul>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: red;"><!--@@@@@-->装甲車</span>を止めろ・<span style="color: #9c8c00;"><!--@@@@@-->装甲車</span>に乗り込め</span>
+<br>
+<ul><li>場所は恐らく高速道路からランダム。<a href="//w.atwiki.jp/gtav/pages/2699.html#id_0680afae">オートショップ強盗のスーパーノート取引</a>と同様に機動作戦センターを攻撃して停車させる。機動作戦センターの耐久力は大幅に低下しており、オプレッサーMk2等のミサイルなら6発程度で停車させられる。停車するとメリーウェザー兵が降りてくるが、倒す必要はない。<ul><li><a href="//w.atwiki.jp/gtav/pages/902.html" title="Buzzard Attack Chopper (16d)">バザード攻撃ヘリ</a>が随伴しているので遠距離から撃墜すると楽になる。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->2.EMPチャージを特定しろ</span>
+<br>
+<ul><li>中に入るとメリーウェザー兵が数名いるので倒しながら探す。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: #026aba;"><!--@@@@@-->ランポ・カスタム</span>に乗り込め・<span style="color: #9c8c00;"><!--@@@@@-->装甲車</span>の外に出ろ</span>
+<br>
+<ul><li><a href="//w.atwiki.jp/gtav/pages/1630.html" title="Rumpo Custom (229d)">ランポ・カスタム</a>をコルツ・センターまで運転することになる。ランポ・カスタムが無人の状態で横転等で動けなくなっても付近の道路に再配置される。</li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->4.ランポ・カスタムを<span style="color: #9c8c00;"><!--@@@@@-->コルツ・センター</span>に駐車しろ</span>
+<br>
+<ul><li>追手は<a href="//w.atwiki.jp/gtav/pages/1856.html" title="Barrage (216d)">バラージ</a>と<a href="//w.atwiki.jp/gtav/pages/227.html" title="Buzzard (39d)">非武装バザード</a>。バラージは砲手が2名いるので非常に危険だが簡単に振り切れるだろう。バザードの攻撃力は大したことないものの、速力があり振り切るのは難しい。あえてバザードを連れて行く方がバラージが湧かなくなる分幾らかマシである。ヘリからの銃撃はランポ・カスタムの屋根に命中することが多いので無視しても良い。</li>
+<li>なお、バラージの車載マシンガンは<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->非常にダメージが大きいため、射殺された場所次第でリスキル地獄に陥る</span></span>。<ul><li>出現したら直ちにドライブバイでガンナーを倒してしまえば脅威はかなり減る。ただし、その場合はランポ・カスタムの防弾ガラスを粉砕する事になるので、素早く狙わないとあっという間に機銃で中身をくり抜かるリスクが高くなる。<ul><li>逆に言えばドライブバイさえしなければ防弾ガラスによって乗員の生存性が高まるので、自信がないのであれば相手にせず逃走した方が無難。</li></ul></li>
+<li>実は<a href="//w.atwiki.jp/gtav/pages/129.html" title="Cargobob (204d)">カーゴボブ</a>、<a href="//w.atwiki.jp/gtav/pages/3150.html" title="DH-7 Iron Mule (66d)">アイアンミュール</a>で空輸が可能。ランポ・カスタムは扱いやすいが、速力に難があるので空輸の方が多少楽である。ただし、追手の射撃で撃墜される恐れがあるので全滅させておくと良いだろう。</li>
+<li>余談だが、バラージの砲手自体は非武装となっており、何らかの理由で動けなくなると降りて素手で格闘戦を挑んでくる。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->5.EMPチャージを装備しろ・エリアを離れろ</span>
+<br>
+<ul><li>駐車する場所は毎回変わるが、やる事は全く同じ。マーカーの上で右キーを押すことで駐車し、EMPを仕込むことが出来る。</li></ul>
+<br>
+<hr>
+<h3 id="id_f6dbed85">その他<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-5" rel="nofollow"></a></h3>
+作戦ボードから購入できるアップグレード。一度購入すると以降設置され続ける。
+<br>
+<br>
+<h4 id="id_b6399282">金庫室キーパッド<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-5-15" rel="nofollow"></a></h4>
+<ul><li>ハッキングの練習装置。購入費用は$450,000。<ul><li>ただし、<a href="//w.atwiki.jp/gtav/pages/3237.html#FAC">美術品コレクタープログラム</a>のティア3に到達していたプレイヤーは<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->2026年8月5日まで</span>無料</span>。</li></ul></li>
+<li>ただし、練習に使用するにはハッキング装置の調達が必要。</li>
+<li>ハッキングの内容はダイヤモンドカジノ強盗で登場した<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/1568.html#id_20ccd840">キーパッドクラッカー</a></span>。<ul><li>カジノ強盗の時より難度がほんの少し緩和されている。苦手なプレイヤーもそうでないプレイヤーも購入してひたすら練習しよう。</li></ul></li>
+<li>この練習で表示されるパターンはフィナーレ時のものと同じになる。そのため、練習でパターンをメモし、フィナーレで活用することもできる。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<br>
+<h4 id="id_e32d0e24">高性能アビオニクス<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/4-5-16" rel="nofollow"></a></h4>
+<ul><li>フィナーレの逃走時にPモス<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_43" id="footnote_body_43" title="パーネル・モス">*43</a><span class="hidden">)</span></span>が操縦する<a href="//w.atwiki.jp/gtav/pages/2650.html" title="Annihilator Stealth (12d)">アナイアレイターステルス</a>の操作性が向上するアップグレード。購入費用は$1,200,000。</li>
+<li>通常だとビル群を大回りで避けてその南をヘリで飛行する。そのうえ、ヘリに乗り込むまでにステルスを維持出来ても飛行中に目の前に出現する警察ヘリの視界に<s><!--@@@@@-->わざとらしく</s>突っ込んで強制的に発覚してしまう模様。しかしこのアップグレードを施すと、低空飛行しつつビルの合間を縫うように飛行して逃げるようになる。<ul><li>これにより追っ手の警察ヘリがビルに激突し、プレイヤーが撃墜する手間を少しだけ緩和できる。ステルスを維持したままヘリに乗り込んだ場合は警察ヘリの視界を避けるように低空飛行するため、<span style="font-weight: bold;"><!--@@@@@-->ステルスを維持したままヘリまで辿り着いた時点で事実上完全ステルスクリアを達成できるようになる。</span></li>
+<li>なお、高性能アビオニクスの購入・非購入問わず、ヘリが撃墜できていなくてもゴールである倉庫にある程度近づいた段階で手配は消える。</li></ul></li>
+<li>未発覚状態で高性能アビオニクスが適用されたアナイアレイターステルスに乗った場合、コルツ・センター屋上からゴール地点でラぺリングで着地するまで約2分40秒かかる。</li></ul>
+<br>
+<hr>
+<br>
+<h2 id="id_dc03d1f1">フィナーレ<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5" rel="nofollow"></a></h2>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1"><!--0-0-->
+<!--0-1-->
+<!--0-2-->
+		<!--0-3--><td style="background-color:#8cb779;" colspan="4"><span style="font-size: large"><span style="color: #ffffff;"><!--@@@@@--><b>コルツ・センター強盗"The Kortz Center Heist"</b></span></span></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2"><!--1-0-->
+<!--1-1-->
+		<!--1-2--><td style="" colspan="3"><div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16188/t/The%20Kortz%20Center%20Heist%20Fin.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16188/m/The%20Kortz%20Center%20Heist%20Fin.jpg"><img class="atwiki_plugin_image" loading="lazy" width="320" height="178" style="aspect-ratio: 320/178;" src="//img.atwiki.jp/gtav/attach/3237/16188/The%20Kortz%20Center%20Heist%20Fin.jpg"></picture></div></td>
+		<!--1-3--><td style="background-color:#8cb779;"><span style="font-size: small"><span style="color: #000000;"><!--@@@@@--><b>さあ、いよいよだ。デカいヤマになる。<br>これまでに分かち合ってきた喜びも笑いも進めてきた準備も、<br>すべてはこの時のため。コルツ・センターでの大一番だ。<br>レイが贋作を準備してる。通信はこっちに任せてくれ。<br>やることはわかってるな？ベイビー、やってやろうぜ。</b></span></span></td></tr>
+</tbody></table>
+<h3 id="id_debac22e">共通の注意事項<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-6" rel="nofollow"></a></h3>
+<ul><li>まずフィナーレのロビー画面で、<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_649a3355">逃走用の乗り物</a></span>と<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/3237.html#id_2e98ebaf">武器装備</a></span>を選択する。<ul><li>武器装備はフィナーレ開始後、邸宅の正門のマーカーや邸宅内に行ってアートスタジオに入ることで弾薬を補充したり、調達した他の武器装備に切り替えたり、変装を変更したりすることができる。一度きりではあるがキーパッドクラッカーの練習<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_44" id="footnote_body_44" title="金庫室キーパッドを購入している場合のみ">*44</a><span class="hidden">)</span></span>も可能。<ul><li>しかし2026年7月18日現在、アートスタジオに入れず裏世界に落ちて行ってしまうバグが発生することがある。こうなるとゴルド山辺りにプレイヤーがリスポーンしてしまう。</li></ul></li>
+<li>2周目以降は<span style="font-weight: bold;"><!--@@@@@-->主要ターゲットを売却するかキープするか</span>を選択することが可能になる（初周の場合は必ず売却することになる）。<ul><li>売却を選択した場合はホストは主要ターゲット分の報酬を得られる。</li>
+<li>キープするを選択した場合は主要ターゲット分の報酬は得られないが、この主要ターゲットの絵画を邸宅に展示することができるようになる。</li>
+<li>すでにその主要ターゲットを所有している場合は、キープできず売却に固定される。</li></ul></li></ul></li>
+<li>本ミッションは<a href="//w.atwiki.jp/gtav/pages/2522.html" title="強盗：ダイヤモンドカジノ (13d)">カジノ強盗</a>や<a href="//w.atwiki.jp/gtav/pages/2643.html" title="強盗：カヨ・ペリコ (13d)">カヨ・ペリコ強盗</a>と大きく異なる点として、<span style="font-weight: bold;"><!--@@@@@-->コルツ・センターの建物内部に入って以降は<span style="color: red;"><!--@@@@@-->発覚してしまうと、自滅しクイック・リスタートを行って発覚する前のチェックポイントに戻ったとしても発覚した状態からのリスタートとなる</span></span>。<ul><li>この段階で未発覚状態でもう一度やり直したい場合は邸宅の作戦ボードからやり直すことになる。</li></ul></li>
+<li>本ミッションは、<span style="font-weight: bold;"><!--@@@@@-->ステルスミッションとしては<a href="//w.atwiki.jp/gtav/pages/1386.html">ヒューメイン研究所襲撃：EMP配達</a><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_45" id="footnote_body_45" title="ただし、発覚=ミッション失敗だったEMP配達と違い、本ミッションは発覚後もミッションを継続することが可能である">*45</a><span class="hidden">)</span></span>や<a href="//w.atwiki.jp/gtav/pages/2522.html" title="強盗：ダイヤモンドカジノ (13d)">ダイヤモンドカジノ強盗</a>をも凌ぐ難易度となっている。</span><ul><li>ミッション中に出現する大抵の敵は基本的に<span style="font-weight: bold;"><!--@@@@@-->足音や茂みなどに触れた音を<span style="color: red;"><!--@@@@@-->感知する</span></span>ため、左スティック（キーボードの場合は左Ctrl）押し込みでのステルス移動も活用しよう。<ul><li>より細かく言うと、<span style="font-weight: bold;"><!--@@@@@-->（スタンガンを除く）武器を持っている時に敵の近くで走ると足音に気付かれ発覚し、非武装かスタンガン装備だと敵の近くで走っても気付かれない</span>。ただし武器を使った直後だと非武装でも敵の近くで走ると足音に気付かれ、茂みの音の場合は非武装でも感知する模様。</li></ul></li>
+<li> <a href="//w.atwiki.jp/gtav/pages/39.html" title="ステータス (12d)">ステータス</a>の1つである<a href="//w.atwiki.jp/gtav/pages/39.html#id_97d74e55">ステルス</a>を強化しておくと、ステルス移動時により静かに移動でき、かつステルス時の移動速度が上がるのであらかじめ鍛えておこう。</li></ul></li>
+<li>監視カメラは<a href="//w.atwiki.jp/gtav/pages/2522.html" title="強盗：ダイヤモンドカジノ (13d)">カジノ強盗</a>と同様に<span style="font-weight: bold;"><!--@@@@@-->一定時間異常が映り込むことで発覚に至る</span>仕様なので、カメラの視界内でも素早く走り抜けたりすれば発覚しない。また同様に<span style="font-weight: bold;"><!--@@@@@-->カメラをスタンガンで撃てば一定時間機能を停止させることが出来る。</span><ul><li>もちろん極めればわざわざカメラをスタンガンで撃つ必要すらなくなる。とはいえ先述のように足音を他の敵に聞かれないように注意。</li>
+<li><span style="font-weight: bold;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->カメラに死体が映ると即発覚する</span></span></span>ので倒す場所とタイミングには注意。同様に<span style="font-weight: bold;"><!--@@@@@-->ハッキングを始める際にカメラの視界に入ると即発覚</span>するので、キーパッド近くのカメラはあらかじめ停止させておく事。</li></ul></li>
+<li>その他、<a href="//w.atwiki.jp/gtav/pages/2552.html#id_dc03d1f1">カジノ強盗</a>と異なる点として<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/142.html" title="stun gun (692d)">スタンガン</a>を敵を倒すために使用しても良い</span>ことが挙げられる。</li>
+<li><a href="//w.atwiki.jp/gtav/pages/2558.html" title="アーケード (40d)">アーケード</a>のドローンステーションを所有している場合、アクションメニューの「車両の管理」→「リモート制御車両」から<a href="//w.atwiki.jp/gtav/pages/3011.html" title="Drones (487d)">ナノドローン</a>を使用することができる。<ul><li>ナノドローンはショック（スタンガン）と麻酔銃（弾数は3発）が使える。素早くショックと麻酔銃を連続して使うことで、2人向かい合っている警備員も倒すことができる。</li></ul></li></ul>
+<br>
+<h4 id="id_820c5cb3">マルチプレイ時の注意事項<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-6-17" rel="nofollow"></a></h4>
+<ul><li>カヨ・ペリコ強盗と同じく、<span style="font-weight: bold;"><!--@@@@@-->チームライフが0の状態で死亡するとそのメンバーは観戦モードに移行し、残ったメンバーでミッションが続行するようになっている。</span></li>
+<li>上述および下記にも詳細が述べられてる通り、ステルスミッションとしては難易度がとてつもなく高いため、野良においてはよっぽど熟練したメンバーが入らない限り、完璧なステルスクリアは極めて困難だと思った方が良い。むしろステルスを維持する以上に<span style="font-weight: bold;"><!--@@@@@-->「死亡しないこと」</span>の方が最重要であり、特に<span style="font-weight: bold;"><!--@@@@@-->チームライフが0の状態になったら<span style="color: #F54738;"><!--@@@@@-->何が何でも死亡を避けなければならない。</span></span><ul><li>もしメンバーがその他略奪品を持ってる状態でかつチームライフが0の時に死亡すると、<span style="font-weight: bold;"><!--@@@@@-->そのメンバーが持っていたその他略奪品は全て消失し、報酬総額が差し引かれる。</span></li>
+<li>また、本強盗はその他略奪品の報酬総額は参加人数で割られて分配される仕様であるが、当然ながら死亡して観戦モードに移行したメンバーも参加人数としてカウントされる。<ul><li>一例として4人中3人が死亡し、生存しているメンバー1人だけでクリアすると、<span style="font-weight: bold;"><!--@@@@@--><span style="color: #F54738;"><!--@@@@@-->生存者が回収した1人分のその他略奪品の総額を4人で分配</span>する事になる。</span>そのため、下手するとホストを含めたメンバー全員が得られるその他略奪品の報酬額が雀の涙程度にまで落ち込むことになり、結果として<span style="font-weight: bold;"><!--@@@@@-->ソロプレイで全回収して、かつリスタートなしでクリアした時よりもホスト側の報酬が大幅に減少することになる。</span></li></ul></li>
+<li>特に野良において最も死亡率が高いとされるのは、下記に詳細が述べられている金庫室前の<span style="font-weight: bold;"><!--@@@@@--><span style="color: #F54738;"><!--@@@@@-->レーザーグリッド。</span></span>コンマ数秒触れただけでも<span style="font-weight: bold;"><!--@@@@@-->即発覚</span>し、それでも強引に突破しよならなす術もなくレーザーで<span style="font-weight: bold;"><!--@@@@@-->全身を切り刻まれて死ぬ</span>という初見殺しの難所である。<ul><li>やろうと思えば<span style="font-weight: bold;"><!--@@@@@-->1人だけでも突破できる</span>ため、パターンが読めないなど少しでも回避に自信が無いと思ったら<span style="font-weight: bold;"><!--@@@@@-->自信のあるプレイヤー1人に先行させ、残りはレーザーが消えるまで大人しく後方で待機するように。</span><ul><li>もちろん出来ればホストが率先して攻略していきたいところ。慣れないうちはレーザーに触れない事よりも、<span style="font-weight: bold;"><!--@@@@@-->レーザーで死なない事を重点的に意識</span>してみよう。『焦らない』、『タイミングをじっくり伺う』、『無理だと思ったら一旦退がる』の3つを意識するだけで、少なくともレーザーで死亡する確率はぐんと下がる。</li></ul></li></ul></li></ul></li>
+<li><span style="font-weight: bold;"><!--@@@@@-->エリア間移動は必ずメンバー全員が揃わないと移動できない</span>ので注意。<ul><li>展示品を盗む時以外は基本的に単独行動はせず、可能な限りチームでまとまって行動しよう。</li></ul></li></ul>
+<br>
+<h4 id="id_a8b845a6">ステルスクリアのコツ<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-6-18" rel="nofollow"></a></h4>
+<ul><li>本ミッションに登場する警備員はこれまでの強盗ミッションと異なり、草むらでの足音やスタンガンの発砲音といったプレイヤーが発する様々な音に気づくようになっている。<ul><li>この警備員の聴力は一度建物内に侵入すると更に強化され、<span style="font-weight: bold;"><!--@@@@@-->プレイヤーが付近を非武装で走るだけでも気づく</span>ようになる。この時、<span style="color: red;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@-->上層階又は下層階にいる警備員も位置によっては足音に気づく</span></span>ため、マップ上に敵が表示されていないにも関わらず発覚する事態となる。<ul><li>屋内は2階/1階・地下1階/地下2階の3層に分かれており、この層を跨ぐ場合には足音やショーケースを割る音等は検知しない。爆発音などは流石に検知されるが。</li>
+<li>ただし、監視カメラについては判定が微妙でスタッフ用通用口前の監視カメラ等に向けて発砲するとたまに発覚することがある。</li></ul></li>
+<li>更に警備員の聴力は<span style="color: red;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@-->コルツ・センターから脱出する際にも強化</span></span>されており、地上階の監視カメラを停止するためにスタンガンを撃つと屋上の敵に感知される…といった具合にちょっとした行動ですぐに発覚してしまうので、特に屋外でステルスを維持する難易度が極めて高くなっている。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_46" id="footnote_body_46" title="発見されていないにもかかわらず「警官に気づかれた」と表示されるのは恐らくこれが原因">*46</a><span class="hidden">)</span></span> <ul><li>スタンガンという武器自体、消音のイメージが強い武器であるが、ゲーム内では<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->サプレッサー装備の銃の発砲音よりもスタンガンの発射音の方が大きい</span></span>ようで、サプレッサー装備の銃なら気付かれない場面でもスタンガンを使用すると気付かれた、という場面が非常に多い。非殺傷プレイでは有効であるが、<span style="font-weight: bold;"><!--@@@@@-->非殺傷に拘らずに完全ステルスを維持するプレイスタイルならスタンガンよりもサプレッサー装備の銃の方が有利。</span></li></ul></li></ul></li>
+<li>また、本ミッション中は銃撃で倒した敵は殺傷、スタンガンや銃殴りで倒した敵は非殺傷と区別されており、<span style="font-weight: bold;"><!--@@@@@-->非殺傷状態の屋内の敵はメインターゲット回収後に復活する。</span><ul><li>これを避けるためには、一度非殺傷で倒した敵になんらかの銃弾を当てる事で殺傷状態にする方法がある。<ul><li>なお、この銃弾の発砲音で発覚することも多いので各層の警備員を排除し終わった後に纏めて殺傷状態にしていくのが安全。</li></ul></li>
+<li>エリートチャレンジを目指す場合、<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->非殺傷の警備員の確殺処理は命中率の項目で外した事になってしまう</span></span>ため、おとなしく警備輸送をこなして殺傷武器で処理していくことを推奨。</li></ul></li>
+<li> 以上のことから、<span style="font-weight: bold;"><!--@@@@@-->建物への侵入前に脱出の障害となる外の監視カメラをあらかじめ破壊する・一度建物内に侵入した後は可能な限り走らない・敵は可能な限り音の出ない銃殴りやステルステイクダウンで処理する・非殺傷で処理した敵はちゃんと殺傷武器で殺し直す</span>ことを心掛けるとステルスの維持がしやすくなる。</li>
+<li>なお、<span style="font-weight: bold;"><!--@@@@@-->警備員がこちらに気づいた後に一度発砲されることにより初めて発覚となる</span>ため、警備輸送未実施の場合でも正面から近づいていってスタンガンを撃つ、マークスマンライフルMk2を連続で当てる等で未発覚で処理できる。<ul><li>ただし、時間の猶予は無いので一発でも外そうものなら即発覚となる。狙う場合は慎重に。</li></ul></li>
+<li>ちなみにカヨ・ペリコ強盗およびカジノ強盗<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_47" id="footnote_body_47" title="「隠密行動」と「大ペテン師」ルートのみ">*47</a><span class="hidden">)</span></span>とは異なり、後述する<span style="font-weight: bold;"><!--@@@@@-->エリートチャレンジの達成条件に「ステルスの維持」は無関係</span>となっている。そのため、途中で発覚して銃撃戦になっても問題ない。<ul><li> とはいえ<span style="font-weight: bold;"><!--@@@@@-->被ダメージによって報酬が減少する</span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_48" id="footnote_body_48" title="加えて損失量を一定数以下に抑える事も達成条件となっている">*48</a><span class="hidden">)</span></span>のはこれまで通りな上、命中率の達成条件も些か厳しめなので闇雲に撃ちまくったり、カバーせずに被弾前提でゴリ押ししていると一気に達成から程遠くなる。</li>
+<li>もちろんエリートチャレンジを狙わずとも、少しでも被ダメによる報酬減を抑えたい場合はできる限り終盤の脱出パートまではステルスを維持していきたいところ。</li></ul></li></ul>
+
+<br>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h3 id="id_0e1f5fde">コルツ・センターへの侵入<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-7" rel="nofollow"></a></h3>
+<span style="font-weight: bold;"><!--@@@@@-->1.<span style="color: #9c8c00;"><!--@@@@@-->コルツ・センター</span>に行け・<span style="color: #9c8c00;"><!--@@@@@-->ベル・ビル</span>の中に入れ</span><br><div><img class="atwiki_plugin_image" loading="lazy" width="700" height="393" style="aspect-ratio: 700/393;" src="//img.atwiki.jp/gtav/attach/3237/16140/The%20Kortz%20Center%20Heist%20%282%29.jpg"></div>
+<br>
+<ul><li>選んだ侵入方法と衣装の組み合わせが異なるとラフに注意される。その際は邸宅の中に入り着替え直そう。</li>
+<li>強盗ミッションとしては珍しく個人車両が使用可能となっている。<ul><li>リッチマン・ヴィラから開始した場合、邸宅のすぐ北西の草地の天然の坂で<a href="//w.atwiki.jp/gtav/pages/1831.html" title="vigilante (440d)">ヴィジランテ</a>のブーストを利用し、最速でコルツ・センターへ行けるが、後述のようにコルツ・センターの駐車場以外の敷地内には突っ込まないこと。</li></ul></li>
+<li><span style="font-weight: bold;"><!--@@@@@-->コルツ・センターの駐車場以外の敷地内は、乗り物で進入した瞬間</span>（たとえ自転車であろうと）<span style="font-weight: bold;"><!--@@@@@-->即発覚する</span>仕様となっている。</li>
+<li>支給される装備に<a href="//w.atwiki.jp/gtav/pages/147.html" title="parachute (81d)">パラシュート</a>は無く、ヴィジランテのブーストを利用して上空に飛び上がって空からパラシュート降下…ということは残念ながらできない。<ul><li>ただし、このフィナーレでは<a href="//w.atwiki.jp/gtav/pages/1428.html" title="fort zancudo (301d)">軍事基地</a>に<a href="//w.atwiki.jp/gtav/pages/217.html" title="p-996 lazer (56d)">レーザー</a>、各地の警察署屋上に<a href="//w.atwiki.jp/gtav/pages/304.html" title="police maverick (490d)">ポリス・マベリック</a>や<a href="//w.atwiki.jp/gtav/pages/227.html" title="buzzard (39d)">非武装バザード</a>が出現するので、それらに乗り込めば（ランク11以上であれば）パラシュートが支給され、それを利用して空から降下が可能。天窓侵入の際は一応使えるかもしれない。</li></ul></li></ul>
+
+<div class="atwiki_plugin_slide_img slick-initialized slick-slider slick-dotted" style="width:350px; margin: auto;" data-wikiid="gtav" data-auto_time="0"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1400px;"><div class="image slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 350px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide20" aria-describedby="slick-slide-control20"><img loading="lazy" width="350" height="463" src="//img.atwiki.jp/gtav/attach/3237/16201/kcm1.png" alt="kcm1.png" style="width:350px; height: 463px;"></div><div class="image slick-slide" data-slick-index="1" aria-hidden="true" style="width: 350px; position: relative; left: -350px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide21" aria-describedby="slick-slide-control21"><img loading="lazy" width="350" height="463" src="//img.atwiki.jp/gtav/attach/3237/16204/kcm4.png" alt="kcm4.png" style="width: 350px; height: 463px;"></div><div class="image slick-slide" data-slick-index="2" aria-hidden="true" style="width: 350px; position: relative; left: -700px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide22" aria-describedby="slick-slide-control22"><img loading="lazy" width="350" height="463" src="//img.atwiki.jp/gtav/attach/3237/16215/kcm14.png" alt="kcm14.png" style="width: 350px; height: 463px;"></div><div class="image slick-slide" data-slick-index="3" aria-hidden="true" style="width: 350px; position: relative; left: -1050px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide23" aria-describedby="slick-slide-control23"><img loading="lazy" width="350" height="463" src="//img.atwiki.jp/gtav/attach/3237/16214/kcm15.png" alt="kcm15.png" style="width: 350px; height: 463px;"></div></div></div><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control20" aria-controls="slick-slide20" aria-label="1 of 4" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control21" aria-controls="slick-slide21" aria-label="2 of 4" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control22" aria-controls="slick-slide22" aria-label="3 of 4" tabindex="-1">3</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control23" aria-controls="slick-slide23" aria-label="4 of 4" tabindex="-1">4</button></li></ul></div>
+
+<ul><li>※上記画像の1枚目からコルツ・センター地上階、地上階（迷路込み）、2階、屋上。</li>
+<li>警備員の配置は基本的に各警備員毎に2パターンで、<span style="font-weight: bold;"><!--@@@@@-->フィナーレに挑戦する度に変わる。</span>固定の配置ではないため油断して警備員に発覚しないように注意。</li>
+<li>任意調達の警備輸送を実施しない場合、ヘッドショット無効の警備員が向かい合って配置される場合がある。スタンガンを持っている場合は片方にスタンガンを当ててすぐさまもう片方に銃殴りをすることで安全に処理出来るが、<span style="color: red;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@-->スタンガンのない装備で屋上侵入を目指す場合はステルスが困難となる</span></span>ことがある。</li>
+<li>生垣迷路内のマンホールから下水トンネルに侵入する場合、偵察時かフィナーレ時にコルツ・センター敷地内のどこかにある「<span style="font-weight: bold;"><!--@@@@@-->マンホールの鍵</span>」を入手する必要がある。<ul><li>なお、生垣迷路の上面図は以下の通り（黄色の丸がマンホールの位置）。<br>生垣は外周部分の高い場所からであればよじ登ることも可能。</li></ul></li></ul>
+
+<div class="atwiki_plugin_slide_img slick-initialized slick-slider slick-dotted" style="width:745px; margin-right: auto;" data-wikiid="gtav" data-auto_time="0"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1490px;"><div class="image slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 745px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide30" aria-describedby="slick-slide-control30"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16199/Maze.jpg" alt="Maze.jpg" style="width:745px; height: 419px;"></div><div class="image slick-slide" data-slick-index="1" aria-hidden="true" style="width: 745px; position: relative; left: -745px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide31" aria-describedby="slick-slide-control31"><img loading="lazy" width="745" height="419" src="//img.atwiki.jp/gtav/attach/3237/16200/mazeminimap.png" alt="mazeminimap.png" style="width: 745px; height: 419px;"></div></div></div><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control30" aria-controls="slick-slide30" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control31" aria-controls="slick-slide31" aria-label="2 of 2" tabindex="-1">2</button></li></ul></div>
+
+<ul><li>マンホールに入った後は、迷路のような下水トンネルを通ってベル・ビルの地下部分にあるメンテナンス室に向かう。<br><div style="text-align: center;"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16213/t/kcm13.png"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16213/m/kcm13.png"><img class="atwiki_plugin_image" loading="lazy" width="350" height="308" style="aspect-ratio: 350/308;" src="//img.atwiki.jp/gtav/attach/3237/16213/kcm13.png"></picture></div></li></ul>
+下水トンネルの通路にはランダムで柵が設置されており、それを迂回しつつベル・ビルに向かう必要がある。
+<br>
+<ul><li>通常時だと下水トンネル内にいる間は、悪臭による若干の継続ダメージがあり<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_49" id="footnote_body_49" title="迷わずに最速でゴールに到達した時点で約1～2割程度の小ダメージ">*49</a><span class="hidden">)</span></span>、ミニマップも表示されない。また、下水トンネルを抜けた後でもプレイヤーが悪臭を放つようになり、警備員に近付いた時に悪臭で警備員にバレてしまう。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_50" id="footnote_body_50" title="プレイヤーの周囲にハエが集るようになる">*50</a><span class="hidden">)</span></span><ul><li>具体的にはキャラ2人分位まで距離を詰めるとあまりの悪臭に鼻を摘んで悶えながらプレイヤーのいる方向をゆっくり向き、視界に入ったら即座に発覚、入っていない場合でも数秒で発覚扱いとなる。始末するなら先述の鼻を摘んでいる間に手早くヘッドショットなり銃で殴るなりすべし。</li>
+<li>防護服を調達済みで着用している場合は、継続ダメージがなく、下水トンネルを抜けた直後のメンテナンス室で防護服を脱ぐことで悪臭を取り除くことができる。</li>
+<li>また、防護服の調達ミッション中に任意で下水トンネルの設計図を撮影すると下水トンネルのミニマップが表示されるようになり、ラフが下水トンネルの正解の道案内をしてくれる。</li>
+<li>なおアワード『汚れ仕事<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_51" id="footnote_body_51" title="防護服無しで下水道から侵入、かつ発覚無しでクリア">*51</a><span class="hidden">)</span></span>』があるので、コンプを目指すなら最低1回は悪臭塗れになりながらステルスで完遂しなければならない。願わくば「警備ルート」をクリアして警備員の配置を分かるようにするなどの対策はしっかりしよう。</li></ul></li>
+<li>下水トンネル内は、地面が汚泥で泥濘になっており、移動スピードが極端に落ちてしまう。武器を構えたまま走れば、多少はスムーズに進むことができる。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h3 id="id_090b992c">コルツ・センター内部<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-8" rel="nofollow"></a></h3>
+<span style="font-weight: bold;"><!--@@@@@-->2.<span style="color: #9c8c00;"><!--@@@@@-->地下</span>へ行け・<span style="color: #1d8f00;"><!--@@@@@-->パソコン</span>にアクセスしろ・<span style="color: #1d8f00;"><!--@@@@@-->アクセスコード</span>を入力する・<span style="color: #9c8c00;"><!--@@@@@-->防犯ドア</span>に行け</span>
+<br>
+
+<div class="atwiki_plugin_slide_img slick-initialized slick-slider slick-dotted" style="width:350px; margin: auto;" data-wikiid="gtav" data-auto_time="0"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1400px;"><div class="image slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 350px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide40" aria-describedby="slick-slide-control40"><img loading="lazy" width="350" height="475" src="//img.atwiki.jp/gtav/attach/3237/16208/kcm8.png" alt="kcm8.png" style="width:350px; height: 475px;"></div><div class="image slick-slide" data-slick-index="1" aria-hidden="true" style="width: 350px; position: relative; left: -350px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide41" aria-describedby="slick-slide-control41"><img loading="lazy" width="350" height="475" src="//img.atwiki.jp/gtav/attach/3237/16209/kcm9.png" alt="kcm9.png" style="width: 350px; height: 475px;"></div><div class="image slick-slide" data-slick-index="2" aria-hidden="true" style="width: 350px; position: relative; left: -700px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide42" aria-describedby="slick-slide-control42"><img loading="lazy" width="350" height="475" src="//img.atwiki.jp/gtav/attach/3237/16211/kcm11.png" alt="kcm11.png" style="width: 350px; height: 475px;"></div><div class="image slick-slide" data-slick-index="3" aria-hidden="true" style="width: 350px; position: relative; left: -1050px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide43" aria-describedby="slick-slide-control43"><img loading="lazy" width="350" height="475" src="//img.atwiki.jp/gtav/attach/3237/16212/kcm12.png" alt="kcm12.png" style="width: 350px; height: 475px;"></div></div></div><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control40" aria-controls="slick-slide40" aria-label="1 of 4" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control41" aria-controls="slick-slide41" aria-label="2 of 4" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control42" aria-controls="slick-slide42" aria-label="3 of 4" tabindex="-1">3</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control43" aria-controls="slick-slide43" aria-label="4 of 4" tabindex="-1">4</button></li></ul></div>
+
+<ul><li>※上記画像1枚目から展示室（地下1階）、展示室（1階）、展示室（2階）、展示室（3階）。<ul><li>展示室3階は天窓から侵入した際にカットシーンでプレイヤーが下り立つが、それ以外でプレイヤーが自発的に向かうことは不可。</li></ul></li></ul>
+<div style="text-align: center;"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16206/t/kcm6.png"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16206/m/kcm6.png"><img class="atwiki_plugin_image" loading="lazy" width="745" height="599" style="aspect-ratio: 745/599;" src="//img.atwiki.jp/gtav/attach/3237/16206/kcm6.png"></picture></div>
+<br>
+<ul><li>※上記画像は金庫室およびレーザー室および警備室および搬入口（地下2階）とその下層の下水トンネルのマップが合わせて表示されたもの。<ul><li>基本的に本強盗での「地下」というワードはこの金庫室や警備室等がある地下2階部分のことを指す。</li></ul></li></ul>
+<h4 id="id_a3610893">展示室<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-8-19" rel="nofollow"></a></h4>
+<ul><li>展示室の展示ケースは、展示室地下1階の受付の壁に設置されている<span style="font-weight: bold;"><!--@@@@@-->展示ケース警報器を無効化する、またはEMPチャージを使用しないと<span style="color: red;"><!--@@@@@-->叩き割った瞬間</span>に発覚する。</span></li>
+<li>地上階に配置される警備員8人の誰かは<span style="font-weight: bold;"><!--@@@@@-->展示室の鍵</span>を、地下に配置される警備員10～11人の誰かは<span style="font-weight: bold;"><!--@@@@@-->搬入口のキーカード</span>をそれぞれ落とす。展示室出口は脱出時の乗り物へのアクセスが優れており<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_52" id="footnote_body_52" title="展示室地下1階はマンチェス、展示室2階はアナイアレイターステルス">*52</a><span class="hidden">)</span></span>、搬入口にはランダムで高額なサブターゲットとなる配達トラックの貨物が配置される。<ul><li>配達トラックの貨物を回収するにはバールが必要なため、搬入口で回収する必要がある。バールは1本のみなので複数人でプレイする際は、貨物の回収をしないメンバーは誤ってバールを取らないように注意。</li></ul></li>
+<li>屋内の監視カメラは基本的にスタンガンで一時停止出来る他、2つまでなら破壊する事で安全に無効化出来るが、展示室にある<span style="font-weight: bold;"><!--@@@@@-->横方向に動くタイプの稼働式カメラに直接手を出すのは控えること。</span><ul><li>この稼働式カメラはスタンガンを当てても破壊されてしまい、加えて<span style="font-weight: bold;"><!--@@@@@-->これを一つ壊すだけで即座に増援の警備員が警戒して駆けつけ</span>、スタッフ出入口に警備員1名が、展示室地下1階・カウンターと地下階段から警備員が1名ずつ出現するようになる。地下1階の警備員は無限湧きかは不明。<ul><li>なお、この時に駆けつける警備員をバレないように処理すればステルスは維持できる。 </li></ul></li>
+<li>このカメラを無効化するボタンは<span style="font-weight: bold;"><!--@@@@@-->展示室3階の壁にあり、このボタンを撃つと無効化できる</span>。展示室での略奪に支障が出る時は無効化しよう。ちなみに屋上侵入を選択した場合はカットシーン内でプレイヤーがボタンを押して自動的に無効化される。</li></ul></li></ul>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;"><!--@@@@@-->展示室1階から3階のボタンを撃って稼働式カメラを無効化する資料映像</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+
+<div><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=2082472152289124646&amp;lang=en&amp;origin=https%3A%2F%2Fw.atwiki.jp%2Fgtav%2Fpages%2F3237.html&amp;sessionId=560d7614c63643fd98ab4665ed7ced5cd7a39406&amp;siteScreenName=atwikijp&amp;theme=light&amp;widgetsVersion=6a3ad42b224df%3A1778106238597&amp;width=550px" style="position: static; visibility: visible; width: 0px; height: 0px; display: block; flex-grow: 1;" data-tweet-id="2082472152289124646"></iframe></div><blockquote class="twitter-tweet" <p="" lang="en" dir="ltr" data-twitter-extracted-i1785491957657954997="true">loading tweet...<p></p>— GTA GFX (@GTAGFX) <a href="https://x.com/GTAGFX/status/2082472152289124646?ref_src=twsrc%5Etfw">July 29, 2026</a></blockquote></div>
+
+
+</td></tr></tbody></table>
+
+<ul><li>展示室1階の南で手すりにもたれかかっている警備兵は、倒した際に大きく仰け反って地下1階に死体が落下してしまい、それが下の監視カメラに写って発覚…という事故が起こり得るので、心配なら地下1階側から射殺して前に倒れるようにした方が良い。<ul><li>2階の西と東にいる警備兵も同様の事故が発生することがある。</li></ul></li>
+<li>展示室2階には入口がシャッターで閉まっている部屋がある。<ul><li>この部屋は、<span style="font-weight: bold;"><!--@@@@@-->1階にある警備室のセキュリティシステムを操作することでシャッターを開閉して入ることができる。</span>ただし、誰かが警備室から操作し続けていないとすぐにシャッターが閉じてしまうため、<span style="font-weight: bold;"><!--@@@@@-->ソロでは絶対に入ることができず、中の展示品も回収できない部屋になっている。</span><ul><li>部屋内に誰か1人でもいるとシャッターが閉まらなくなるので2人でも粗方回収が可能。</li>
+<li>この部屋には、<span style="font-weight: bold;"><!--@@@@@-->いん石破片</span>や<span style="font-weight: bold;"><!--@@@@@-->宝石</span>などアワードに関わる展示品があるため、どうしても手に入れたい場合は、2人以上で強盗に挑戦する必要がある。</li>
+<li>この部屋にある展示品が買い手のリクエスト品に選ばれた場合は、<span style="font-weight: bold;"><!--@@@@@-->ソロでのエリートチャレンジは実質的に不可能となる。</span></li></ul></li></ul></li></ul>
+<h4 id="id_5e3da50f">地下<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-8-20" rel="nofollow"></a></h4>
+<ul><li> 展示室から地下へ入るには、階段とエレベーターで行くことが可能。<ul><li>ただし、両方ともロックがかかっており、階段はハッキングとテルミット<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_53" id="footnote_body_53" title="サーマルチャージ型">*53</a><span class="hidden">)</span></span>、エレベーターはハッキングでロックを解除する必要がある。</li>
+<li>ハッキング内容はいずれも<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/1568.html#id_b3bec56e">スクロールバー</a></span>。<ul><li>ただし、エレベーターのスクロールバーは従来のゆらゆらと上下に白いバーが動くものとは異なる、<span style="font-weight: bold;"><!--@@@@@-->いきなり白いバーが不規則に上下に動き出すタイプ</span>になっているためタイミングが読みづらく、難易度が高め。</li></ul></li>
+<li>下水道とアルファメール変装で地下から侵入した場合でも、展示室へ入る際には同様の方法でロックを解除する。</li></ul></li>
+<li>地下の警備室には網目付きの大きな窓が付いているが、<a href="//w.atwiki.jp/gtav/pages/2522.html" title="強盗：ダイヤモンドカジノ (13d)">カジノ強盗</a>の時の網目付きの大きな窓とは異なり、<span style="font-weight: bold;"><!--@@@@@-->警備員的にも「向こう側が見える窓」となっており、窓越しにプレイヤーが見つかってしまう</span>ので注意。また、（スタンガンを除く）銃弾や爆発が貫通する点にも留意。</li>
+<li>下水道から侵入した場合、メンテナンス室の入口付近の通路に警備員が1人追加で配置される。</li>
+<li>警備室には3箇所のドアがあるが、そのうち外から入れるのは1箇所のみ。入れるドアはリプレイする度に変化する。ドアロックを解除するには上記と同じくハッキングないしはテルミット。<ul><li> ハッキングはカジノ強盗でお馴染みの<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/1568.html#id_c11f6998">指紋認証スキャナー</a></span>。画面の演出は若干違うものの、やり方は全く同じなのでカジノ強盗を極めていればテキパキとこなせるだろう。</li>
+<li>一度警備室のドアロックを解除すれば、以降3箇所全てのドアから出入り可能になる。</li></ul></li>
+<li>警備室に入るとラフからメッセージでアクセスコードを伝えてくるので、それを防犯ドアの正面にあるPCに入力する。<ul><li> PCの真上には固定式の監視カメラがあるので、<span style="font-weight: bold;"><!--@@@@@-->入力前に必ず停止させておかないと発覚してしまう</span>ので要注意。</li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->3.<span style="color: #1d8f00;"><!--@@@@@-->電源装置</span>でレーザーグリッドを停止しろ</span><br><div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16196/t/Finale2.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16196/m/Finale2.jpg"><img class="atwiki_plugin_image" loading="lazy" width="700" height="393" style="aspect-ratio: 700/393;" src="//img.atwiki.jp/gtav/attach/3237/16196/Finale2.jpg"></picture></div>
+<br>
+<ul><li>本ミッション<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->最難関のパート</span></span>。ここまでステルスを維持出来ても<span style="font-weight: bold;"><!--@@@@@-->少しでもレーザーグリッドに触れると<span style="color: red;"><!--@@@@@-->即発覚</span>となる。</span>左スティック（キーボードの場合は左Ctrl）押し込みで伏せ、□ボタン(Xボタン、キーボードの場合はスペースキー)でその場でジャンプ出来る。</li>
+<li>ここに到達した段階でチェックポイントが更新され、以降レーザーグリッド前からリスタート出来るようになる。レーザーの回避に自信が無ければここで何度もリスタートして練習するのも良いだろう。</li>
+<li>このレーザーグリッド部屋には仕切りこそないが、言うなれば「序盤」「中盤」「終盤」の3つのエリアに分かれている。<ul><li>この部屋にはレーザーの<span style="font-weight: bold;"><!--@@@@@-->電源装置</span>が3つあり、2つは道中のレーザーが出ている場所の壁の序盤と中盤地点、1つは金庫室の扉前の壁にある。</li>
+<li>この内、金庫室の扉前の壁の電源装置を使用することのみがミッションの進行に必須で、これを使用することでこの部屋のレーザーが全て停止する。<ul><li>道中の壁にある電源装置は、序盤地点にあるものは序盤のレーザーを停止させ、中盤地点にあるものは中盤地点のレーザーを消すことができる。</li>
+<li>難易度ハードの場合、終盤地点から序盤地点まで通しで動くタイプのレーザーは序盤と中盤の電源装置を操作中でも消えることなく問答無用で通過していく。レーザーに触れると当然発覚するため、電源装置を操作する際は通しで動くレーザーの動きには要注意。</li></ul></li>
+<li>レーザーグリッドのパターンに慣れると、<span style="font-weight: bold;"><!--@@@@@-->一人称視点の方が機敏に動けて回避が容易になる。</span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_54" id="footnote_body_54" title="一人称視点だと小走り並みのスピードで移動できる。レーザーのスピードが速い難易度ハードだと一人称視点の方が有利">*54</a><span class="hidden">)</span></span>ただし、一人称視点に慣れてないプレイヤーは、無理に一人称視点に挑戦するよりも慣れた三人称視点のままの方が失敗する可能性は低い。</li>
+<li>レーザーグリッドのパターンにもよるが、特にジャンプで回避するタイプのものが難しく、タイミングを誤るとレーザーグリッドを踏みつけたり、跳ぶ前に脚にレーザーグリッドが当たる等で発覚しやすい。<ul><li>プレイヤーがジャンプする時は右足を先に上げるため、レーザーが来る前に体を左に向けて右足を前に出すと回避しやすい。</li>
+<li>このタイプのレーザーに限ったことではないが、出終わったタイミングで、次に出始めるタイミングよりも先に一気に駆け抜ける…という突破の仕方もなくはない。</li></ul></li>
+<li>レーザーは出始めと出終わりの少し細くなる僅かなタイミングであれば、触れてもダメージもなく発覚もしない…が、過信はしないこと。一瞬なら接触しても発覚しないこともある。推定だが接触から発覚の猶予は0.3秒以下。</li>
+<li>発覚しても強引に通り抜けよう等と思わないこと。恐らく0.05秒毎に微量のダメージが入り、更にこの部屋ではスナックでの回復も不可能なので無理に通ろうものならレーザーで焼肉にされてしまう。一応ボディアーマーの補給は可能だが、焼け石に水程度。<ul><li>幸い、発覚しても警備員は入ってこないので慌てずに攻略しよう。</li></ul></li></ul></li>
+<li>2人以上の場合は、自信のあるプレイヤー1人のみが率先してレーザーを潜り抜けて電源装置を動かし、残りはレーザーが消えるまで後方で待機した方が全滅および発覚のリスクを最小限に抑えられる。<ul><li>とにかく、<span style="font-weight: bold;"><!--@@@@@-->お互い不用意に固まらないようにする事。</span>咄嗟の回避行動が難しくなり、レーザーに触れて発覚するか最悪レーザーでまとめて焼かれ全滅するリスクがある。</li></ul></li>
+<li>更に厄介なのは、<span style="font-weight: bold;"><!--@@@@@-->ジャンプ中に横移動するレーザーグリッドに触れると<s><!--@@@@@-->あまりの熱さで</s>転倒してしまう</span>こと。運がよければ少量のダメージで済むが、大抵そのまま焼かれて即死なのでジャンプする際は周りのレーザーグリッドの位置にも注意すること。</li>
+<li><span style="font-weight: bold;"><!--@@@@@-->難易度ハードではレーザーグリッドの本数が増えてスピードも速くなるため、回避が難しくなっている。</span></li></ul>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;"><!--@@@@@-->レーザーパターンの参考動画</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<div class="plugin_video plugin_youtube plugin_u2b"><iframe loading="lazy" src="https://www.youtube.com/embed/kVkI9koRvgo?controls=1&amp;rel=0" frameborder="0" width="640" height="360" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe></div>
+<br>
+
+</td></tr></tbody></table>
+
+<ul><li>レーザーのパターンとしては3種類のノーマルモードとハードモードの2通りで合計6パターン。フィナーレでどのパターンが来るかは偵察の際に確認できるため、難しいパターンならリセットするのも手。パターンとしては以下の通り。</li></ul>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称　　　　</td>
+		<!--0-1--><td style="background-color:#ff5959;">内容　　　　　　</td>
+		<!--0-2--><td style="background-color:#ff5959;">備考</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">パターンA<br>（ノーマル）</td>
+		<!--1-1--><td style="">・序盤　レーザーが左右にX字に移動。<br>・中盤　正面から見てX字にレーザーが設定。<br>・終盤　手前のレーザーがX字に移動し、奥からX字のレーザー、足元+頭上のレーザーが交互に出現する。</td>
+		<!--1-2--><td style="">パターンBやCに比べ、ジャンプする機会が少ない。そのため、一番攻略しやすいパターン。</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">パターンA<br>（ハード）</td>
+		<!--2-1--><td style="">ノーマルに加え、序盤で中央に縦のレーザーが1本追加。終盤で中間位に上中下3本の横のレーザーが点滅するようになる</td>
+		<!--2-2--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">パターンB<br>（ノーマル）</td>
+		<!--3-1--><td style="">・序盤　レーザーが縦X字に設置、ゆっくり左右に縦のレーザーが4本、横に点滅する2本のレーザーが設置。<br>・中盤　レーザーが縦X字に設置、少し早めに左右に縦のレーザーが2本、奥から足元のレーザーが移動してくる。<br>・終盤　手前のレーザーがX字に移動し、奥からX字のレーザー、足元+頭上のレーザーが交互に出現する。</td>
+		<!--3-2--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">パターンB<br>（ハード）</td>
+		<!--4-1--><td style="">ノーマルに加え、左右と中央に交互に間隔が狭い縦7本のレーザーが終盤エリアから序盤エリアにかけて通しで出現するようになる。</td>
+		<!--4-2--><td style=""></td></tr>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">パターンC<br>（ノーマル）</td>
+		<!--5-1--><td style="">・序盤　不規則に左右移動する縦のレーザーが設置。中盤に行く手前に点滅する横のレーザーが4本設置。<br>・中盤　左右に縦3本の移動するレーザー、奥から横3本のレーザーが移動してくる。<br>・終盤　左右に大きく波打つレーザー、中央には足元のレーザーとXX字のレーザーが交互に奥から手前へ移動してくる。</td>
+		<!--5-2--><td style=""></td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">パターンC<br>（ハード）</td>
+		<!--6-1--><td style="">ノーマルに加え、終盤の足元のレーザーが序盤エリアまで移動してくる。また、終盤の中央に点滅する壁のようなレーザーが出現する。</td>
+		<!--6-2--><td style="">恐らくは一番難しいパターン。特に終盤から序盤にかけて通しで来る足元のレーザーが厄介で、タイミング次第では、中盤で1回、終盤で1回の計2回のジャンプが要求される。</td></tr>
+</tbody></table>
+アワード『レーザーより早く』を取得するためには、レーザー室に入ってから（ムービーが終わってから）30秒以内に一番奥の電源装置を止める必要がある。そのため、序盤と中盤の電源装置を止めていては間に合わないため、一気に駆け抜ける必要がある。一番のお勧めはB（ノーマル）。タイミングが合えば、伏せとジャンプを1回で駆け抜けることが出来る。
+<br>
+<br>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->4.<span style="color: #1d8f00;"><!--@@@@@-->金庫室のキーパッド</span>をハッキングしろ</span>
+<br>
+<ul><li>ハッキングの種類は<span style="font-weight: bold;"><!--@@@@@--><a href="//w.atwiki.jp/gtav/pages/1568.html#id_20ccd840">キーパッドクラッカー</a></span>。難度は低下しており、アートスタジオで練習しているなら難なく通過出来るはず。</li>
+<li><span style="font-weight: bold;"><!--@@@@@-->難易度ハードの場合はカジノ強盗と全く同じ5x6マスになる。</span><ul><li>カジノ強盗の時とは異なり、今回は「<span style="font-weight: bold;"><!--@@@@@-->AIスクランブル</span>」という機能が使用できる。<br>これは、アクセス試行回数（選択ミスして良い数）を1回消費する代わりに、自身が正解している列よりも先の列の正解の位置を抽選し直して表示するもの。<ul><li>もし正解位置を忘れてしまった場合はAIスクランブルを行うこと。</li></ul></li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->5.<span style="color: #1d8f00;"><!--@@@@@-->主要ターゲット</span>を盗め・金庫室を出ろ</span><br><div><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16197/t/Finale3.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/3237/16197/m/Finale3.jpg"><img class="atwiki_plugin_image" loading="lazy" width="700" height="393" style="aspect-ratio: 700/393;" src="//img.atwiki.jp/gtav/attach/3237/16197/Finale3.jpg"></picture></div>
+<br>
+<ul><li>金庫室に入ると、ここまでで発覚していなければ<span style="font-weight: bold;"><!--@@@@@-->熱探知センサー</span>が起動し、ゲージが最大になる前に金庫室から出る必要がある。<ul><li>テラーバイト・エージェンシー・縫製工場を所有しているとペイジ・イマニ・ジョディの内誰かが協力してくれる事がコルツセンターまでの道中で伝えられ、その場合はセンサーに妨害を仕掛け起動までの時間を大幅に遅らせてくれる。</li></ul></li>
+<li>主要ターゲットは額縁を外してから贋作と入れ替える作業が入る。その他の略奪品の絵画はダイヤモンドカジノ強盗や、カヨ・ペリコ強盗のものと同じ、ナイフで切断する簡単な作業。<ul><li>金庫室には主要ターゲット以外に絵画や金庫もあるが、すぐ終わる絵画はともかく貸金庫を開けている余裕は無いと思われる。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_55" id="footnote_body_55" title="センサー妨害ありで主要ターゲットと絵画2枚を手に入れた時点で残り20秒程度の猶予しかない">*55</a><span class="hidden">)</span></span></li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->6.<span style="color: red;"><!--@@@@@-->武装した警備員</span>を倒せ・<span style="color: #1d8f00;"><!--@@@@@-->金庫室の映像</span>を消せ</span>
+<br>
+<ul><li>この段階で、これまで倒した警備員の中で<span style="font-weight: bold;"><!--@@@@@--><span style="color: red;"><!--@@@@@-->スタンガン又は銃殴りを使った非殺傷の方法で倒した警備員は全員復活する。</span></span>これを避けるためには道中の警備員を殺傷武器で殺す必要がある。 <ul><li>スタンガン等で気絶させた警備員は瀕死となっているため、一度気絶させた後に弾を一発当てるだけで殺すことが出来る。<ul><li>ただし、この方法を取ると平均精度(命中率)が下がるため、エリートチャレンジの達成が困難になるので注意。</li></ul></li>
+<li>なお、殺傷武器で倒した警備員については金庫室に入った時点で消滅するため、復活した警備員が死体を見ることによる発覚の心配は無い。</li>
+<li>また、屋外の警備員に関しては脱出時に新しく配置され直すため殺傷の有無は影響しない。</li></ul></li>
+<li>脱出前に<span style="font-weight: bold;"><!--@@@@@-->金庫室の映像を消去しないと金額が減額される</span>ので注意。<ul><li>EMPチャージを用意している場合は、先に起動すれば金庫室の映像を消去する手間が省ける。</li>
+<li>減額されるのは主要ターゲットの報酬だけなので、売却ではなくキープを選択している場合は映像を消去しなくても影響はない。</li></ul></li>
+<li>レーザーグリッド等で発覚していた場合は新たに出現する敵とは別に目撃者<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_56" id="footnote_body_56" title="目のアイコン">*56</a><span class="hidden">)</span></span>を全員始末する必要がある。</li>
+<li>EMPチャージを使用しない場合、脱出時に再度監視カメラを停止しておけば脱出口までスムーズにたどり着ける他、展示室内でのサブターゲット回収がやりやすくなるので金庫室内の映像消去とあわせて実施しておきたい。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 id="id_6bbe1cd1">コルツ・センターからの脱出<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-9" rel="nofollow"></a></h3>
+<span style="font-weight: bold;"><!--@@@@@-->7.<span style="color: #9c8c00;"><!--@@@@@-->コルツ・センター</span>を離れろ</span>
+<br>
+<ul><li>N.O.O.S.E.が駆けつけるカットシーンの後、<span style="font-weight: bold;"><!--@@@@@-->手配度☆4</span>（邸宅に警備員アップグレードが施されている場合は<span style="font-weight: bold;"><!--@@@@@-->手配度☆3</span>）の状態で警官達の視界に入らないように逃げる。<ul><li><span style="font-weight: bold;"><!--@@@@@-->N.O.O.S.E.隊員は無限湧き。</span>倒しても一定時間で同じ場所に再出現するようになっている。</li>
+<li>バグかは不明だが、発見されていないにもかかわらず「警官に気づかれた」と表示されることがある。</li></ul></li>
+<li>展示室地下1階から外に出た場合、<span style="font-weight: bold;"><!--@@@@@-->目の前にいる警備員をスタンガンで倒すと高確率で上の階の警備員に気付かれてしまう。</span>サプレッサー付きの銃でヘッドショット、もしくは銃殴りであれば気付かれることがないので非殺傷プレイをしている場合は銃殴りで倒そう。</li>
+<li>個人車両はコルツ・センターから少し離れると遥か遠方に再配置され、アクションメニューから呼び出せるようになる。準備画面で<a href="//w.atwiki.jp/gtav/pages/1831.html" title="Vigilante (440d)">ヴィジランテ</a>や<a href="//w.atwiki.jp/gtav/pages/2064.html" title="Kuruma (Armored) (226d)">装甲クルマ</a>といった高機動・防弾性に優れる乗り物を選択すると被弾を抑えられる。ただし、ヴィジランテはその速度性能と引き換えに<span style="font-weight: bold;"><!--@@@@@-->非常に横転しやすい</span>のでコーナリングは慎重に。</li>
+<li>逃走用の乗り物は、<span style="font-weight: bold;"><!--@@@@@-->マンチェスは展示室地下1階の出入口のすぐ横、カラカラ(装甲)はコルツ・センター駐車場、アナイアレイターステルスはベル・ビル屋上</span>に配置されている。<ul><li>カラカラ(装甲)の配置場所はN.O.O.S.E.に包囲されており、さらに<span style="font-weight: bold;"><!--@@@@@-->コルツ・センター敷地内で乗り物に乗った時点で発覚する仕様のせいで完全ステルスで敷地から脱出することは実質的に不可能である。</span><span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_57" id="footnote_body_57" title="仮に周囲のN.O.O.S.E.を隠密に排除しても、乗り込んだ時点で強制的に発覚する模様">*57</a><span class="hidden">)</span></span>そのため、攻撃的なアプローチでプレイする場合を除いてカラカラ(装甲)の使用は極力控えた方が賢明。</li>
+<li>マンチェスは2人乗りなので3人以上でプレイするなら最低でも2台は必要になるが、もし<span style="font-weight: bold;"><!--@@@@@-->参加人数が3人以上なのに1台しか調達してなかった場合、</span><span style="color: red;"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@-->残ったプレイヤーは全員コルツ・センターへ置き去りにする羽目になってしまう。</span></span>加えて敷地内なので個人車両は要請できず、この場合残されたプレイヤーは徒歩で山を下った後に周辺のパトカーや野良車を調達せざるを得なくなり、非常に手間をかけさせる羽目になる。<ul><li>もし参加したセッションでこのような場面に出くわした場合は、コルツ・センター東の道路に駆け降りて個人車両を要請すればロスを最小限に抑えられる。</li></ul></li></ul></li></ul>
+<span style="font-weight: bold;"><!--@@@@@-->8.<span style="color: #1d8f00;"><!--@@@@@-->主要ターゲット</span>を<span style="color: #9c8c00;"><!--@@@@@-->倉庫</span>に届けろ・警察の追跡を振り切れ</span>
+<br>
+<ul><li>コルツ・センターからある程度離れると手配が消せるようになる。コルツ・センター内でも手配度の星は点滅するが、手配度が消えることはない模様。</li>
+<li>陸路で逃げる場合、リッチマン・ヴィラやミゲル・マドラッゾの家の前に広がる山地に逃げ込めばヘリを躱すだけで楽に手配度を消すことが出来る。警察からの被弾も大きく減らせるため、エリートチャレンジを狙う場合にも有効。<ul><li><span style="font-weight: bold;"><!--@@@@@-->必ずしも逃走用の乗り物を使う必要はなく</span>、その辺の一般車を強奪したり個人車両に乗り換えてもいい。ただし一般車に防弾タイヤは非装着なので被弾によるパンクには注意。</li>
+<li>攻撃的な手段を用いて逃走時点で既に発覚している場合、マンチェスで逃走すると警察からの集中砲火を受けて死亡してしまうことも多い。そのため、調達したマンチェスは使わずに個人の装甲車両を使う方が選択肢としては安全となる。</li>
+<li>逃走時は、<a href="//w.atwiki.jp/gtav/pages/2181.html" title="Los Santos River (509d)">ロスサントス川</a>周辺の<span style="font-weight: bold;"><!--@@@@@-->地下に通じるトンネルは全てシャッターで封鎖されており</span>、地下に逃げて手配度を消すという行為は一切できなくなっている。</li></ul></li>
+<li>逃走用の乗り物にステルスアナイアレイターを選択した場合、屋上に待機している機体に乗り込んで逃げる事になる。<ul><li>高性能アビオニクスを購入済の場合、アナイアレイターステルスに乗るまで未発覚状態を維持できていたのであれば、この時点で<span style="font-weight: bold;"><!--@@@@@-->完全ステルスクリア確定</span>になる。</li>
+<li>発覚している場合は、逃走中に警察ヘリからの攻撃を受けることになるため銃撃で一機ずつ落としていこう。</li>
+<li>警察の手配度は倉庫周辺にたどり着いた段階で自動的に消えるため自力で警察を巻く必要はない。ヘリが倉庫近くの駐車場でホバリングし始めたら、ラペリングで降下して買い手に届ける。<ul><li>...なのだが、<span style="font-weight: bold;"><!--@@@@@-->ホバリングせずに車輪を出さないまま勢いよく着陸してその衝撃で機体が浮き上がり、最悪ひっくり返ってそのままヘリが爆発して事故死してしまうというバグが確認されている。</span>こうなったらせめて爆発したりローターに切り刻まれないように祈るしかない。</li></ul></li></ul></li>
+<li>手配度が消えた後でも一般NPCを轢いたり殺したりすると再度手配度が付くため、目的地までは可能な限り安全運転で向かおう。</li>
+<li>Pモスの乗ったアナイアレイターステルスを撃ち落としたり、アレックを轢き殺したり爆殺すると当然ミッション失敗になるので絶対にしないように。</li></ul>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h3 id="id_e7678358">報酬<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-10" rel="nofollow"></a></h3>
+<ul><li>フィナーレでホスト（リーダー）が受け取れる報酬は<br>主要ターゲットの入手額（主要ターゲットをキープした場合は$0）+<br>その他の略奪品の入手総額を参加人数で割った額+<br>買い手のリクエストボーナス（$50,000。ハードの場合は$100,000）+<br>エリートチャレンジ（$50,000。ハードの場合は$100,000）+<br>調達したが使用しなかった逃走用の乗り物の支払い（アナイアレイターステルスとカラカラ(装甲)の場合、1台につき$10,000。マンチェスの場合、1台につき$2,500)<br>の合計額が手に入る。</li></ul>
+<br>
+<ul><li>フィナーレでメンバーが受け取れる報酬は<br>売却・キープは関係なく基本報酬$100,000（ハードの場合は$200,000）+<br>その他の略奪品の入手総額を参加人数で割った額+<br>買い手のリクエストボーナス（$50,000。ハードの場合は$100,000）+<br>エリートチャレンジ（$50,000。ハードの場合は$100,000）+<br>調達したが使用しなかった逃走用の乗り物の支払い（アナイアレイターステルスとカラカラ(装甲)の場合、1台につき$10,000。マンチェスの場合、1台につき$2,500)<br>の合計額が手に入る。</li></ul>
+<br>
+<h4 id="id_422ee701">アワード<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-10-21" rel="nofollow"></a></h4>
+「コルツ・センター強盗」のアワードの中から達成報酬つきのものを抜粋。
+<br>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">名称</td>
+		<!--0-1--><td style="background-color:#ff5959;">内容</td>
+		<!--0-2--><td style="background-color:#ff5959;">報酬</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">コルツ・センター強盗</td>
+		<!--1-1--><td style="">フィナーレを初回クリア</td>
+		<!--1-2--><td style="">$200,000</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">最高傑作</td>
+		<!--2-1--><td style="">エリートチャレンジをクリア</td>
+		<!--2-2--><td style="">$200,000</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">全身全霊</td>
+		<!--3-1--><td style="">難易度ハードを命を落とさずにクリア</td>
+		<!--3-2--><td style="">$200,000</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">一人仕事</td>
+		<!--4-1--><td style="">1人でクリア</td>
+		<!--4-2--><td style="">$100,000</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">チームプレイヤー</td>
+		<!--5-1--><td style="">4人でクリア</td>
+		<!--5-2--><td style="">$100,000</td></tr>
+</tbody></table>
+<br>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<h3 id="id_1a9004dd">クリア後<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-11" rel="nofollow"></a></h3>
+フィナーレクリア後は、<span style="font-weight: bold;"><!--@@@@@-->10分</span>が経過すると、再びコルツ・センター強盗を開始できるようになる。
+<br>
+クールダウンの経過は強盗の結果表示時点から開始され、ゲームを起動していない間もカウントされる。
+<br>
+また、<span style="font-weight: bold;"><!--@@@@@-->フィナーレクリア後から48分以内</span>にコルツ・センター強盗を再受注すると<span style="font-weight: bold;"><!--@@@@@-->ハードモード</span>（報酬1.1倍）になる。
+<br>
+<br>
+2周目以降は、開始時に準備金$100,000の支払いが必要となる。
+<br>
+<div><img class="atwiki_plugin_image" loading="lazy" width="745" height="1" style="aspect-ratio: 745/1;" src="//img.atwiki.jp/gtav/pub/img/h2/line.png"></div>
+<br>
+<br>
+<h3 id="id_fc636b61">エリートチャレンジ<a class="atwiki-hedit" title="部分編集" href="/gtav/pedit/3237/5-12" rel="nofollow"></a></h3>
+<table>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="background-color:#ff5959;">チャレンジ名</td>
+		<!--0-1--><td style="background-color:#ff5959;">備考</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">クリア時間17:00以内</td>
+		<!--1-1--><td style="">手際よくこなせたとしても15分程度はかかるためあまり余裕はない。</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">損失の限界</td>
+		<!--2-1--><td style="">被ダメージにより失われた金額のこと。$75,000以上損失すると失敗。</td></tr>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">平均精度</td>
+		<!--3-1--><td style="">銃の命中率のこと。90%以上で達成。<br>2人以上の場合は、メンバー全員の精度を平均した数値が算出される。 そのため仮に1人のメンバーが90%以上を達成しても、他メンバーの精度があまりにも低いと未達成となる模様。</td></tr>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">買い手のリクエストリスト</td>
+		<!--4-1--><td style="">買い手がリクエストした展示品を全て盗む。<span class="link_atwiki_footnote"><span class="hidden">(</span><a href="#footnote_foot_58" id="footnote_body_58" title="2～3種類">*58</a><span class="hidden">)</span></span><br>ソロプレイだと、プレイヤーが2人いないと開かない2階のシャッター部屋の中にリクエスト品がある場合は、<span style="font-weight: bold;"><!--@@@@@-->実質的にチャレンジの達成は不可能</span>になる。</td></tr>
+</tbody></table>
+<br>
+
+<table class="atwiki_plugin_region" style="margin:0;padding:0;border:none;background-color:transparent;">
+    <tbody>
+    <tr style="background-color:transparent;margin:0;padding:0;border:none;">
+        <td class="atwiki_plugin_region_button" style="background-color:transparent;margin:0;border:none;padding:0;vertical-align:top;text-align:center;cursor:pointer;">
+            <span style="display:block;margin:0;padding:0;width:20px;height:20px;line-height:20px;border:1px solid;">+</span>
+        </td>
+        <td style="display:block;padding:0 0 0 3px;border:none;background-color:transparent;"><!--@@@@@-->エリートチャレンジの参考動画</td>
+        <td style="display:none;text-align:left;vertical-align:top;margin:0;padding:0 0 0 3px;border:none;background-color:transparent;">
+
+<ul><li>ソロプレイ、難易度ノーマル、ステルス未発覚(搬入口潜入～アナイアレイターステルス脱出)</li></ul>
+<div class="plugin_video plugin_youtube plugin_u2b"><iframe loading="lazy" src="https://www.youtube.com/embed/oY_B7I3IC2c?controls=1&amp;rel=0" frameborder="0" width="640" height="360" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe></div>
+<br>
+<ul><li>ソロプレイ、難易度ハード、ステルス未発覚(搬入口潜入～アナイアレイターステルス脱出)</li></ul>
+<div class="plugin_video plugin_youtube plugin_u2b"><iframe loading="lazy" src="https://www.youtube.com/embed/GN_f4UT4s0k?controls=1&amp;rel=0" frameborder="0" width="640" height="360" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-ruffle-polyfilled=""></iframe></div>
+<br>
+<br>
+
+</td></tr></tbody></table>
+
+<br>
+<br>
+
+<div class="plugin_include" data-pageid="986" data-hedit="0"><!--@@@@@--><span style="font-weight: bold;"><!--@@@@@--><span style="font-size: small"><a href="//w.atwiki.jp/gtavi_gta6/" target="_blank"><span style="color: #ff00ff;">GTAVI(GTA6)の情報・攻略wiki</span>随時情報更新中！</a></span></span>
+<br>
+※アフィリエイト広告を利用しています。
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B0H9XJ3V8K?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/81i0zyo7xDL._SL160_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B0H9XJ3V8K?tag=gtav003-22" target="_blank">Amazon【PS5】グランド・セフト・オートVI(コードインボックス版、配送日：2026年11月12日、プレイ開始日：2026年11月19日)</a></div>
+<div class="amaquick-detail">テイクツー・インタラクティブ・ジャパン</div>
+<div class="amaquick-description"><a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BB%25E3%2582%25BB%25E3%2583%2595%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2588VI%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BB%25E3%2582%25BB%25E3%2583%2595%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2588VI%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=892664822&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BB%25E3%2582%25BB%25E3%2583%2595%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2588VI" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;"></div>
+</div>
+
+
+<br>
+
+
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/4bN6ZEy" rel="nofollow">Amazon Kindle Unlimited <span style="color: #F54738;">500万冊読み放題 1ヶ月無料体験</span></a></span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->Amazon Kindle Unlimited <span style="color: #F54738;"><!--@@@@@-->500万冊読み放題 1ヶ月無料体験</span>→ttps://amzn.to/4bN6ZEy</span>
+<br>
+
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/3OtPIuu" rel="nofollow">Amazon Music Unlimited <span style="color: #F54738;">1億曲以上聴き放題 最初の30日間無料体験</span></a></span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->Amazon Music Unlimited <span style="color: #F54738;"><!--@@@@@-->1億曲以上聴き放題 最初の30日間無料体験</span>→ttps://amzn.to/3OtPIuu</span>
+<br>
+
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@--></span><a href="https://amzn.to/4sLTgqn" rel="nofollow"><span style="font-weight: bold;">Amazon人気の商品が日替わりで登場。<span style="color: #F54738;"><span style="font-weight: bold;">毎日お得なタイムセール</span></span></span></a>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->Amazon人気の商品が日替わりで登場。<span style="color: #F54738;"><!--@@@@@-->毎日お得なタイムセール</span>→ttps://amzn.to/4sLTgqn</span>
+<br>
+<br>
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/4n6N1ei" rel="nofollow">Amazon Appleストア <span style="color: #F54738;">iPhone・Apple watch・AirPods等販売中</span> </a></span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->Amazon Appleストア <span style="color: #F54738;"><!--@@@@@-->iPhone・Apple watch・AirPods等販売中</span>→ttps://amzn.to/4n6N1ei</span>
+<br>
+<br>
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/3Tm25Hw" rel="nofollow">アマゾンファッション <span style="color: #F54738;">最大30日間返品可能、返品・返送料も0円</span> </a></span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->アマゾンファッション <span style="color: #F54738;"><!--@@@@@-->最大30日間返品可能、返品・返送料も0円</span> &gt;ttps://amzn.to/3Tm25Hw</span>
+<br>
+<br>
+
+
+
+
+
+
+
+
+<div><a href="https://amzn.to/3ZAa4TE"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/986/11397/t/XCM_Manual_1547007_5457636_468x60_2X.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/986/11397/m/XCM_Manual_1547007_5457636_468x60_2X.jpg"><img class="atwiki_plugin_image" loading="lazy" width="468" height="60" style="aspect-ratio: 468/60;" src="//img.atwiki.jp/gtav/attach/986/11397/XCM_Manual_1547007_5457636_468x60_2X.jpg"></picture></a></div><span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/3ZVEuOK" rel="nofollow">Amazon限定 日用品・食品・飲料 <span style="color: #F54738;">毎日タイムセール開催中</span></a></span>
+<br>
+<span style="font-weight: bold;"><!--@@@@@-->Amazon限定 日用品・食品・飲料 <span style="color: #F54738;"><!--@@@@@-->毎日タイムセール開催中</span>→ttps://amzn.to/3ZVEuOK</span>
+<br>
+
+<a rel="noopener sponsored" href="https://www.dlsite.com/home/dlaf/=/aid/gtav003/url/https%3A%2F%2Fwww.dlsite.com%2Fhome%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dbn_pc_468_60_dojin_01.gif" target="_blank"><img src="https://www.dlsite.com/img/male/dojin/bn_pc_468_60_dojin_01.gif" alt="同人誌、同人ゲーム、同人ソフトのダウンロードショップ - DLsite" width="468" height="60" border="0"></a>
+
+<br>
+<br>
+
+<a href="https://affiliate.suruga-ya.jp/modules/af/af_jump.php?user_id=5122&amp;goods_url=https%3A%2F%2Fwww.suruga-ya.jp%2F" rel="nofollow"><img src="https://www.suruga-ya.jp/pics/affiliate/banner2022/top/affi_top_smp320_50.jpg" width="320" height="50" alt="駿河屋" title="駿河屋"></a>
+
+<br>
+<br>
+<div><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fpremium.dmm.com%2Fwelcome%2F&amp;af_id=gtav003-001&amp;ch=link_tool&amp;ch_id=link"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/986/11850/t/640_200.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/986/11850/m/640_200.jpg"><img class="atwiki_plugin_image" loading="lazy" width="468" height="146" style="aspect-ratio: 468/146;" src="//img.atwiki.jp/gtav/attach/986/11850/640_200.jpg"></picture></a></div>
+<br>
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/3EVCoXc" rel="nofollow">Amazon Kindle電子書籍ストア <span style="color: #F54738;">セール・ポイント還元開催中</span></a></span>
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B0C64XBSTX/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51Ciz5+t-VL._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B0C64XBSTX/?tag=gtav003-22" target="_blank">Red
+Bull 【Amazon.co.jp限定】レッドブル エナジードリンク 250mlx24本</a></div>
+<div class="amaquick-detail">Red Bull(レッドブル)エナジードリンク 250mlx24本</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B0C64XBSTX/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AB%20%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AB%20%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AB%20%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B0B6C3KDWP/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51rI3JoBdKL._SL500_._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B0B6C3KDWP/?tag=gtav003-22" target="_blank">【Amazon.co.jp 限定】アサヒ飲料 モンスターエナジー 355ml×12本 [エナジードリンク]</a></div>
+<div class="amaquick-detail">アサヒ飲料 モンスターエナジー 355ml×12本</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B0B6C3KDWP/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%20%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%20%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%20%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B00W6W565E/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41RtuJeMHZL._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B00W6W565E/?tag=gtav003-22" target="_blank">『GTAオンライン』メガロドンシャーク マネーカード (GTA$ 10,000,000) 【Windows版】
+[オンラインコード]</a></div>
+<div class="amaquick-detail">Rockstar Games メガロドンシャーク マネーカード</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B00W6W565E/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGTA%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%20%25E3%2583%25A1%25E3%2582%25AC%25E3%2583%25AD%25E3%2583%2589%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25AF%2520%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGTA%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%20%25E3%2583%25A1%25E3%2582%25AC%25E3%2583%25AD%25E3%2583%2589%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25AF%2520%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DGTA%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%20%25E3%2583%25A1%25E3%2582%25AC%25E3%2583%25AD%25E3%2583%2589%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25AF%2520%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B08M69WPHZ/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/4181WFBHbfL._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B08M69WPHZ/?tag=gtav003-22" target="_blank">プレイステーション ストアチケット 5,000円|オンラインコード版</a></div>
+<div class="amaquick-detail">ソニー・インタラクティブエンタテインメント プレイステーション ストアチケット
+5,000円</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B08M69WPHZ/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%20%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2581%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%20%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2581%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%20%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2581%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B0CKYM15RJ/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/31QZ1TqB6-L._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B0CKYM15RJ/?tag=gtav003-22" target="_blank">PlayStation 5(CFI-2000A01)</a></div>
+<div class="amaquick-detail">ソニー・インタラクティブエンタテインメント PlayStation
+5(CFI-2000A01)</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B0CKYM15RJ/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPlayStation%205(CFI-2000A01)%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPlayStation%205(CFI-2000A01)%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DPlayStation%205(CFI-2000A01)" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+
+
+<div class="AmaQuick-box" style="margin-bottom:0">
+<div class="AmaQuick-image" style="float:left;margin:0 12px 1px 0"><a href="https://www.amazon.co.jp/dp/B0FQFQDN6K/?tag=gtav003-22" name="AmaQuick-link" rel="nofollow" target="_blank" id="AmaQuick-link"><img src="https://m.media-amazon.com/images/I/31LOtLrQydL._SL75_.jpg" alt="Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電" style="border:none"></a></div>
+<div class="AmaQuick-info" style="line-height:120%;margin-bottom:10px">
+<div class="AmaQuick-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/dp/B0FQFQDN6K/?tag=gtav003-22" name="AmaQuick-link" rel="nofollow" target="_blank" id="AmaQuick-link">Apple AirPods Pro 3
+ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ
+サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電</a>
+<div class="AmaQuick-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="https://www.amazon.co.jp/dp/B0FQFQDN6K/?tag=gtav003-22" title="Apple AirPods Pro 3 ワイヤレスイヤホン、アクティブノイズキャンセリング、心拍センサー、補聴機能、Bluetoothヘッドホン、空間オーディオ サウンド、USB-C充電ケース、防塵性能と耐汗耐水性能、「探す」対応、Qi充電 - AmaQuick" rel="nofollow" target="_blank">AmaQuick</a> at 2025.09.19</div>
+</div>
+<div class="AmaQuick-detail">Apple(アップル)<br></div>
+<div class="AmaQuick-rating_img">レビューはありません<br></div>
+<div class="AmaQuick-sub-info" style="float:left">
+<div class="AmaQuick-link-amazon" style="margin-top:10px"><a href="https://www.amazon.co.jp/dp/B0FQFQDN6K/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<div class="AmaQuick-link-rakuten-and-yahoo" style="margin-top:10px"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=892091603&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DApple%20AirPods%2520Pro%25203" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Yahoo!ショッピング</a> | <a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%20AirPods%2520Pro%25203%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%20AirPods%2520Pro%25203%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">楽天</a></div>
+</div>
+</div>
+<div class="AmaQuick-footer" style="clear:left"></div>
+</div>
+<br>
+
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B09998HHSG/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/31Lgw7g66xL._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B09998HHSG/?tag=gtav003-22" target="_blank">ニンテンドープリペイド番号 5000円|オンラインコード版</a></div>
+<div class="amaquick-detail">任天堂 ニンテンドープリペイド番号 5000円</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B09998HHSG/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258B%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BC%20%25E3%2583%2597%25E3%2583%25AA%25E3%2583%259A%25E3%2582%25A4%25E3%2583%2589%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258B%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BC%20%25E3%2583%2597%25E3%2583%25AA%25E3%2583%259A%25E3%2582%25A4%25E3%2583%2589%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258B%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25BC%20%25E3%2583%2597%25E3%2583%25AA%25E3%2583%259A%25E3%2582%25A4%25E3%2583%2589" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+
+
+<div class="amaquick-box">
+<div class="amaquick-image"><a href="https://www.amazon.co.jp/dp/B0CHM87TB5/?tag=gtav003-22" target="_blank"><img src="https://m.media-amazon.com/images/I/31mSpwyLU9L._SL80_.jpg" style="border: none;"></a></div>
+<div class="amaquick-info">
+<div class="amaquick-name"><a href="https://www.amazon.co.jp/dp/B0CHM87TB5/?tag=gtav003-22" target="_blank">Xbox
+Game Pass Core 12ヶ月 オンラインコード版（旧Xbox Live Gold）</a></div>
+<div class="amaquick-detail">マイクロソフト Xbox Game Pass Core 12ヶ月</div>
+<div class="amaquick-description"></div>
+<a href="https://www.amazon.co.jp/dp/B0CHM87TB5/?tag=gtav003-22" name="AmaQuick-llink" rel="nofollow" target="_blank" id="AmaQuick-llink">Amazon.co.jpで詳細を見る</a></div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/3debd5f8.2b10f2e4.3debd5f9.10e92c76/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXbox%20Game%2520Pass%2520Core%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXbox%20Game%2520Pass%2520Core%2F%3Fs%3D2%26sf%3D1%26v%3D2&amp;link_type=text" target="_blank">楽天</a>｜<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3727397&amp;pid=890710040&amp;vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DXbox%20Game%2520Pass%2520Core" target="_blank">ヤフー</a></div>
+</div>
+<div class="amaquick-footer" style="clear: left;">
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/478Zd5T" rel="nofollow">Amazon <span style="color: #F54738;">Appleストア</span></a></span>
+<br>
+<br>
+
+
+<div><a href="https://hb.afl.rakuten.co.jp/hsc/3a7c30a8.355bec7a.30916c51.85f63be8/_RTLink68333?link_type=hybrid_url&amp;ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJoeWJyaWRfdXJsIiwiY29sIjoxLCJjYXQiOiIxIiwiYmFuIjoyMzc3ODk3LCJhbXAiOmZhbHNlfQ%3D%3D"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/986/11643/t/2377897-pcpict.png"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/986/11643/m/2377897-pcpict.png"><img class="atwiki_plugin_image" loading="lazy" width="468" height="60" style="aspect-ratio: 468/60;" src="//img.atwiki.jp/gtav/attach/986/11643/2377897-pcpict.png"></picture></a></div><span style="font-weight: bold;"><!--@@@@@--></span><a href="https://hb.afl.rakuten.co.jp/hsc/3a7c3080.1d5375eb.30916c51.85f63be8/_RTLink68333?link_type=hybrid_url&amp;ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJoeWJyaWRfdXJsIiwiY29sIjoxLCJjYXQiOiIxIiwiYmFuIjoyMzc3ODkzLCJhbXAiOmZhbHNlfQ%3D%3D" rel="nofollow"><span style="font-weight: bold;">楽天モバイル <span style="color: #F54738;">3GBまで月980円(税別) データ無制限月2980円(税別)</span></span></a>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@--></span><a href="https://amzn.to/3P8O2k3" rel="nofollow"><span style="font-weight: bold;">Amazon Kindle本 <span style="color: #F54738;">セール＆キャンペーン</span></span></a>
+<br>
+<br>
+<span style="font-weight: bold;"><!--@@@@@--><a href="https://amzn.to/3Y25M5p" rel="nofollow">Amazon プライム会員(<span style="color: #F54738;">30日間無料体験</span>)</a></span>
+<br>
+<br>
+
+
+<br>
+<span style="font-weight: bold;"><!--@@@@@--></span><a href="https://amzn.to/3ozDe71" rel="nofollow"><span style="font-weight: bold;">Amazon ヤスイイね <span style="color: #F54738;"><span style="font-weight: bold;">日用品・食品 お得なクーポン・タイムセールほか</span></span></span></a>
+<br>
+<div><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fcomic%2F&amp;af_id=gtav003-001&amp;ch=link_tool&amp;ch_id=link"><picture><source media="(max-width: 320px)" srcset="https://img.atwiki.jp/gtav/attach/986/11671/t/728_90.jpg"><source media="(max-width: 480px)" srcset="https://img.atwiki.jp/gtav/attach/986/11671/m/728_90.jpg"><img class="atwiki_plugin_image" loading="lazy" width="468" height="57" style="aspect-ratio: 468/57;" src="//img.atwiki.jp/gtav/attach/986/11671/728_90.jpg"></picture></a></div>
+<br>
+
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3T6DAZ+B89CJ6+3250+6B70H" rel="nofollow"><img border="0" width="468" height="60" alt="" src="https://www24.a8.net/svt/bgt?aid=230404571679&amp;wid=001&amp;eno=01&amp;mid=s00000014274001060000&amp;mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3T6DAZ+B89CJ6+3250+6B70H" alt="">
+
+<br>
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3T6DAZ+B89CJ6+3250+6MC8Y" rel="nofollow">無料トライアル実施中！＜U-NEXT＞</a> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=3T6DAZ+B89CJ6+3250+6MC8Y" alt="">
+
+<span style="font-size:8px;"><!--@@@@@-->※U-NEXT広告について</span>
+<br>
+<span style="font-size:8px;"><!--@@@@@-->本ページの情報は2023年4月時点のものです。</span>
+<br>
+<span style="font-size:8px;"><!--@@@@@-->最新の配信状況はU-NEXTサイトにてご確認ください。</span><br></div>
+<div class="atwiki-page-keyword">
+    <a href="//w.atwiki.jp/gtav/search?andor=and&amp;keyword=The+Kortz+Center+Heist" rel="nofollow">「The Kortz Center Heist」をウィキ内検索</a>
+</div>
+<div class="atwiki-lastmodify">最終更新：2026年07月31日 17:26</div>
+            </div>
+            <div id="ads">
+                <div class="contents_ads bottom_space top_space">
+                <!-- __dfp_div-gpt-ad-atwiki_300_250_left_bottom_ad-300-250 -->
+            <div class="atwiki_ads_lazy" id="div-gpt-ad-atwiki_300_250_left_bottom_ad" style="min-width:300px;min-height:250px;">
+            <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-atwiki_300_250_left_bottom_ad'); });
+            </script>
+            </div>
+                </div>
+                <div class="contents_ads">
+                <!-- __dfp_div-gpt-ad-atwiki_300_250_right_bottom_ad-300-250 -->
+            <div class="atwiki_ads_lazy" id="div-gpt-ad-atwiki_300_250_right_bottom_ad" style="min-width:300px;min-height:250px;">
+            <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-atwiki_300_250_right_bottom_ad'); });
+            </script>
+            </div>
+                </div>
+
+            </div>
+            <div id="body_footer" style="display: none !important;">
+                
+<div id="at_social_links2">
+
+<div class="twitter"><iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 1px; height: 1px;" title="X Post Button" src="https://platform.twitter.com/widgets/tweet_button.1227a5674072e080ffb1ba14ac0c1079.ja.html#dnt=false&amp;id=twitter-widget-1&amp;lang=ja&amp;original_referer=https%3A%2F%2Fw.atwiki.jp%2Fgtav%2Fpages%2F3237.html&amp;size=m&amp;text=Grand%20Theft%20Auto%20V(%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BB%E3%83%95%E3%83%88%E3%82%AA%E3%83%BC%E3%83%885)GTA5%20%26%20GTA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%20%E6%83%85%E5%A0%B1%E3%83%BB%E6%94%BB%E7%95%A5wiki%20-%20The%20Kortz%20Center%20Heist%20%23atwiki%20&amp;time=1785491959076&amp;type=share&amp;url=http%3A%2F%2Fw.atwiki.jp%2Fgtav%2Fpages%2F3237.html" data-url="http://w.atwiki.jp/gtav/pages/3237.html"></iframe></div>
+<div class="hatena"><iframe class="hatena-bookmark-button-frame" title="このエントリーをはてなブックマークに追加" width="47" height="20" src="javascript:false" style="width: 47px; height: 20px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;"></iframe></div>
+</div><hr><p><strong>[Amazon商品]</strong></p><a href="https://www.amazon.co.jp/dp/B08M6B8JL1?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/41Ei2MfbbjL._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B0CKYM15RJ?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/31y1-auyQ7L._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B00W6W565E?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/41RtuJeMHZL._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B0FQFQDN6K?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/318ibisrl7L._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B08VSYPR26?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/51lXGdB4r3L._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B007V6MQJY?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/415xNhCDz6L._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B0BHJ276MN?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/41f-teZHDSL._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B08JYTDVY1?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/41ygjAhFdgL._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B0BBPSZ4VP?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/518ZEemAyDL._SL160_.jpg"></a><a href="https://www.amazon.co.jp/dp/B07Z4S81ZQ?tag=gtav003-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" rel="nofollow sponsored"><img loading="lazy" src="https://m.media-amazon.com/images/I/41JkT36EszL._SL160_.jpg"></a><br>
+            </div>
+            <div class="attach">  </div>
+            <div class="footnote"> <div id="note"><hr class="note_hr"><p><a id="footnote_foot_1" href="#footnote_body_1">*1</a> 偵察時に位置を記録していない略奪品は、強盗時にマップに表示されない</p><p><a id="footnote_foot_2" href="#footnote_body_2">*2</a> ナイトクラブの迷惑客をつまみ出す演出と同じ</p><p><a id="footnote_foot_3" href="#footnote_body_3">*3</a> 週ごとの初回クリア時の4倍ボーナスが含まれてる可能性あり。要検証</p><p><a id="footnote_foot_4" href="#footnote_body_4">*4</a> リクエスト品が絵画2点だった場合は、他の展示品を盗んだ時点で達成不可能になる</p><p><a id="footnote_foot_5" href="#footnote_body_5">*5</a> 難易度ハードの場合は、強盗をキャンセルするとノーマルに戻ってしまうのでハードのソロでエリートチャレンジがしたい場合は運が必要</p><p><a id="footnote_foot_6" href="#footnote_body_6">*6</a> 手間と人手はかかるが、前の強盗を複数人で挑んでシャッター部屋のサブターゲットのみを全て回収してしまえば、次の強盗ではシャッター部屋の中からは選ばれないという手もある</p><p><a id="footnote_foot_7" href="#footnote_body_7">*7</a> 表向きでは「調査のために持ち出された展示物」という扱いになってる模様</p><p><a id="footnote_foot_8" href="#footnote_body_8">*8</a> 鉱石など。ちなみに撮影してもラフに送信できない</p><p><a id="footnote_foot_9" href="#footnote_body_9">*9</a> 「貸し出し中」という意味</p><p><a id="footnote_foot_10" href="#footnote_body_10">*10</a> ただし、リクエストされた展示品を回収しきれなくなる場合があるので一応注意</p><p><a id="footnote_foot_11" href="#footnote_body_11">*11</a> 搬入口含む</p><p><a id="footnote_foot_12" href="#footnote_body_12">*12</a> 外から展示室に入る場合は、敷地内の全ての敵を倒しても爆破した時点で強制発覚する</p><p><a id="footnote_foot_13" href="#footnote_body_13">*13</a> 説明文では器材と記載されているが、ムービーではどう見ても器材を一切使わずに壁のボタンを押して停止している</p><p><a id="footnote_foot_14" href="#footnote_body_14">*14</a> 場所はランダム。ベスプッチ運河などのパターンもある</p><p><a id="footnote_foot_15" href="#footnote_body_15">*15</a> 手配度は発生していない</p><p><a id="footnote_foot_16" href="#footnote_body_16">*16</a> 現在地から一番近い店舗へナビゲートされるようになっている</p><p><a id="footnote_foot_17" href="#footnote_body_17">*17</a> 展示室1Fの横移動式カメラは除く</p><p><a id="footnote_foot_18" href="#footnote_body_18">*18</a> サプレッサー付き</p><p><a id="footnote_foot_19" href="#footnote_body_19">*19</a> フラッシュライト、サプレッサー付き</p><p><a id="footnote_foot_20" href="#footnote_body_20">*20</a> 邸宅の武器庫を所有している場合</p><p><a id="footnote_foot_21" href="#footnote_body_21">*21</a> フラッシュライト、サプレッサー付き。地下基地を所有している場合は通常弾に代わりフレシェット弾が付く</p><p><a id="footnote_foot_22" href="#footnote_body_22">*22</a> 一切キルすることなく「コルツ・センター強盗」をクリア</p><p><a id="footnote_foot_23" href="#footnote_body_23">*23</a> フラッシュライト、サプレッサー付き</p><p><a id="footnote_foot_24" href="#footnote_body_24">*24</a> サプレッサー付き</p><p><a id="footnote_foot_25" href="#footnote_body_25">*25</a> サプレッサー付き</p><p><a id="footnote_foot_26" href="#footnote_body_26">*26</a> 邸宅の武器庫を所有している場合</p><p><a id="footnote_foot_27" href="#footnote_body_27">*27</a> グリップ、サプレッサー、フラッシュライト、ホロサイト、ヘビーバレル付き。プレイヤーが地下基地を所有している場合は通常弾に代わり徹甲弾が付く</p><p><a id="footnote_foot_28" href="#footnote_body_28">*28</a> ブルパップライフルだろうが徹甲弾付きのマークルマンライフルMk2だろうが、ヘルメット付きの警備員に対しては問答無用でヘッドショットが無効化される</p><p><a id="footnote_foot_29" href="#footnote_body_29">*29</a> フラッシュライト、サプレッサー付き</p><p><a id="footnote_foot_30" href="#footnote_body_30">*30</a> サプレッサー付き</p><p><a id="footnote_foot_31" href="#footnote_body_31">*31</a> サプレッサー付き</p><p><a id="footnote_foot_32" href="#footnote_body_32">*32</a> 邸宅の武器庫を所有している場合</p><p><a id="footnote_foot_33" href="#footnote_body_33">*33</a> サプレッサー、ヘビーバレル、高性能スコープ付き。地下基地を所有している場合は拡張マガジンが追加され、高性能スコープに代わりサーマルスコープが付く</p><p><a id="footnote_foot_34" href="#footnote_body_34">*34</a> PCエンハンスト版で確認</p><p><a id="footnote_foot_35" href="#footnote_body_35">*35</a> サポートクルーによる有料オプション「偵察ドローン」というのが本強盗の「警備ルート」に相当するが、「偵察ドローン」がなくてもカヨ・ペリコ強盗の敵はミニマップで位置を把握しやすいため、ほぼ使われない。</p><p><a id="footnote_foot_36" href="#footnote_body_36">*36</a> 初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく</p><p><a id="footnote_foot_37" href="#footnote_body_37">*37</a> 初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく</p><p><a id="footnote_foot_38" href="#footnote_body_38">*38</a> 初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく</p><p><a id="footnote_foot_39" href="#footnote_body_39">*39</a> 屋外に設置されたカメラ除く</p><p><a id="footnote_foot_40" href="#footnote_body_40">*40</a> 銃を構えたまま棒立ちになる</p><p><a id="footnote_foot_41" href="#footnote_body_41">*41</a> フラッシュライトを照らしながら移動するため、警備員に気づかれやすくなるので注意</p><p><a id="footnote_foot_42" href="#footnote_body_42">*42</a> 初期のスキップ必要資金は$70,000であるが、他の調達ミッションでもスキップを重ねていくと$100,000→$150,000→$200,000と必要資金が上がっていく</p><p><a id="footnote_foot_43" href="#footnote_body_43">*43</a> パーネル・モス</p><p><a id="footnote_foot_44" href="#footnote_body_44">*44</a> 金庫室キーパッドを購入している場合のみ</p><p><a id="footnote_foot_45" href="#footnote_body_45">*45</a> ただし、発覚=ミッション失敗だったEMP配達と違い、本ミッションは発覚後もミッションを継続することが可能である</p><p><a id="footnote_foot_46" href="#footnote_body_46">*46</a> 発見されていないにもかかわらず「警官に気づかれた」と表示されるのは恐らくこれが原因</p><p><a id="footnote_foot_47" href="#footnote_body_47">*47</a> 「隠密行動」と「大ペテン師」ルートのみ</p><p><a id="footnote_foot_48" href="#footnote_body_48">*48</a> 加えて損失量を一定数以下に抑える事も達成条件となっている</p><p><a id="footnote_foot_49" href="#footnote_body_49">*49</a> 迷わずに最速でゴールに到達した時点で約1～2割程度の小ダメージ</p><p><a id="footnote_foot_50" href="#footnote_body_50">*50</a> プレイヤーの周囲にハエが集るようになる</p><p><a id="footnote_foot_51" href="#footnote_body_51">*51</a> 防護服無しで下水道から侵入、かつ発覚無しでクリア</p><p><a id="footnote_foot_52" href="#footnote_body_52">*52</a> 展示室地下1階はマンチェス、展示室2階はアナイアレイターステルス</p><p><a id="footnote_foot_53" href="#footnote_body_53">*53</a> サーマルチャージ型</p><p><a id="footnote_foot_54" href="#footnote_body_54">*54</a> 一人称視点だと小走り並みのスピードで移動できる。レーザーのスピードが速い難易度ハードだと一人称視点の方が有利</p><p><a id="footnote_foot_55" href="#footnote_body_55">*55</a> センサー妨害ありで主要ターゲットと絵画2枚を手に入れた時点で残り20秒程度の猶予しかない</p><p><a id="footnote_foot_56" href="#footnote_body_56">*56</a> 目のアイコン</p><p><a id="footnote_foot_57" href="#footnote_body_57">*57</a> 仮に周囲のN.O.O.S.E.を隠密に排除しても、乗り込んだ時点で強制的に発覚する模様</p><p><a id="footnote_foot_58" href="#footnote_body_58">*58</a> 2～3種類</p></div> </div>
+            <hr>
+            <div id="menuarea"><a href="//w.atwiki.jp/gtav/editx/3237.html" title="EditThisPage">EditThisPage</a></div>
+        </div>
