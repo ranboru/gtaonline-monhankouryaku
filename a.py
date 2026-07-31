@@ -1,10 +1,10 @@
 import re
 
-def atwiki_to_html(atwiki_text, title="Wiki記事"):
+def atwiki_to_html(atwiki_text, title="コルツ・センター強盗"):
     lines = atwiki_text.splitlines()
     html_lines = []
     
-    # 基本的なHTMLのヘッダー
+    # HTMLヘッダー
     html_lines.append(f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -16,7 +16,6 @@ def atwiki_to_html(atwiki_text, title="Wiki記事"):
         html {{ scroll-behavior: smooth; }}
         .wiki-content-area h2 {{ font-size: 1.5rem; font-weight: bold; margin-top: 2rem; margin-bottom: 0.75rem; border-bottom: 2px solid #e5e7eb; padding-bottom: 0.25rem; color: #1e1b4b; }}
         .wiki-content-area h3 {{ font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #312e81; }}
-        .wiki-content-area h4 {{ font-size: 1.1rem; font-weight: bold; margin-top: 1.25rem; margin-bottom: 0.5rem; color: #4338ca; }}
         .wiki-content-area ul {{ list-style-type: disc; margin-left: 1.5rem; margin-bottom: 1rem; }}
         .wiki-content-area p {{ margin-bottom: 0.75rem; line-height: 1.625; }}
     </style>
@@ -27,54 +26,88 @@ def atwiki_to_html(atwiki_text, title="Wiki記事"):
 """)
 
     in_list = False
+    in_region = False
 
     for line in lines:
         line_str = line.strip()
         
-        # 空行の処理
         if not line_str:
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
             continue
 
-        # 見出しの変換 (h2, h3, h4)
-        if line_str.startswith("@@") or line_str.startswith("*"):
+        # コメント行や特殊記法のスキップ
+        if line_str.startswith("//") or line_str.startswith("#contents"):
+            continue
+
+        # YouTubeプラグインの変換
+        yt_match = re.search(r'&youtube\((https://www\.youtube\.com/watch\?v=[\w-]+)\)', line_str)
+        if yt_match:
+            yt_url = yt_match.group(1).replace("watch?v=", "embed/")
+            html_lines.append(f'<div class="aspect-video mb-6 rounded-xl overflow-hidden shadow-lg border border-gray-200"><iframe class="w-full h-full" src="{yt_url}" frameborder="0" allowfullscreen></iframe></div>')
+            continue
+
+        # スライド画像や複数画像のプラグイン簡易処理
+        if line_str.startswith("#slide_img") or line_str.startswith("&image"):
+            continue # 画像タグはプレースホルダーまたはお好みでimgタグに変換可能！
+
+        # region（アコーディオン）の処理
+        if line_str.startswith("#region"):
+            region_title = line_str.replace("#region(", "").replace(")", "")
+            html_lines.append(f'<details class="bg-gray-50 border border-gray-300 rounded-lg p-4 mb-6"><summary class="font-bold text-gray-800 cursor-pointer hover:text-indigo-700">＋ {region_title}</summary><div class="mt-4 space-y-4 text-sm">')
+            in_region = True
+            continue
+        if line_str.startswith("#endregion"):
+            html_lines.append('</div></details>')
+            in_region = False
+            continue
+
+        # 見出しの変換
+        if line_str.startswith("*"):
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
-                
-            if line_str.startswith("***"):
-                heading_text = line_str.lstrip("*").strip()
-                html_lines.append(f'<h4 class="text-lg font-bold">{heading_text}</h4>')
-            elif line_str.startswith("**"):
-                heading_text = line_str.lstrip("*").strip()
-                html_lines.append(f'<h3 class="text-xl font-bold">{heading_text}</h3>')
-            elif line_str.startswith("*"):
-                heading_text = line_str.lstrip("*").strip()
-                html_lines.append(f'<h2 class="text-2xl font-bold">{heading_text}</h2>')
+            heading_text = line_str.lstrip("*").strip()
+            html_lines.append(f'<h2 class="text-2xl font-bold">{heading_text}</h2>')
             continue
 
-        # リスト構造の変換 (-)
+        # インライン装飾（bold, color, リンク等）の置換
+        formatted_line = line_str
+        # &bold(){...} -> <strong>
+        formatted_line = re.sub(r'&bold\(\)\{(.*?)\}', r'<strong class="text-indigo-900">\1</strong>', formatted_line)
+        formatted_line = re.sub(r'&bold\((.*?)\)', r'<strong class="text-indigo-900">\1</strong>', formatted_line) # 簡易
+        # &color(red){...} -> <span style="color:red;">
+        formatted_line = re.sub(r'&color\(([^)]+)\)\{(.*?)\}', r'<span style="color: \1; font-weight: bold;">\2</span>', formatted_line)
+        # [[リンク名>URL]] -> <a href="URL">リンク名</a>
+        formatted_line = re.sub(r'\[\[(.*?)>(.*?)\]\]', r'<a href="\2" class="text-indigo-600 underline" target="_blank">\1</a>', formatted_line)
+        formatted_line = re.sub(r'\[\[(.*?)\]\]', r'<span class="font-bold">\1</span>', formatted_line)
+        
+        # 改行タグの削除・置換
+        formatted_line = formatted_line.replace("&br()", "<br>")
+
+        # リスト構造 (-)
         if line_str.startswith("-"):
             if not in_list:
                 html_lines.append("<ul>")
                 in_list = True
-            item_text = line_str.lstrip("-").strip()
-            html_lines.append(f"    <li>{item_text}</li>")
+            html_lines.append(f"    <li>{formatted_line.lstrip('-').strip()}</li>")
             continue
 
-        # リスト以外の通常テキスト
+        # 通常の段落テキスト
         if in_list:
             html_lines.append("</ul>")
             in_list = False
         
-        html_lines.append(f"<p>{line_str}</p>")
+        html_lines.append(f"<p>{formatted_line}</p>")
 
     if in_list:
         html_lines.append("</ul>")
 
-    # HTMLのフッター
+    if in_region:
+        html_lines.append('</div></details>')
+
+    # HTMLフッター
     html_lines.append("""
     </div>
 </body>
@@ -83,9 +116,9 @@ def atwiki_to_html(atwiki_text, title="Wiki記事"):
 
     return "\n".join(html_lines)
 
-# --- 使用例 ---
+# --- テスト実行 ---
 if __name__ == "__main__":
-    sample_atwiki = """
+    raw_atwiki = """
 >*コルツ・センター強盗(The Kortz Center Heist)
 //#slide_img(width=745,height=419){KCH1.jpg,KCH2.jpg,KCH3.jpg,The Kortz Center Heist.jpg,The Kortz Center Heist (2).jpg}
 &youtube(https://www.youtube.com/watch?v=xbk_3p5lskI){745,420}
@@ -984,11 +1017,4 @@ if __name__ == "__main__":
 
 #include(pr2)
 """
-    
-    result_html = atwiki_to_html(sample_atwiki, title="コルツ・センター強盗")
-    
-    # ファイルに保存する場合
-    with open("output.html", "w", encoding="utf-8") as f:
-        f.write(result_html)
-    
-    print("✨ HTMLの変換が完了したよ！ 'output.html' を確認してね！")
+    print(atwiki_to_html(raw_atwiki))
